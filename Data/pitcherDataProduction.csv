@@ -1,0 +1,449 @@
+,IDfg,Name,Age,G,IP,WAR,name_last,name_first,key_bbref,key_fangraphs,mlb_played_first,2023,shortName,2024,SimplePosition
+0,16149,Aaron Nola,29,32,205.0,6.3,nola,aaron,nolaaa01,16149,2015.0,"$16,250,000 ",Philadelphia,FA,Starter
+1,16137,Carlos Rodon,29,31,178.0,6.2,rodón,carlos,rodonca01,16137,2015.0,"$22,833,333 ",NY Yankees,$27.833,Starter
+2,8700,Justin Verlander,39,28,175.0,6.0,verlander,justin,verlaju01,8700,2005.0,"$43,333,333 ",NY Mets,$43.333,Starter
+3,18684,Sandy Alcantara,26,32,228.2,5.8,alcántara,sandy,alcansa01,18684,2017.0,"$6,300,000 ",Miami,$9.300,Starter
+4,14107,Kevin Gausman,31,31,174.2,5.7,gausman,kevin,gausmke01,14107,2013.0,"$21,000,000 ",Toronto,$24.000,Starter
+5,19755,Shohei Ohtani,27,28,166.0,5.6,ohtani,shohei,ohtansh01,19755,2018.0,"$30,000,000 ",LA Angels,FA,Starter
+6,13743,Max Fried,28,30,185.1,5.0,fried,max,friedma01,13743,2017.0,"$13,500,000 ",Atlanta,A4,Starter
+7,27498,Spencer Strider,23,31,131.2,4.9,strider,spencer,stridsp01,27498,2021.0,"$1,000,000 ",Atlanta,$1.000,Starter
+8,19427,Shane Bieber,27,31,200.0,4.8,bieber,shane,biebesh01,19427,2018.0,"$10,010,000 ",Cleveland,A3,Starter
+9,19361,Corbin Burnes,27,33,202.0,4.6,burnes,corbin,burneco01,19361,2018.0,"$10,010,000 ",Milwaukee,A3,Starter
+10,17295,Framber Valdez,28,31,201.1,4.4,valdez,framber,valdefr01,17295,2018.0,"$6,800,000 ",Houston,A3,Starter
+11,18525,Dylan Cease,26,32,184.0,4.4,cease,dylan,ceasedy01,18525,2019.0,"$5,700,000 ",Chi White Sox,A2,Starter
+12,3137,Max Scherzer,37,23,145.1,4.4,scherzer,max,scherma01,3137,2008.0,"$43,333,333 ",NY Mets,$43.333,Starter
+13,17995,Logan Webb,25,32,192.1,4.2,webb,logan,webblo01,17995,2019.0,"$4,600,000 ",San Francisco,A2,Starter
+14,19291,Zac Gallen,26,31,184.0,4.2,gallen,zac,galleza01,19291,2019.0,"$5,600,000 ",Arizona,A2,Starter
+15,10310,Zack Wheeler,32,26,153.0,4.2,wheeler,zack,wheelza01,10310,2013.0,"$24,500,000 ",Philadelphia,$23.500,Starter
+16,26410,Alek Manoah,24,31,196.2,4.1,manoah,alek,manoaal01,26410,2021.0,"$745,650 ",Toronto,A1,Starter
+17,13074,Yu Darvish,35,30,194.2,4.1,darvish,yu,darviyu01,13074,2012.0,"$25,000,000 ",San Diego,$16.000,Starter
+18,12880,Tyler Anderson,32,30,178.2,4.0,anderson,tyler,anderty01,12880,2016.0,"$13,000,000 ",LA Angels,$13.000,Starter
+19,11423,Jose Quintana,33,32,165.2,4.0,quintana,josé,quintjo01,11423,2012.0,"$13,000,000 ",NY Mets,$13.000,Starter
+20,2036,Clayton Kershaw,34,22,126.1,3.8,kershaw,clayton,kershcl01,2036,2008.0,"$20,000,000 ",LA Dodgers,FA,Starter
+21,6562,Alex Cobb,34,28,149.2,3.7,cobb,alex,cobbal01,6562,2011.0,"$9,000,000 ",San Francisco,$2.000,Starter
+22,19447,Patrick Sandoval,25,27,148.2,3.7,sandoval,patrick,sandopa02,19447,2019.0,"$2,750,000 ",LA Angels,A2,Starter
+23,16162,Brandon Woodruff,29,27,153.1,3.6,woodruff,brandon,woodrbr01,16162,2017.0,"$10,800,000 ",Milwaukee,A4,Starter
+24,17874,Nestor Cortes,27,28,158.1,3.6,cortés,néstor,cortene01,17874,2018.0,"$3,200,000 ",NY Yankees,A2,Starter
+25,13543,Blake Snell,29,24,128.0,3.6,snell,blake,snellbl01,13543,2016.0,"$16,600,000 ",San Diego,FA,Starter
+26,21483,Shane McClanahan,25,28,166.1,3.5,mcclanahan,shane,mcclash01,21483,2021.0,"$737,000 ",Tampa Bay,A1,Starter
+27,18000,Triston McKenzie,24,31,191.1,3.4,mckenzie,triston,mckentr01,18000,2020.0,"$739,500 ",Cleveland,A1,Starter
+28,12970,Joe Musgrove,29,30,181.0,3.4,musgrove,joe,musgrjo01,12970,2016.0,"$20,000,000 ",San Diego,$20.000,Starter
+29,13125,Gerrit Cole,31,33,200.2,3.3,cole,gerrit,colege01,13125,2013.0,"$36,000,000 ",NY Yankees,$36.000,Starter
+30,17606,Cristian Javier,25,30,148.2,3.3,javier,cristian,javiecr01,17606,2020.0,"$3,400,000 ",Houston,$7.400,Starter
+31,14765,Julio Urias,25,31,175.0,3.2,urías,julio,uriasju01,14765,2016.0,"$14,250,000 ",LA Dodgers,FA,Starter
+32,11156,Merrill Kelly,33,33,200.1,3.2,kelly,merrill,kellyme01,11156,2019.0,"$8,500,000 ",Arizona,$8.500,Starter
+33,22250,Logan Gilbert,25,32,185.2,3.1,gilbert,logan,gilbelo01,22250,2021.0,"$767,300 ",Seattle,A1,Starter
+34,13273,Ross Stripling,32,32,134.1,3.1,stripling,ross,stripro01,13273,2016.0,"$12,500,000 ",San Francisco,$12.500,Starter
+35,2429,Corey Kluber,36,31,164.0,3.0,kluber,corey,klubeco01,2429,2011.0,"$10,000,000 ",Boston,opt,Starter
+36,17677,Jeffrey Springs,29,33,135.1,3.0,springs,jeffrey,sprinje01,17677,2018.0,"$4,000,000 ",Tampa Bay,$5.250,Starter
+37,25436,George Kirby,24,25,130.0,3.0,kirby,george,kirbyge01,25436,2022.0,"$758,300 ",Seattle,,Starter
+38,14710,Edwin Diaz,28,61,62.0,3.0,díaz,edwin,diazed04,14710,2016.0,"$18,640,000 ",NY Mets,$18.640,Reliever
+39,19665,Kyle Wright,26,30,180.1,2.9,wright,kyle,wrighky01,19665,2018.0,"$750,000 ",Atlanta,A1,Starter
+40,2233,Adam Wainwright,40,32,191.2,2.9,wainwright,adam,wainwad01,2233,2005.0,"$14,521,720 ",St. Louis,FA,Starter
+41,25377,Brady Singer,25,27,153.1,2.9,singer,brady,singebr01,25377,2020.0,"$2,950,000 ",Kansas City,A2,Starter
+42,17085,Pablo Lopez,26,32,180.0,2.9,lópez,pablo,lopezpa01,17085,2018.0,"$5,450,000 ",Minnesota,A3,Starter
+43,22267,Tarik Skubal,25,21,117.2,2.9,skubal,tarik,skubata01,22267,2020.0,"$743,700 ",Detroit,A1,Reliever
+44,12304,Chris Bassitt,33,30,181.2,2.8,bassitt,chris,bassich01,12304,2014.0,"$19,000,000 ",Toronto,$22.000,Starter
+45,9803,Miles Mikolas,33,33,202.1,2.8,mikolas,miles,mikolmi01,9803,2012.0,"$21,666,667 ",St. Louis,$17.667,Starter
+46,19388,Tony Gonsolin,28,24,130.1,2.7,gonsolin,tony,gonsoto01,19388,2019.0,"$3,250,000 ",LA Dodgers,$3.400,Starter
+47,16511,Jordan Montgomery,29,32,178.1,2.7,montgomery,jordan,montgjo01,16511,2017.0,"$10,000,000 ",St. Louis,FA,Starter
+48,11836,Taijuan Walker,29,29,157.1,2.6,walker,taijuan,walketa01,11836,2013.0,"$18,000,000 ",Philadelphia,$18.000,Starter
+49,6632,Carlos Carrasco,35,29,152.0,2.5,carrasco,carlos,carraca01,6632,2009.0,"$14,000,000 ",NY Mets,FA,Starter
+50,16256,Kyle Freeland,29,31,174.2,2.5,freeland,kyle,freelky01,16256,2017.0,"$10,500,000 ",Colorado,$15.000,Starter
+51,6893,Johnny Cueto,36,25,158.1,2.5,cueto,johnny,cuetojo01,6893,2008.0,"$6,000,000 ",Miami,$2.500,Starter
+52,12768,Sonny Gray,32,24,119.2,2.4,gray,sonny,grayso01,12768,2013.0,"$13,100,000 ",Minnesota,,Starter
+53,11674,Jameson Taillon,30,32,177.1,2.3,taillon,jameson,taillja01,11674,2016.0,"$14,000,000 ",Chi Cubs,$18.000,Starter
+54,17277,Ranger Suarez,26,29,155.1,2.3,suárez,ranger,suarera01,17277,2018.0,"$2,950,000 ",Philadelphia,A2,Starter
+55,21032,Emmanuel Clase,24,77,72.2,2.3,clase,emmanuel,claseem01,21032,2019.0,"$1,900,000 ",Cleveland,$2.900,Reliever
+56,11762,Noah Syndergaard,29,25,134.2,2.2,syndergaard,noah,syndeno01,11762,2015.0,"$13,000,000 ",LA Dodgers,FA,Starter
+57,17734,Evan Phillips,27,64,63.0,2.2,phillips,evan,phillev01,17734,2018.0,"$1,300,000 ",LA Dodgers,A1,Reliever
+58,27468,Reid Detmers,22,25,129.0,2.2,detmers,reid,detmere01,27468,2021.0,"$740,000 ",LA Angels,,Starter
+59,15816,Devin Williams,27,65,60.2,2.2,williams,devin,willide03,15816,2019.0,"$3,350,000 ",Milwaukee,A2,Reliever
+60,10954,Jacob deGrom,34,11,64.1,2.2,degrom,jacob,degroja01,10954,2014.0,"$30,000,000 ",Texas,$40.000,Starter
+61,19959,Jesus Luzardo,24,18,100.1,2.2,luzardo,jesús,luzarje01,19959,2019.0,"$2,450,000 ",Miami,A2,Starter
+62,21390,Joe Ryan,26,27,147.0,2.1,ryan,joe,ryanjo04,21390,2021.0,"$730,250 ",Minnesota,,Starter
+63,16358,Tyler Mahle,27,23,120.2,2.1,mahle,tyler,mahlety01,16358,2017.0,"$7,500,000 ",Minnesota,FA,Starter
+64,18655,A.J. Minter,28,75,70.0,2.1,minter,a. j.,minteaj01,18655,2017.0,"$4,287,500 ",Atlanta,A4,Reliever
+65,17594,Mitch Keller,26,31,159.0,2.1,keller,mitch,kellemi03,17594,2019.0,"$2,437,500 ",Pittsburgh,A2,Starter
+66,19312,Cal Quantrill,27,32,186.1,2.0,quantrill,cal,quantca01,19312,2019.0,"$5,550,000 ",Cleveland,A3,Starter
+67,18138,Ryan Helsley,27,54,64.2,2.0,helsley,ryan,helslry01,18138,2019.0,"$2,150,000 ",St. Louis,A2,Reliever
+68,16400,Reynaldo Lopez,28,61,65.1,2.0,lópez,reynaldo,lopezre01,16400,2016.0,"$3,625,000 ",Chi White Sox,FA,Reliever
+69,13431,Marcus Stroman,31,25,138.2,2.0,stroman,marcus,stromma01,13431,2014.0,"$25,000,000 ",Chi Cubs,$21.000,Starter
+70,18679,Freddy Peralta,26,18,78.0,2.0,peralta,freddy,peralfr01,18679,2018.0,"$3,735,000 ",Milwaukee,$5.735,Starter
+71,10123,Kyle Gibson,34,31,167.2,1.9,gibson,kyle,gibsoky01,10123,2013.0,"$10,000,000 ",Baltimore,FA,Starter
+72,2520,Lance Lynn,35,21,121.2,1.9,lynn,lance,lynnla01,2520,2011.0,"$18,500,000 ",Chi White Sox,$1.000,Starter
+73,14916,Jon Gray,30,24,127.1,1.9,gray,jon,grayjo02,14916,2015.0,"$15,000,000 ",Texas,$13.000,Starter
+74,26378,Nick Lodolo,24,19,103.1,1.9,lodolo,nick,lodolni01,26378,2022.0,"$730,000 ",Cincinnati,,Starter
+75,1943,Zack Greinke,38,26,137.0,1.9,greinke,zack,greinza01,1943,2004.0,"$8,500,000 ",Kansas City,FA,Starter
+76,17578,JT Brubaker,28,28,144.0,1.9,brubaker,jt,brubajt01,17578,2020.0,"$2,275,000 ",Pittsburgh,A2,Reliever
+77,20373,Andres Munoz,23,64,65.0,1.9,muñoz,andrés,munozan01,20373,2019.0,"$1,687,500 ",Seattle,$2.188,Reliever
+78,15474,Lucas Giolito,27,30,161.2,1.8,giolito,lucas,giolilu01,15474,2016.0,"$10,400,000 ",Chi White Sox,FA,Starter
+79,4806,Rich Hill,42,26,124.1,1.8,hill,rich,hillri01,4806,2005.0,"$8,000,000 ",Pittsburgh,FA,Starter
+80,7115,Daniel Bard,37,57,60.1,1.8,bard,daniel,bardda01,7115,2009.0,"$9,500,000 ",Colorado,$9.500,Reliever
+81,20020,John Schreiber,28,64,65.0,1.8,schreiber,john,schrejo01,20020,2019.0,"$750,000 ",Boston,A1,Reliever
+82,11486,Robbie Ray,30,32,189.0,1.7,ray,robbie,rayro02,11486,2014.0,"$21,000,000 ",Seattle,$23.000,Starter
+83,19350,Dean Kremer,26,22,125.1,1.7,kremer,dean,kremede01,19350,2020.0,"$731,200 ",Baltimore,,Starter
+84,13781,Alex Wood,31,26,130.2,1.7,wood,alex,woodal02,13781,2013.0,"$12,500,000 ",San Francisco,FA,Starter
+85,19932,Trevor Stephan,26,66,63.2,1.7,stephan,trevor,stephtr01,19932,2021.0,"$1,350,000 ",Cleveland,$1.600,Reliever
+86,17780,Jose Alvarado,27,59,51.0,1.7,alvarado,josé,alvarjo03,17780,2017.0,"$3,466,667 ",Philadelphia,$9.017,Reliever
+87,16587,Erik Swanson,28,57,53.2,1.7,swanson,erik,swanser01,16587,2019.0,"$1,250,000 ",Toronto,A2,Reliever
+88,19911,Jose Suarez,24,22,109.0,1.6,suarez,josé,suarejo01,19911,2019.0,"$750,000 ",LA Angels,A1,Starter
+89,11804,Hector Neris,33,70,65.1,1.6,neris,héctor,nerishe01,11804,2014.0,"$8,000,000 ",Houston,$1.000,Reliever
+90,16122,Jordan Romano,29,63,64.0,1.6,romano,jordan,romanjo03,16122,2019.0,"$4,537,500 ",Toronto,A2,Reliever
+91,22182,Hunter Greene,22,24,125.2,1.6,greene,hunter,greenhu01,22182,2022.0,"$730,000 ",Cincinnati,,Starter
+92,3548,Liam Hendriks,33,58,57.2,1.6,hendriks,liam,hendrli01,3548,2011.0,"$14,333,333 ",Chi White Sox,$15.000,Reliever
+93,11847,Chris Martin,36,60,56.0,1.6,martin,chris,martich02,11847,2014.0,"$8,000,000 ",Boston,$9.500,Reliever
+94,10078,Caleb Thielbar,35,67,59.1,1.6,thielbar,caleb,thielca01,10078,2013.0,"$2,400,000 ",Minnesota,A4,Reliever
+95,17556,Jimmy Herget,28,49,69.0,1.6,herget,jimmy,hergeji01,17556,2019.0,"$750,000 ",LA Angels,A1,Reliever
+96,14078,Michael Wacha,30,23,127.1,1.5,wacha,michael,wachami01,14078,2013.0,"$7,500,000 ",San Diego,$6.500,Starter
+97,15454,Nick Pivetta,29,33,179.2,1.5,pivetta,nick,pivetni01,15454,2017.0,"$5,350,000 ",Boston,A3,Starter
+98,20302,David Peterson,26,28,105.2,1.5,peterson,david,peterda01,20302,2020.0,"$750,000 ",NY Mets,A1,Starter
+99,25007,Alex Vesia,26,63,54.1,1.5,vesia,alex,vesiaal01,25007,2020.0,"$750,000 ",LA Dodgers,A1,Reliever
+100,12760,Rafael Montero,31,71,68.1,1.5,montero,rafael,montera01,12760,2014.0,"$11,500,000 ",Houston,$11.500,Reliever
+101,21844,Braxton Garrett,24,17,88.0,1.5,garrett,braxton,garrebr01,21844,2020.0,"$732,000 ",Miami,,Reliever
+102,21029,Jhoan Duran,24,57,67.2,1.5,durán,jhoan,duranjh01,21029,2022.0,"$720,000 ",Minnesota,,Reliever
+103,17130,Raisel Iglesias,32,67,62.0,1.5,iglesias,raisel,iglesra01,17130,2015.0,"$16,000,000 ",Atlanta,$16.000,Reliever
+104,7593,Jordan Lyles,31,32,179.0,1.4,lyles,jordan,lylesjo01,7593,2011.0,"$8,500,000 ",Kansas City,$8.500,Starter
+105,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,"$737,600 ",Texas,A1,Starter
+106,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,"$737,600 ",Baltimore,A1,Starter
+107,15038,German Marquez,27,31,181.2,1.4,márquez,germán,marquge01,15038,2016.0,"$15,300,000 ",Colorado,$2.500,Starter
+108,15890,Luis Severino,28,19,102.0,1.4,severino,luis,severlu01,15890,2015.0,"$15,000,000 ",NY Yankees,,Starter
+109,1890,Matt Moore,33,63,74.0,1.4,moore,matt,moorema02,1890,2011.0,"$7,550,000 ",LA Angels,FA,Starter
+110,16609,Bryan Abreu,25,55,60.1,1.4,abreu,bryan,abreubr01,16609,2019.0,"$745,200 ",Houston,A1,Reliever
+111,20666,Felix Bautista,27,65,65.2,1.4,bautista,félix,bautife01,20666,2022.0,"$731,800 ",Baltimore,,Reliever
+112,20191,Garrett Whitlock,26,31,78.1,1.4,whitlock,garrett,whitlga01,20191,2021.0,"$1,250,000 ",Boston,$3.500,Starter
+113,7531,Collin McHugh,35,58,69.1,1.4,mchugh,collin,mchugco01,7531,2012.0,"$5,000,000 ",Atlanta,$1.000,Reliever
+114,19569,David Bednar,27,45,51.2,1.4,bednar,david,bednada01,19569,2019.0,"$745,000 ",Pittsburgh,A1,Reliever
+115,7005,Ryan Pressly,33,50,48.1,1.4,pressly,ryan,pressry01,7005,2013.0,"$14,000,000 ",Houston,$14.000,Reliever
+116,14986,Giovanny Gallegos,30,57,59.0,1.4,gallegos,giovanny,gallegi01,14986,2017.0,"$4,750,000 ",St. Louis,$5.750,Reliever
+117,13774,Zach Eflin,28,20,75.2,1.4,eflin,zach,eflinza01,13774,2016.0,"$11,000,000 ",Tampa Bay,$11.000,Starter
+118,15488,Antonio Senzatela,27,19,92.1,1.4,senzatela,antonio,senzaan01,15488,2017.0,"$7,250,000 ",Colorado,$12.000,Starter
+119,11760,Drew Smyly,33,22,106.1,1.3,smyly,drew,smylydr01,11760,2012.0,"$8,000,000 ",Chi Cubs,$8.500,Starter
+120,13619,Jakob Junis,29,23,112.0,1.3,junis,jakob,junisja01,13619,2017.0,"$2,800,000 ",San Francisco,FA,Starter
+121,27552,Graham Ashcraft,24,19,105.0,1.3,ashcraft,graham,ashcrgr01,27552,2022.0,"$722,500 ",Cincinnati,,Starter
+122,7982,Anthony Bass,34,73,70.1,1.3,bass,anthony,bassan01,7982,2011.0,"$3,000,000 ",Toronto,FA,Reliever
+123,19804,Bryan Baker,27,66,69.2,1.3,baker,bryan,bakerbr01,19804,2021.0,"$729,000 ",Baltimore,,Reliever
+124,11861,Jason Adam,30,67,63.1,1.3,adam,jason,adamja01,11861,2018.0,"$1,775,000 ",Tampa Bay,A2,Reliever
+125,23920,Brayan Bello,23,13,57.1,1.3,bello,brayan,bellobr01,23920,2022.0,"$729,500 ",Boston,,Starter
+126,18384,Scott Effross,28,60,56.2,1.3,effross,scott,effrosc01,18384,2021.0,"$742,750 ",NY Yankees,,Reliever
+127,19225,Mitch White,27,25,99.0,1.3,white,mitch,whitemi03,19225,2020.0,"$743,000 ",Toronto,,Reliever
+128,21992,Camilo Doval,24,68,67.2,1.2,doval,camilo,dovalca01,21992,2021.0,"$735,000 ",San Francisco,,Reliever
+129,6397,Jake Odorizzi,32,22,106.1,1.2,odorizzi,jake,odorija01,6397,2012.0,"$12,500,000 ",Texas,FA,Starter
+130,19479,Aaron Civale,27,20,97.0,1.2,civale,aaron,civalaa01,19479,2019.0,"$2,600,000 ",Cleveland,A2,Starter
+131,17998,Pete Fairbanks,28,24,24.0,1.2,fairbanks,pete,fairbpe01,17998,2019.0,"$3,666,666 ",Tampa Bay,$3.667,Reliever
+132,19316,Eric Lauer,27,29,158.2,1.1,lauer,eric,lauerer01,19316,2018.0,"$5,075,000 ",Milwaukee,A3,Starter
+133,19206,Dakota Hudson,27,27,139.2,1.1,hudson,dakota,hudsoda02,19206,2018.0,"$2,650,000 ",St. Louis,A3,Starter
+134,13649,Clay Holmes,29,62,63.2,1.1,holmes,clay,holmecl01,13649,2018.0,"$3,300,000 ",NY Yankees,A3,Reliever
+135,1247,Adam Ottavino,36,66,65.2,1.1,ottavino,adam,ottavad01,1247,2010.0,"$6,647,002 ",NY Mets,$6.075,Reliever
+136,19996,Dylan Lee,27,46,50.2,1.1,lee,dylan,leedy01,19996,2021.0,"$730,000 ",Atlanta,,Reliever
+137,3096,Kenley Jansen,34,65,64.0,1.1,jansen,kenley,janseke01,3096,2010.0,"$16,000,000 ",Boston,$16.000,Reliever
+138,17282,Michael Kopech,26,25,119.1,1.1,kopech,michael,kopecmi01,17282,2018.0,"$2,050,000 ",Chi White Sox,A2,Starter
+139,15423,Andrew Heaney,31,16,72.2,1.1,heaney,andrew,heanean01,15423,2014.0,"$12,000,000 ",Texas,$13.000,Starter
+140,14857,Joe Mantiply,31,69,60.0,1.1,mantiply,joe,mantijo01,14857,2016.0,"$756,000 ",Arizona,A1,Reliever
+141,18413,Jose Urquidy,27,29,164.1,1.0,urquidy,josé,urquijo01,18413,2019.0,"$3,025,000 ",Houston,A2,Starter
+142,14843,Michael Lorenzen,30,18,97.2,1.0,lorenzen,michael,lorenmi01,14843,2015.0,"$8,500,000 ",Detroit,FA,Starter
+143,15873,Sean Manaea,30,30,158.0,1.0,manaea,sean,manaese01,15873,2016.0,"$12,500,000 ",San Francisco,$12.500,Starter
+144,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,"$732,400 ",Baltimore,,Batter
+145,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,"$732,400 ",Baltimore,A1,Reliever
+146,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,"$732,400 ",Detroit,,Batter
+147,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,"$732,400 ",Detroit,A1,Reliever
+148,21132,Alexis Diaz,25,59,63.2,1.0,díaz,alexis,diazal03,21132,2022.0,"$730,000 ",Cincinnati,,Reliever
+149,17968,Brock Burke,25,52,82.1,1.0,burke,brock,burkebr01,17968,2019.0,"$742,840 ",Texas,A1,Reliever
+150,19249,Seranthony Dominguez,27,54,51.0,1.0,domínguez,seranthony,dominse01,19249,2018.0,"$2,500,000 ",Philadelphia,$4.250,Reliever
+151,9132,Nathan Eovaldi,32,20,109.1,1.0,eovaldi,nathan,eovalna01,9132,2011.0,"$17,000,000 ",Texas,$17.000,Starter
+152,19374,Walker Buehler,27,12,65.0,1.0,buehler,walker,buehlwa01,19374,2017.0,"$8,025,000 ",LA Dodgers,A4,Reliever
+153,12718,Adrian Houser,29,22,102.2,1.0,houser,adrian,housead01,12718,2015.0,"$3,600,000 ",Milwaukee,A3,Reliever
+154,18325,Taylor Hearn,27,31,100.0,1.0,hearn,taylor,hearnta01,18325,2019.0,"$1,462,500 ",Texas,A3,Reliever
+155,18403,Enyel De Los Santos,26,50,53.1,1.0,de los santos,enyel,delosen01,18403,2018.0,"$750,000 ",Cleveland,A1,Reliever
+156,15047,Austin Voth,30,41,101.2,1.0,voth,austin,vothau01,15047,2018.0,"$1,850,000 ",Baltimore,opt,Reliever
+157,16610,J.P. Feyereisen,29,22,24.1,1.0,feyereisen,j. p.,feyerjo01,16610,2020.0,"$750,000 ",LA Dodgers,A1,Reliever
+158,10657,Andrew Bellatti,30,59,54.1,1.0,bellatti,andrew,bellaan01,10657,2015.0,"$859,000 ",Philadelphia,,Reliever
+159,19409,Dane Dunning,27,29,153.1,1.0,dunning,dane,dunnida01,19409,2020.0,"$742,840 ",Texas,A1,Reliever
+160,13449,Taylor Rogers,31,66,64.1,1.0,rogers,taylor,rogerta01,13449,2016.0,"$9,000,000 ",San Francisco,$12.000,Reliever
+161,18548,Sam Hentges,25,57,62.0,1.0,hentges,sam,hentgsa01,18548,2021.0,"$730,200 ",Cleveland,A1,Reliever
+162,20153,Nick Nelson,26,47,68.2,1.0,nelson,nick,nelsoni01,20153,2020.0,"$745,000 ",Philadelphia,A1,Reliever
+163,20151,James Karinchak,26,38,39.0,1.0,karinchak,james,karinja01,20151,2019.0,"$1,500,000 ",Cleveland,A2,Reliever
+164,15507,Hunter Harvey,27,38,39.1,1.0,harvey,hunter,harvehu01,15507,2019.0,"$870,000 ",Washington,A2,Reliever
+165,14814,Buck Farmer,31,44,47.0,1.0,farmer,buck,farmebu01,14814,2014.0,"$1,725,000 ",Cincinnati,FA,Reliever
+166,15288,Adam Cimber,31,77,70.2,0.9,cimber,adam,cimbead01,15288,2018.0,"$3,150,000 ",Toronto,FA,Reliever
+167,14993,Scott Barlow,29,69,74.1,0.9,barlow,scott,barlosc01,14993,2018.0,"$5,300,000 ",Kansas City,A3,Reliever
+168,20253,Griffin Jax,27,65,72.1,0.9,jax,griffin,jaxgr01,20253,2021.0,"$733,150 ",Minnesota,,Reliever
+169,20000,Tyler Wells,27,23,103.2,0.9,wells,tyler,wellsty01,20000,2021.0,"$732,400 ",Baltimore,A1,Starter
+170,12777,John Brebbia,32,76,68.0,0.9,brebbia,john,brebbjo01,12777,2017.0,"$2,300,000 ",San Francisco,FA,Reliever
+171,6655,Craig Kimbrel,34,63,60.0,0.9,kimbrel,craig,kimbrcr01,6655,2010.0,"$10,000,000 ",Philadelphia,FA,Reliever
+172,22810,Roansy Contreras,22,21,95.0,0.9,contreras,roansy,contrro01,22810,2021.0,"$725,000 ",Pittsburgh,,Starter
+173,16561,Austin Gomber,28,33,124.2,0.9,gomber,austin,gombeau01,16561,2018.0,"$1,650,000 ",Colorado,A2,Reliever
+174,8337,Lucas Luetge,35,50,57.1,0.9,luetge,lucas,luetglu01,8337,2012.0,"$1,550,000 ",Atlanta,A3,Reliever
+175,12095,Yimi Garcia,31,61,61.0,0.9,garcía,yimi,garciyi01,12095,2014.0,"$5,500,000 ",Toronto,$1.000,Reliever
+176,14295,Wandy Peralta,30,56,56.1,0.9,peralta,wandy,peralwa01,14295,2016.0,"$3,350,000 ",NY Yankees,FA,Reliever
+177,15947,Ryne Stanek,30,59,54.2,0.9,stanek,ryne,stanery01,15947,2017.0,"$3,600,000 ",Houston,FA,Reliever
+178,12988,Andrew Chafin,32,64,57.1,0.9,chafin,andrew,chafian01,12988,2014.0,"$5,500,000 ",Arizona,$0.750,Reliever
+179,19493,Zach Jackson,27,54,48.0,0.9,jackson,zach,jacksza02,19493,2022.0,"$725,000 ",Oakland,,Reliever
+180,23550,Aaron Ashby,24,27,107.1,0.9,ashby,aaron,ashbyaa01,23550,2021.0,"$1,200,000 ",Milwaukee,$1.450,Reliever
+181,18297,Tyler Kinley,31,25,24.0,0.9,kinley,tyler,kinlety01,18297,2018.0,"$1,200,000 ",Colorado,$1.300,Reliever
+182,10061,Brooks Raley,34,60,53.2,0.9,raley,brooks,raleybr01,10061,2012.0,"$4,500,000 ",NY Mets,$1.250,Reliever
+183,20099,Chris Paddack,26,5,22.1,0.9,paddack,chris,paddach01,20099,2019.0,"$2,500,000 ",Minnesota,$2.525,Starter
+184,14677,Duane Underwood Jr.,27,51,57.1,0.9,underwood,duane,underdu01,14677,2018.0,"$1,025,000 ",Pittsburgh,A2,Reliever
+185,20422,Jovani Moran,25,31,40.2,0.9,morán,jovani,moranjo01,20422,2021.0,"$726,200 ",Minnesota,,Reliever
+186,19795,Keegan Thompson,27,29,115.0,0.8,thompson,keegan,thompke02,19795,2021.0,"$740,000 ",Chi Cubs,A1,Reliever
+187,14739,Paul Blackburn,28,21,111.1,0.8,blackburn,paul,blackpa01,14739,2017.0,"$1,900,000 ",Oakland,A2,Starter
+188,9323,Patrick Corbin,32,31,152.2,0.8,corbin,patrick,corbipa01,9323,2012.0,"$24,416,667 ",Washington,$35.417,Starter
+189,17732,Nabil Crismatt,27,50,67.1,0.8,crismatt,nabil,crismna01,17732,2020.0,"$750,000 ",San Diego,A1,Reliever
+190,8241,David Robertson,37,58,63.2,0.8,robertson,david,roberda08,8241,2008.0,"$10,000,000 ",NY Mets,FA,Reliever
+191,14527,Jorge Lopez,29,67,71.0,0.8,lópez,jorge,lopezjo02,14527,2015.0,"$3,525,000 ",Minnesota,A3,Reliever
+192,22201,MacKenzie Gore,23,16,70.0,0.8,gore,mackenzie,gorema01,22201,2022.0,"$723,300 ",Washington,,Starter
+193,21537,Daniel Lynch,25,27,131.2,0.8,lynch,daniel,lynchda02,21537,2021.0,"$730,250 ",Kansas City,,Starter
+194,22286,Trevor Rogers,24,23,107.0,0.8,rogers,trevor,rogertr01,22286,2020.0,"$752,000 ",Miami,A1,Starter
+195,19979,Zach Plesac,27,25,131.2,0.8,plesac,zach,plesaza01,19979,2019.0,"$2,950,000 ",Cleveland,A2,Starter
+196,7146,Daniel Hudson,35,25,24.1,0.8,hudson,daniel,hudsoda01,7146,2009.0,"$6,500,000 ",LA Dodgers,opt,Reliever
+197,20367,Brusdar Graterol,23,46,49.2,0.8,graterol,brusdar,gratebr01,20367,2019.0,"$1,225,000 ",LA Dodgers,A2,Reliever
+198,19531,Jason Foley,26,60,60.1,0.8,foley,jason,foleyja01,19531,2021.0,"$726,200 ",Detroit,,Reliever
+199,13761,Chris Stratton,31,60,63.1,0.7,stratton,chris,stratch01,13761,2016.0,"$2,800,000 ",St. Louis,FA,Reliever
+200,13896,Chris Flexen,27,33,137.2,0.7,flexen,chris,flexech01,13896,2017.0,"$8,000,000 ",Seattle,FA,Starter
+201,19883,Alex Lange,26,71,63.1,0.7,lange,alex,langeal01,19883,2021.0,"$726,000 ",Detroit,,Reliever
+202,15734,Brad Keller,26,35,139.2,0.7,keller,brad,kellebr01,15734,2018.0,"$5,775,000 ",Kansas City,FA,Starter
+203,30115,Robert Suarez,31,45,47.2,0.7,suarez,robert,suarero01,30115,2022.0,"$10,000,000 ",San Diego,$10.000,Reliever
+204,19879,Tanner Houck,26,32,60.0,0.7,houck,tanner,houckta01,19879,2020.0,"$740,000 ",Boston,,Reliever
+205,13218,Michael Fulmer,29,67,63.2,0.7,fulmer,michael,fulmemi01,13218,2016.0,"$4,000,000 ",Chi Cubs,FA,Reliever
+206,13164,Eduardo Rodriguez,29,17,91.0,0.7,rodríguez,eduardo,rodried05,13164,2015.0,"$14,000,000 ",Detroit,$18.000,Starter
+207,13361,Steven Matz,31,15,48.0,0.7,matz,steven,matzst01,13361,2015.0,"$10,500,000 ",St. Louis,$12.500,Starter
+208,10133,Brad Boxberger,34,70,64.0,0.7,boxberger,brad,boxbebr01,10133,2012.0,"$2,000,000 ",Chi Cubs,$0.800,Reliever
+209,25174,Penn Murfee,28,64,69.1,0.7,murfee,penn,murfepe01,25174,2022.0,"$727,000 ",Seattle,,Reliever
+210,22487,Johan Oviedo,24,21,56.0,0.7,oviedo,johan,oviedjo01,22487,2020.0,"$735,000 ",Pittsburgh,,Starter
+211,5448,Jesse Chavez,38,60,69.1,0.7,chavez,jesse,chaveje01,5448,2008.0,"$1,200,000 ",Atlanta,FA,Reliever
+212,24586,Kyle Bradish,25,23,117.2,0.7,bradish,kyle,bradiky01,24586,2022.0,"$728,100 ",Baltimore,,Starter
+213,27581,Hayden Wesneski,24,6,33.0,0.7,wesneski,hayden,wesneha01,27581,2022.0,"$721,500 ",Chi Cubs,,Starter
+214,15514,Kendall Graveman,31,65,65.0,0.7,graveman,kendall,graveke01,15514,2014.0,"$8,000,000 ",Chi White Sox,$8.000,Reliever
+215,16977,Trevor Williams,30,30,89.2,0.7,williams,trevor,willitr01,16977,2016.0,"$6,000,000 ",Washington,$7.000,Starter
+216,13346,Hoby Milner,31,67,64.2,0.7,milner,hoby,milneho01,13346,2017.0,"$1,025,000 ",Milwaukee,A2,Reliever
+217,17611,Taylor Clarke,29,47,49.0,0.7,clarke,taylor,clarkta01,17611,2019.0,"$1,150,000 ",Kansas City,A2,Reliever
+218,11589,Jose Urena,30,21,97.0,0.7,ureña,josé,urenajo01,11589,2015.0,"$3,000,000 ",Colorado,$0.500,Starter
+219,17149,Domingo German,29,15,72.1,0.7,germán,domingo,germado01,17149,2017.0,"$2,600,000 ",NY Yankees,A3,Starter
+220,14212,Josh Hader,28,56,50.0,0.7,hader,josh,haderjo01,14212,2017.0,"$14,100,000 ",San Diego,FA,Reliever
+221,18376,Connor Overton,28,6,33.0,0.7,overton,connor,overtco01,18376,2021.0,"$730,000 ",Cincinnati,,Starter
+222,13394,Dylan Floro,31,56,53.2,0.7,floro,dylan,florody01,13394,2016.0,"$3,900,000 ",Miami,FA,Reliever
+223,26108,Andre Pallante,23,47,108.0,0.6,pallante,andre,pallaan01,26108,2022.0,"$728,600 ",St. Louis,,Reliever
+224,15009,Kyle Finnegan,30,66,66.2,0.6,finnegan,kyle,finneky01,15009,2020.0,"$2,325,000 ",Washington,A2,Reliever
+225,20070,Bailey Falter,25,20,84.0,0.6,falter,bailey,falteba01,20070,2021.0,"$733,000 ",Philadelphia,,Starter
+226,20203,Eli Morgan,26,50,66.2,0.6,morgan,eli,morgael01,20203,2021.0,"$727,000 ",Cleveland,,Reliever
+227,18674,Jake Woodford,25,27,48.1,0.6,woodford,jake,woodfja01,18674,2020.0,"$739,800 ",St. Louis,A1,Starter
+228,25756,Matt Brash,24,39,50.2,0.6,brash,matt,brashma01,25756,2022.0,"$725,800 ",Seattle,,Starter
+229,21446,Ryan Feltner,25,20,97.1,0.6,feltner,ryan,feltnry01,21446,2021.0,"$722,000 ",Colorado,,Starter
+230,15541,Tyler Rogers,31,68,75.2,0.6,rogers,tyler,rogerty01,15541,2019.0,"$1,675,000 ",San Francisco,A2,Reliever
+231,14375,Amir Garrett,30,60,45.1,0.6,garrett,amir,garream01,14375,2017.0,"$2,650,000 ",Kansas City,FA,Reliever
+232,17639,Justin Lawrence,27,38,42.2,0.6,lawrence,justin,lawreju01,17639,2021.0,"$722,000 ",Colorado,,Reliever
+233,25880,Hunter Brown,23,7,20.1,0.6,brown,hunter,brownhu01,25880,2022.0,"$725,000 ",Houston,,Reliever
+234,21205,Connor Brogdon,27,47,44.0,0.6,brogdon,connor,brogdco01,21205,2020.0,"$738,750 ",Philadelphia,A1,Reliever
+235,19677,Gregory Soto,27,64,60.1,0.6,soto,gregory,sotogr01,19677,2019.0,"$3,925,000 ",Philadelphia,A2,Reliever
+236,21290,Lucas Gilbreath,26,47,43.0,0.6,gilbreath,lucas,gilbrlu01,21290,2021.0,"$725,000 ",Colorado,A1,Reliever
+237,17871,Ian Gibaut,28,34,36.0,0.6,gibaut,ian,gibauia01,17871,2019.0,"$730,000 ",Cincinnati,,Reliever
+238,14524,Jose Leclerc,28,39,47.2,0.6,leclerc,josé,leclejo01,14524,2016.0,"$6,000,000 ",Texas,$0.500,Reliever
+239,23429,JP Sears,26,17,70.0,0.5,sears,jp,searsjp01,23429,2022.0,"$720,000 ",Oakland,,Reliever
+240,14975,Chad Kuhl,29,27,137.0,0.5,kuhl,chad,kuhlch01,14975,2016.0,"$2,000,000 ",Washington,FA,Starter
+241,13892,Paul Sewald,32,65,64.0,0.5,sewald,paul,sewalpa01,13892,2017.0,"$4,100,000 ",Seattle,A3,Reliever
+242,19899,Clarke Schmidt,26,29,57.2,0.5,schmidt,clarke,schmicl01,19899,2020.0,"$740,475 ",NY Yankees,A1,Starter
+243,20185,Zach Pop,25,35,39.0,0.5,pop,zach,popza01,20185,2021.0,"$742,200 ",Toronto,,Reliever
+244,17796,Dillon Tate,28,67,73.2,0.5,tate,dillon,tatedi01,17796,2019.0,"$1,500,000 ",Baltimore,A2,Reliever
+245,26260,Drey Jameson,24,4,24.1,0.5,jameson,drey,jamesdr01,26260,2022.0,"$723,600 ",Arizona,,Reliever
+246,19362,Keegan Akin,27,45,81.2,0.5,akin,keegan,akinke01,19362,2020.0,"$731,100 ",Baltimore,A1,Reliever
+247,16814,Tim Hill,32,55,48.0,0.5,hill,tim,hillti01,16814,2018.0,"$1,850,000 ",San Diego,A3,Reliever
+248,20531,Kutter Crawford,26,21,77.1,0.5,crawford,kutter,crawfku01,20531,2021.0,"$730,000 ",Boston,,Starter
+249,21455,Kris Bubic,24,28,129.0,0.5,bubic,kris,bubickr01,21455,2020.0,"$2,200,000 ",Kansas City,A2,Starter
+250,19962,Joey Wentz,24,7,32.2,0.5,wentz,joey,wentzjo01,19962,2022.0,"$723,500 ",Detroit,,Reliever
+251,8779,Wade Miley,35,9,37.0,0.5,miley,wade,mileywa01,8779,2011.0,"$3,500,000 ",Milwaukee,$1.000,Starter
+252,17859,Adbert Alzolay,27,6,13.1,0.5,alzolay,adbert,alzolad01,17859,2019.0,"$744,750 ",Chi Cubs,A1,Starter
+253,12857,Shawn Armstrong,31,50,61.2,0.5,armstrong,shawn,armstsh01,12857,2015.0,"$1,200,000 ",Tampa Bay,A4,Reliever
+254,19349,Caleb Ferguson,25,37,34.2,0.5,ferguson,caleb,ferguca01,19349,2018.0,"$1,100,000 ",LA Dodgers,A3,Reliever
+255,19876,Kevin Ginkel,28,30,29.1,0.5,ginkel,kevin,ginkeke01,19876,2019.0,"$746,600 ",Arizona,A1,Reliever
+256,15068,Yency Almonte,28,33,35.1,0.5,almonte,yency,almonye01,15068,2018.0,"$1,500,000 ",LA Dodgers,A2,Reliever
+257,5615,Ryan Brasier,34,68,62.1,0.5,brasier,ryan,brasiry01,5615,2013.0,"$2,000,000 ",Boston,FA,Reliever
+258,12808,Mike Clevinger,31,23,114.1,0.4,clevinger,mike,clevimi01,12808,2016.0,"$8,000,000 ",Chi White Sox,$4.000,Starter
+259,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,"$21,882,892 ",Toronto,,Batter
+260,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,"$21,882,892 ",Toronto,$12.900,Starter
+261,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,"$21,882,892 ",Arizona,,Batter
+262,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,"$21,882,892 ",Arizona,$12.900,Starter
+263,22276,Dylan Coleman,25,68,68.0,0.4,coleman,dylan,colemdy01,22276,2021.0,"$731,750 ",Kansas City,,Reliever
+264,18331,James Kaprielian,28,26,134.0,0.4,kaprielian,james,kaprija01,18331,2020.0,"$730,000 ",Oakland,A1,Starter
+265,12730,Nick Martinez,31,47,106.1,0.4,martínez,nick,martini01,12730,2014.0,"$10,000,000 ",San Diego,$8.000,Starter
+266,17586,Tanner Scott,27,67,62.2,0.4,scott,tanner,scottta01,17586,2017.0,"$2,825,000 ",Miami,A3,Reliever
+267,12049,Kyle Hendricks,32,16,84.1,0.4,hendricks,kyle,hendrky01,12049,2014.0,"$14,500,000 ",Chi Cubs,$1.500,Starter
+268,16647,Ryan Thompson,30,47,42.2,0.4,thompson,ryan,thompry02,16647,2020.0,"$1,000,000 ",Tampa Bay,A2,Reliever
+269,20515,Kyle Nelson,25,43,37.0,0.4,nelson,kyle,nelsoky01,20515,2020.0,"$728,900 ",Arizona,,Reliever
+270,21367,Peter Strzelecki,27,30,35.0,0.4,strzelecki,peter,strzepe01,21367,2022.0,"$726,400 ",Milwaukee,,Reliever
+271,21741,Javier Assad,24,9,37.2,0.4,assad,javier,assadja01,21741,2022.0,"$721,500 ",Chi Cubs,,Reliever
+272,19753,Jonathan Loaisiga,27,50,48.0,0.4,loáisiga,jonathan,loaisjo01,19753,2018.0,"$2,262,500 ",NY Yankees,A3,Reliever
+273,23488,Ron Marinaccio,26,40,44.0,0.4,marinaccio,ron,marinro01,23488,2022.0,"$739,900 ",NY Yankees,,Reliever
+274,21045,Seth Martinez,27,29,38.2,0.4,martinez,seth,martise01,21045,2021.0,"$730,200 ",Houston,,Reliever
+275,18333,Alex Young,28,25,26.2,0.4,young,alex,youngal01,18333,2019.0,"$1,150,000 ",Cincinnati,A2,Reliever
+276,17897,Garrett Cleavinger,28,17,23.0,0.4,cleavinger,garrett,cleavga01,17897,2020.0,"$725,100 ",Tampa Bay,A1,Reliever
+277,17369,Brett Martin,27,55,50.0,0.4,martin,brett,martibr01,17369,2019.0,"$1,275,000 ",Texas,A3,Reliever
+278,19200,Jose Quijada,26,42,40.2,0.4,quijada,josé,quijajo01,19200,2019.0,"$750,000 ",LA Angels,A1,Reliever
+279,23292,Packy Naughton,26,26,32.0,0.4,naughton,packy,naughpa01,23292,2021.0,"$728,750 ",St. Louis,,Reliever
+280,10197,Shelby Miller,31,4,7.0,0.4,miller,shelby,millesh01,10197,2012.0,"$1,500,000 ",LA Dodgers,FA,Starter
+281,21690,Edward Cabrera,24,14,71.2,0.3,cabrera,edward,cabreed02,21690,2021.0,"$731,000 ",Miami,,Starter
+282,20517,Nick Sandlin,25,46,44.0,0.3,sandlin,nick,sandlni01,20517,2021.0,"$726,000 ",Cleveland,A1,Reliever
+283,22361,Colin Holderman,26,24,28.1,0.3,holderman,colin,holdeco01,22361,2022.0,"$725,000 ",Pittsburgh,,Reliever
+284,20353,Steven Wilson,27,50,53.0,0.3,wilson,steven,wilsost02,20353,2022.0,"$726,400 ",San Diego,,Reliever
+285,19343,A.J. Puk,27,62,66.1,0.3,puk,a. j.,pukaj01,19343,2019.0,"$736,000 ",Miami,A1,Reliever
+286,14542,Carlos Estevez,29,62,57.0,0.3,estévez,carlos,estevca01,14542,2016.0,"$6,750,000 ",LA Angels,$6.750,Reliever
+287,13799,Matt Strahm,30,50,44.2,0.3,strahm,matt,strahma01,13799,2016.0,"$7,500,000 ",Philadelphia,$7.500,Starter
+288,9111,Brad Hand,32,55,45.0,0.3,hand,brad,handbr01,9111,2011.0,"$1,500,000 ",Colorado,$0.500,Reliever
+289,19618,Jordan Hicks,25,35,61.1,0.3,hicks,jordan,hicksjo03,19618,2018.0,"$1,837,500 ",St. Louis,FA,Starter
+290,16258,Aaron Bummer,28,32,26.2,0.3,bummer,aaron,bummeaa01,16258,2017.0,"$3,750,000 ",Chi White Sox,$5.500,Reliever
+291,19716,Dustin May,24,6,30.0,0.3,may,dustin,maydu01,19716,2019.0,"$1,675,000 ",LA Dodgers,A2,Starter
+292,19995,Joel Kuhnel,27,53,58.0,0.3,kuhnel,joel,kuhnejo01,19995,2019.0,"$730,000 ",Cincinnati,,Reliever
+293,26253,Ryne Nelson,24,3,18.1,0.3,nelson,ryne,nelsory01,26253,2022.0,"$722,700 ",Arizona,,Starter
+294,15552,Chad Green,31,14,15.0,0.3,green,chad,greench03,15552,2016.0,"$2,250,000 ",Toronto,$6.250,Reliever
+295,19541,Jimmy Lambert,27,42,47.0,0.3,lambert,jimmy,lambeji01,19541,2020.0,"$735,000 ",Chi White Sox,A1,Reliever
+296,15915,Victor Arano,27,43,42.0,0.3,arano,víctor,aranovi01,15915,2017.0,"$925,000 ",Washington,A3,Reliever
+297,20206,Mike Baumann,26,13,34.1,0.3,baumann,mike,baumami01,20206,2021.0,"$722,300 ",Baltimore,,Reliever
+298,13435,Pierce Johnson,31,15,14.1,0.3,johnson,pierce,johnspi01,13435,2017.0,"$5,000,000 ",Colorado,FA,Reliever
+299,14361,Ty Blach,31,24,44.1,0.3,blach,ty,blachty01,14361,2016.0,"$1,100,000 ",Colorado,A2,Starter
+300,7048,Fernando Cruz,32,14,14.2,0.3,cruz,fernando,cruzfe01,7048,2022.0,"$720,000 ",Cincinnati,,Reliever
+301,16269,John Means,29,2,8.0,0.3,means,john,meansjo01,16269,2018.0,"$2,975,000 ",Baltimore,A3,Starter
+302,10343,Aaron Loup,34,65,58.2,0.3,loup,aaron,loupaa01,10343,2012.0,"$7,500,000 ",LA Angels,$2.000,Reliever
+303,21846,Cole Ragans,24,9,40.0,0.3,ragans,cole,raganco01,21846,2022.0,"$724,145 ",Texas,,Reliever
+304,10430,Mychal Givens,32,59,61.1,0.2,givens,mychal,givenmy01,10430,2015.0,"$3,000,000 ",Baltimore,$2.000,Reliever
+305,20039,Adrian Morejon,23,26,34.0,0.2,morejón,adrián,morejad01,20039,2019.0,"$800,000 ",San Diego,A2,Reliever
+306,14332,Joel Payamps,28,41,55.2,0.2,payamps,joel,payamjo01,14332,2019.0,"$730,500 ",Milwaukee,A1,Reliever
+307,12447,Seth Lugo,32,62,65.0,0.2,lugo,seth,lugose01,12447,2016.0,"$7,500,000 ",San Diego,$7.500,Starter
+308,19309,Trevor Richards,29,62,64.0,0.2,richards,trevor,richatr01,19309,2018.0,"$1,500,000 ",Toronto,A3,Starter
+309,19178,Tommy Nance,31,35,43.2,0.2,nance,tommy,nanceto01,19178,2021.0,"$729,500 ",Miami,,Reliever
+310,15043,Lou Trivino,30,64,53.2,0.2,trivino,lou,trivilo01,15043,2018.0,"$4,100,000 ",NY Yankees,A4,Reliever
+311,13594,Robert Stephenson,29,58,58.0,0.2,stephenson,robert,stephro01,13594,2016.0,"$1,750,000 ",Pittsburgh,FA,Reliever
+312,16401,Yonny Chirinos,28,2,7.0,0.2,chirinos,yonny,chiriyo01,16401,2018.0,"$1,275,000 ",Tampa Bay,A4,Starter
+313,17610,Tanner Rainey,29,29,30.0,0.2,rainey,tanner,raineta01,17610,2018.0,"$1,500,000 ",Washington,A3,Reliever
+314,19647,Matt Foster,27,48,45.0,0.2,foster,matt,fostema01,19647,2020.0,"$734,000 ",Chi White Sox,A1,Reliever
+315,17186,Dinelson Lamet,29,32,32.1,0.2,lamet,dinelson,lametdi01,17186,2017.0,"$5,000,000 ",Colorado,FA,Starter
+316,22175,Max Kranick,24,2,5.0,0.2,kranick,max,kranima01,22175,2021.0,"$725,000 ",Pittsburgh,,Reliever
+317,21298,Andre Jackson,26,4,9.2,0.2,jackson,andre,jacksan01,21298,2021.0,"$722,500 ",LA Dodgers,,Reliever
+318,10603,Chris Sale,33,2,5.2,0.2,sale,chris,salech01,10603,2010.0,"$21,672,484 ",Boston,$21.673,Starter
+319,16631,Jeff Brigham,30,16,24.0,0.2,brigham,jeff,brighje01,16631,2018.0,"$760,000 ",NY Mets,A2,Reliever
+320,20010,Wyatt Mills,27,27,29.1,0.2,mills,wyatt,millswy01,20010,2021.0,"$727,500 ",Boston,,Reliever
+321,19926,Tony Santillan,25,21,19.2,0.2,santillan,tony,santito01,19926,2021.0,"$730,000 ",Cincinnati,,Reliever
+322,15042,Tim Mayza,30,63,48.2,0.1,mayza,tim,mayzati01,15042,2017.0,"$2,100,000 ",Toronto,A3,Reliever
+323,21366,Glenn Otto,26,27,135.2,0.1,otto,glenn,ottogl01,21366,2021.0,"$736,340 ",Texas,,Starter
+324,13607,Carl Edwards Jr.,30,57,62.0,0.1,edwards,carl,edwarca01,13607,2015.0,"$2,250,000 ",Washington,FA,Reliever
+325,10291,Ryan Tepera,34,59,57.1,0.1,tepera,ryan,teperry01,10291,2015.0,"$7,000,000 ",LA Angels,FA,Reliever
+326,15684,Miguel Castro,27,34,29.0,0.1,castro,miguel,castrmi01,15684,2015.0,"$3,500,000 ",Arizona,opt,Reliever
+327,19454,Michael Rucker,28,41,54.2,0.1,rucker,michael,ruckemi01,19454,2021.0,"$737,000 ",Chi Cubs,,Reliever
+328,26079,Beau Brieske,24,15,81.2,0.1,brieske,beau,briesbe01,26079,2022.0,"$724,400 ",Detroit,,Reliever
+329,15440,Matthew Boyd,31,10,13.1,0.1,boyd,matt,boydma01,15440,2015.0,"$10,000,000 ",Detroit,FA,Starter
+330,1246,Matt Bush,36,65,59.2,0.1,bush,matt,bushma01,1246,2016.0,"$1,850,000 ",Milwaukee,FA,Reliever
+331,18519,Phil Bickford,26,60,61.0,0.1,bickford,phil,bickfph01,18519,2020.0,"$740,000 ",LA Dodgers,,Reliever
+332,6398,Trevor May,32,26,25.0,0.1,may,trevor,maytr01,6398,2014.0,"$7,000,000 ",Oakland,FA,Reliever
+333,14444,Hyun-Jin Ryu,35,6,27.0,0.1,ryu,hyun jin,ryuhy01,14444,2013.0,"$20,000,000 ",Toronto,FA,Starter
+334,6399,Jose Cisnero,33,28,25.0,0.1,cisnero,josé,cisnejo01,6399,2013.0,"$2,287,500 ",Detroit,FA,Reliever
+335,25918,Zack Thompson,24,22,34.2,0.1,thompson,zack,thompza02,25918,2022.0,"$725,000 ",St. Louis,,Reliever
+336,25388,Cody Morris,25,7,23.2,0.1,morris,cody,morrico01,25388,2022.0,"$720,200 ",Cleveland,,Reliever
+337,21850,Mason Thompson,24,24,24.2,0.1,thompson,mason,thompma02,21850,2021.0,"$724,400 ",Washington,,Reliever
+338,22461,Logan Gillaspie,25,17,17.1,0.1,gillaspie,logan,gillalo01,22461,2022.0,"$721,200 ",Baltimore,,Reliever
+339,22264,Shane Baz,23,6,27.0,0.1,baz,shane,bazsh01,22264,2021.0,"$723,600 ",Tampa Bay,A1,Starter
+340,18323,Josh Sborz,28,19,22.1,0.1,sborz,josh,sborzjo01,18323,2019.0,"$733,450 ",Texas,A1,Reliever
+341,14374,Tyler Glasnow,28,2,6.2,0.1,glasnow,tyler,glasnty01,14374,2016.0,"$5,350,000 ",Tampa Bay,$25.000,Starter
+342,21324,Parker Mushinski,26,7,7.1,0.1,mushinski,parker,mushipa01,21324,2022.0,"$721,800 ",Houston,,Reliever
+343,12863,Matt Barnes,32,44,39.2,0.1,barnes,matt,barnema01,12863,2014.0,"$8,375,000 ",Miami,$2.250,Reliever
+344,20492,Casey Mize,25,2,10.0,0.1,mize,casey,mizeca01,20492,2020.0,"$734,200 ",Detroit,A1,Starter
+345,16703,Julian Merryweather,30,26,26.2,0.1,merryweather,julian,merryju01,16703,2020.0,"$737,000 ",Chi Cubs,A1,Reliever
+346,15467,Marco Gonzales,30,32,183.0,0.0,gonzales,marco,gonzama02,15467,2014.0,"$6,750,000 ",Seattle,$12.250,Starter
+347,22387,Josh Winckowski,24,15,70.1,0.0,winckowski,josh,winckjo01,22387,2022.0,"$722,000 ",Boston,,Reliever
+348,17092,Domingo Acevedo,28,70,67.2,0.0,acevedo,domingo,acevedo01,17092,2021.0,"$725,000 ",Oakland,,Reliever
+349,17701,Jose Cuas,28,47,37.2,0.0,cuas,josé,cuasjo01,17701,2022.0,"$726,000 ",Kansas City,,Reliever
+350,13345,Luis Cessa,30,46,80.2,0.0,cessa,luis,cessalu01,13345,2016.0,"$2,650,000 ",Cincinnati,FA,Starter
+351,19754,Reiver Sanmartin,26,45,57.0,0.0,sanmartin,reiver,sanmare01,19754,2021.0,"$722,500 ",Cincinnati,,Reliever
+352,18356,Jaime Barria,25,35,79.1,0.0,barría,jaime,barrija01,18356,2018.0,"$1,050,000 ",LA Angels,A2,Reliever
+353,17755,Drew Smith,28,44,46.0,0.0,smith,drew,smithdr01,17755,2018.0,"$1,300,000 ",NY Mets,A3,Reliever
+354,16502,Ryan Yarbrough,30,20,80.0,0.0,yarbrough,ryan,yarbrry01,16502,2018.0,"$3,000,000 ",Kansas City,A4,Starter
+355,14874,Sam Moll,30,53,43.1,0.0,moll,sam,mollsa01,14874,2017.0,"$725,000 ",Oakland,,Reliever
+356,17464,Jonathan Hernandez,25,29,30.1,0.0,hernández,jonathan,hernajo02,17464,2019.0,"$995,000 ",Texas,A2,Reliever
+357,17479,Jack Flaherty,26,9,36.0,0.0,flaherty,jack,flaheja01,17479,2017.0,"$5,400,000 ",St. Louis,FA,Starter
+358,20778,Cristopher Sanchez,25,15,40.0,0.0,sánchez,cristopher,sanchcr01,20778,2021.0,"$725,000 ",Philadelphia,,Reliever
+359,12572,Blake Treinen,34,5,5.0,0.0,treinen,blake,treinbl01,12572,2014.0,"$8,000,000 ",LA Dodgers,opt,Reliever
+360,6107,Huascar Brazoban,32,27,32.0,0.0,brazobán,huascar,brazohu01,6107,2022.0,"$724,000 ",Miami,,Reliever
+361,20349,Zack Kelly,27,13,13.2,0.0,kelly,zack,kellyza01,20349,2022.0,"$723,500 ",Boston,,Reliever
+362,23221,Michael Grove,25,7,29.1,0.0,grove,michael,grovemi01,23221,2022.0,"$722,500 ",LA Dodgers,,Reliever
+363,14706,Anthony Banda,28,32,26.2,0.0,banda,anthony,bandaan01,14706,2017.0,"$850,000 ",Washington,A1,Reliever
+364,20167,Kyle Muller,24,3,12.1,0.0,muller,kyle,mulleky01,20167,2021.0,"$720,000 ",Oakland,,Starter
+365,13470,Lucas Sims,28,6,6.2,0.0,sims,lucas,simslu01,13470,2017.0,"$1,267,500 ",Cincinnati,A3,Reliever
+366,13293,Danny Coulombe,32,10,12.1,0.0,coulombe,danny,couloda01,13293,2014.0,"$1,000,000 ",Baltimore,A3,Reliever
+367,24094,Ronny Henriquez,22,3,11.2,0.0,henriquez,ronny,henriro01,24094,2022.0,"$720,900 ",Minnesota,,Reliever
+368,1157,Tommy Hunter,35,18,22.1,0.0,hunter,tommy,hunteto02,1157,2008.0,"$1,750,000 ",NY Mets,FA,Reliever
+369,11384,Tommy Kahnle,32,13,12.2,0.0,kahnle,tommy,kahnlto01,11384,2014.0,"$5,750,000 ",NY Yankees,$5.750,Reliever
+370,19482,Andrew Vasquez,28,10,8.2,0.0,vasquez,andrew,vasquan02,19482,2018.0,"$723,500 ",Philadelphia,,Reliever
+371,13050,Anthony DeSclafani,32,5,19.0,0.0,desclafani,anthony,desclan01,13050,2014.0,"$12,000,000 ",San Francisco,$12.000,Starter
+372,17264,Sam Coonrod,29,12,12.2,0.0,coonrod,sam,coonrsa01,17264,2019.0,"$775,000 ",NY Mets,A2,Reliever
+373,19800,Wil Crowe,27,60,76.0,-0.1,crowe,wil,crowewi01,19800,2020.0,"$745,000 ",Pittsburgh,A1,Reliever
+374,10058,Tyler Matzek,31,42,43.2,-0.1,matzek,tyler,matzety01,10058,2014.0,"$1,200,000 ",Atlanta,$1.900,Reliever
+375,14771,Emilio Pagan,31,59,63.0,-0.1,pagán,emilio,paganem01,14771,2017.0,"$3,500,000 ",Minnesota,FA,Reliever
+376,17735,Tyler Alexander,27,27,101.0,-0.1,alexander,tyler,alexaty01,17735,2019.0,"$1,875,000 ",Detroit,A2,Reliever
+377,26221,Ryan Pepiot,24,9,36.1,-0.1,pepiot,ryan,pepiory01,26221,2022.0,"$722,500 ",LA Dodgers,,Starter
+378,15046,Trevor Gott,29,45,45.2,-0.1,gott,trevor,gotttr01,15046,2015.0,"$1,200,000 ",Seattle,FA,Reliever
+379,22717,Angel Zerpa,22,3,11.0,-0.1,zerpa,angel,zerpaan01,22717,2021.0,"$721,400 ",Kansas City,,Reliever
+380,13767,JT Chargois,31,21,22.1,-0.1,chargois,j. t.,chargjt01,13767,2016.0,"$850,000 ",Miami,A2,Reliever
+381,24933,Andrew Wantz,26,42,50.1,-0.1,wantz,andrew,wantzan01,24933,2021.0,"$740,000 ",LA Angels,,Reliever
+382,17485,Albert Abreu,26,33,38.2,-0.1,abreu,albert,abreual01,17485,2020.0,"$738,700 ",NY Yankees,,Reliever
+383,13133,Derek Law,31,17,19.2,-0.1,law,derek,lawde01,13133,2016.0,"$1,000,000 ",Cincinnati,A2,Reliever
+384,19330,Matthew Festa,29,53,54.0,-0.1,festa,matt,festama01,19330,2018.0,"$725,200 ",Seattle,,Reliever
+385,20418,Josh Fleming,26,10,35.0,-0.1,fleming,josh,flemijo01,20418,2020.0,"$727,000 ",Tampa Bay,A1,Starter
+386,19545,Stephen Nogosek,27,12,22.0,-0.1,nogosek,stephen,nogosst01,19545,2019.0,"$730,000 ",NY Mets,,Reliever
+387,19742,Anthony Bender,27,22,19.1,-0.1,bender,anthony,bendean01,19742,2021.0,"$738,500 ",Miami,A1,Reliever
+388,18282,Jarlin Garcia,29,58,65.0,-0.1,garcía,jarlín,garcija04,18282,2017.0,"$2,500,000 ",Pittsburgh,opt,Reliever
+389,16418,Blake Taylor,26,19,16.0,-0.1,taylor,blake,taylobl01,16418,2020.0,"$830,000 ",Houston,A2,Reliever
+390,14552,Jose Ruiz,27,63,60.2,-0.1,ruiz,josé,ruizjo01,14552,2017.0,"$925,000 ",Chi White Sox,A2,Reliever
+391,15256,Cole Sulser,32,39,34.0,-0.1,sulser,cole,sulseco01,15256,2019.0,"$825,000 ",Arizona,A2,Reliever
+392,14416,Yunior Marte,27,39,48.0,-0.1,marte,yunior,marteyu01,14416,2022.0,"$725,500 ",Philadelphia,,Reliever
+393,20061,Kaleb Ort,30,25,28.1,-0.1,ort,kaleb,ortka01,20061,2021.0,"$722,000 ",Boston,,Reliever
+394,18064,Phil Maton,29,67,65.2,-0.1,maton,phil,matonph01,18064,2017.0,"$2,550,000 ",Houston,FA,Reliever
+395,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$5,250,000 ",Texas,A2,Batter
+396,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$5,250,000 ",Texas,FA,Reliever
+397,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$5,250,000 ",LA Dodgers,A2,Batter
+398,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$5,250,000 ",LA Dodgers,FA,Reliever
+399,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$1,500,000 ",Texas,A2,Batter
+400,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$1,500,000 ",Texas,FA,Reliever
+401,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$1,500,000 ",LA Dodgers,A2,Batter
+402,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,"$1,500,000 ",LA Dodgers,FA,Reliever
+403,25595,Xzavion Curry,23,2,9.1,-0.1,curry,xzavion,curryxz01,25595,2022.0,"$720,100 ",Cleveland,,Reliever
+404,21461,Cole Sands,24,11,30.2,-0.1,sands,cole,sandsco01,21461,2022.0,"$723,650 ",Minnesota,,Reliever
+405,19407,Ronel Blanco,28,7,6.1,-0.1,blanco,ronel,blancro01,19407,2022.0,"$721,200 ",Houston,,Reliever
+406,22713,Carlos Hernandez,25,27,56.0,-0.1,hernández,carlos,hernaca04,22713,2020.0,"$730,250 ",Kansas City,A1,Reliever
+407,27474,Max Meyer,23,2,6.0,-0.1,meyer,max,meyerma01,27474,2022.0,"$721,500 ",Miami,,Reliever
+408,12178,Domingo Tapia,30,11,17.0,-0.1,tapia,domingo,tapiado01,12178,2020.0,"$735,000 ",San Diego,,Reliever
+409,15036,Chase De Jong,28,42,71.2,-0.2,de jong,chase,dejonch01,15036,2017.0,"$820,000 ",Pittsburgh,A1,Reliever
+410,13942,Brent Suter,32,54,66.2,-0.2,suter,brent,suterbr01,13942,2016.0,"$3,000,000 ",Colorado,FA,Reliever
+411,19403,Colin Poche,28,65,58.2,-0.2,poche,colin,pocheco01,19403,2019.0,"$1,175,000 ",Tampa Bay,A2,Reliever
+412,10233,Aroldis Chapman,34,43,36.1,-0.2,chapman,aroldis,chapmar01,10233,2010.0,"$3,750,000 ",Kansas City,FA,Reliever
+413,21023,Adrian Martinez,25,12,57.2,-0.2,martinez,adrián,martiad01,21023,2022.0,"$720,000 ",Oakland,,Reliever
+414,12828,Andrew Kittredge,32,17,20.0,-0.2,kittredge,andrew,kittran01,12828,2017.0,"$2,075,000 ",Tampa Bay,A3,Reliever
+415,25097,Garrett Hill,26,17,60.1,-0.2,hill,garrett,hillga02,25097,2022.0,"$722,300 ",Detroit,,Reliever
+416,19990,Bryse Wilson,24,25,115.2,-0.2,wilson,bryse,wilsobr02,19990,2018.0,"$732,600 ",Milwaukee,A1,Starter
+417,9073,Kirby Yates,35,9,7.0,-0.2,yates,kirby,yateski01,9073,2014.0,"$6,000,000 ",Atlanta,$1.250,Reliever
+418,19695,Connor Seabold,26,5,18.1,-0.2,seabold,connor,seaboco01,19695,2021.0,"$722,000 ",Colorado,,Reliever
+419,20468,Huascar Ynoa,24,2,6.2,-0.2,ynoa,huascar,ynoahu01,20468,2019.0,"$750,000 ",Atlanta,A1,Reliever
+420,23460,Brandon Hughes,26,57,57.2,-0.3,hughes,brandon,hughebr01,23460,2022.0,"$728,000 ",Chi Cubs,,Reliever
+421,21267,Jake Bird,26,38,47.2,-0.3,bird,jake,birdja01,21267,2022.0,"$722,000 ",Colorado,,Reliever
+422,17292,Javy Guerra,26,18,18.0,-0.3,guerra,javy,guerrja02,17292,2018.0,"$724,500 ",Milwaukee,A1,Reliever
+423,19666,Jason Alexander,29,18,71.2,-0.3,alexander,jason,alexaja01,19666,2022.0,"$732,500 ",Milwaukee,,Reliever
+424,20116,Calvin Faucher,26,22,21.1,-0.3,faucher,calvin,fauchca01,20116,2022.0,"$721,500 ",Tampa Bay,,Reliever
+425,5114,Jeurys Familia,32,48,44.1,-0.3,familia,jeurys,familje01,5114,2012.0,"$1,500,000 ",Oakland,FA,Reliever
+426,19871,Tucker Davidson,26,12,52.0,-0.3,davidson,tucker,davidtu01,19871,2020.0,"$740,000 ",LA Angels,,Reliever
+427,19179,Kirby Snead,27,46,44.2,-0.3,snead,kirby,sneadki01,19179,2021.0,"$725,000 ",Oakland,,Reliever
+428,10855,Chasen Shreve,31,25,26.1,-0.3,shreve,chasen,shrevch01,10855,2014.0,"$1,250,000 ",Detroit,FA,Reliever
+429,21101,Dauri Moreta,26,35,38.1,-0.3,moreta,dauri,moretda01,21101,2021.0,"$725,000 ",Pittsburgh,,Reliever
+430,21065,Thomas Szapucki,26,11,15.0,-0.3,szapucki,thomas,szaputh01,21065,2021.0,"$723,750 ",San Francisco,,Reliever
+431,21761,Jose Marte,26,11,11.0,-0.3,marte,josé,martejo01,21761,2021.0,"$730,000 ",LA Angels,,Reliever
+432,24930,Ethan Roberts,24,9,7.2,-0.3,roberts,ethan,roberet01,24930,2022.0,"$721,000 ",Chi Cubs,,Reliever
+433,17783,Jake Brentz,27,8,5.1,-0.3,brentz,jake,brentja01,17783,2021.0,"$850,000 ",Kansas City,$1.050,Reliever
+434,25942,Andrew Nardi,23,13,14.2,-0.4,nardi,andrew,nardian01,25942,2022.0,"$723,000 ",Miami,,Reliever
+435,19278,Vladimir Gutierrez,26,10,36.2,-0.5,gutiérrez,vladimir,gutievl01,19278,2021.0,"$730,000 ",Cincinnati,A1,Reliever
+436,5003,Jake Diekman,35,70,57.2,-0.6,diekman,jake,diekmja01,5003,2012.0,"$3,500,000 ",Chi White Sox,$1.000,Reliever
+437,13424,Drew VerHagen,31,19,21.2,-0.6,verhagen,drew,verhadr01,13424,2014.0,"$3,000,000 ",St. Louis,FA,Reliever
+438,25636,Hunter Gaddis,24,2,7.1,-0.6,gaddis,hunter,gaddihu01,25636,2022.0,"$720,100 ",Cleveland,,Reliever
+439,24580,Josiah Gray,24,28,148.2,-0.7,gray,josiah,grayjo03,24580,2021.0,"$730,000 ",Washington,,Starter
+440,20633,Yusei Kikuchi,31,32,100.2,-0.7,kikuchi,yusei,kikucyu01,20633,2019.0,"$10,000,000 ",Toronto,$10.000,Starter
+441,23252,Spencer Howard,25,10,37.2,-0.7,howard,spencer,howarsp01,23252,2020.0,"$733,455 ",Texas,A1,Reliever
+442,19268,Justin Dunn,26,7,31.0,-0.7,dunn,justin,dunnju01,19268,2019.0,"$900,000 ",Cincinnati,A2,Reliever
+443,18694,Kolby Allard,24,10,21.0,-0.7,allard,kolby,allarko01,18694,2018.0,"$750,000 ",Atlanta,A1,Reliever
+444,17490,Genesis Cabrera,25,39,44.2,-0.8,cabrera,génesis,cabrege01,17490,2019.0,"$950,000 ",St. Louis,A2,Reliever
+445,16933,Elieser Hernandez,27,20,62.1,-0.9,hernández,elieser,hernael01,16933,2018.0,"$1,600,000 ",NY Mets,A3,Reliever
+446,6986,Ian Kennedy,37,57,50.1,-1.0,kennedy,ian,kenneia01,6986,2007.0,"$2,250,000 ",Texas,FA,Reliever
+447,20132,Adam Oller,27,19,74.1,-1.1,oller,adam,ollerad01,20132,2022.0,"$720,000 ",Oakland,,Reliever
