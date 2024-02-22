@@ -1,454 +1,454 @@
-,IDfg,Name,Age,G,IP,WAR,name_last,name_first,key_bbref,key_fangraphs,mlb_played_first,2023,shortName,2024,SimplePosition,S2,2024Est
-0,16149,Aaron Nola,29,32,205.0,6.3,nola,aaron,nolaaa01,16149,2015.0,16250000.0,Philadelphia,FA,Starter,False,17091.0
-1,16137,Carlos Rodon,29,31,178.0,6.2,rodón,carlos,rodonca01,16137,2015.0,22833333.0,NY Yankees,$27.833,Starter,False,35000.0
-2,8700,Justin Verlander,39,28,175.0,6.0,verlander,justin,verlaju01,8700,2005.0,43333333.0,NY Mets,$43.333,Starter,False,25291.0
-3,18684,Sandy Alcantara,26,32,228.2,5.8,alcántara,sandy,alcansa01,18684,2017.0,6300000.0,Miami,$9.300,Starter,False,25333.0
-4,14107,Kevin Gausman,31,31,174.2,5.7,gausman,kevin,gausmke01,14107,2013.0,21000000.0,Toronto,$24.000,Starter,False,10833.0
-5,19755,Shohei Ohtani,27,28,166.0,5.6,ohtani,shohei,ohtansh01,19755,2018.0,30000000.0,LA Angels,FA,Starter,False,29200.0
-6,13743,Max Fried,28,30,185.1,5.0,fried,max,friedma01,13743,2017.0,13500000.0,Atlanta,A4,Starter,True,24765.0
-7,27498,Spencer Strider,23,31,131.2,4.9,strider,spencer,stridsp01,27498,2021.0,1000000.0,Atlanta,$1.000,Starter,False,32476.999999999996
-8,19427,Shane Bieber,27,31,200.0,4.8,bieber,shane,biebesh01,19427,2018.0,10010000.0,Cleveland,A3,Starter,False,23875.0
-9,19361,Corbin Burnes,27,33,202.0,4.6,burnes,corbin,burneco01,19361,2018.0,10010000.0,Milwaukee,A3,Starter,False,27273.0
-10,17295,Framber Valdez,28,31,201.1,4.4,valdez,framber,valdefr01,17295,2018.0,6800000.0,Houston,A3,Starter,True,26000.0
-11,18525,Dylan Cease,26,32,184.0,4.4,cease,dylan,ceasedy01,18525,2019.0,5700000.0,Chi White Sox,A2,Starter,False,5571.0
-12,3137,Max Scherzer,37,23,145.1,4.4,scherzer,max,scherma01,3137,2008.0,43333333.0,NY Mets,$43.333,Starter,False,37117.0
-13,17995,Logan Webb,25,32,192.1,4.2,webb,logan,webblo01,17995,2019.0,4600000.0,San Francisco,A2,Starter,False,25455.0
-14,19291,Zac Gallen,26,31,184.0,4.2,gallen,zac,galleza01,19291,2019.0,5600000.0,Arizona,A2,Starter,False,10250.0
-15,10310,Zack Wheeler,32,26,153.0,4.2,wheeler,zack,wheelza01,10310,2013.0,24500000.0,Philadelphia,$23.500,Starter,False,21000.0
-16,26410,Alek Manoah,24,31,196.2,4.1,manoah,alek,manoaal01,26410,2021.0,745650.0,Toronto,A1,Starter,True,8336000.0
-17,13074,Yu Darvish,35,30,194.2,4.1,darvish,yu,darviyu01,13074,2012.0,25000000.0,San Diego,$16.000,Starter,False,30500.0
-18,12880,Tyler Anderson,32,30,178.2,4.0,anderson,tyler,anderty01,12880,2016.0,13000000.0,LA Angels,$13.000,Starter,False,12186.0
-19,11423,Jose Quintana,33,32,165.2,4.0,quintana,josé,quintjo01,11423,2012.0,13000000.0,NY Mets,$13.000,Starter,False,0.0
-20,2036,Clayton Kershaw,34,22,126.1,3.8,kershaw,clayton,kershcl01,2036,2008.0,20000000.0,LA Dodgers,FA,Starter,False,20500.0
-21,6562,Alex Cobb,34,28,149.2,3.7,cobb,alex,cobbal01,6562,2011.0,9000000.0,San Francisco,$2.000,Starter,False,9000.0
-22,19447,Patrick Sandoval,25,27,148.2,3.7,sandoval,patrick,sandopa02,19447,2019.0,2750000.0,LA Angels,A2,Starter,True,5000.0
-23,16162,Brandon Woodruff,29,27,153.1,3.6,woodruff,brandon,woodrbr01,16162,2017.0,10800000.0,Milwaukee,A4,Starter,True,29500.0
-24,17874,Nestor Cortes,27,28,158.1,3.6,cortés,néstor,cortene01,17874,2018.0,3200000.0,NY Yankees,A2,Starter,False,7248000.000000001
-25,13543,Blake Snell,29,24,128.0,3.6,snell,blake,snellbl01,13543,2016.0,16600000.0,San Diego,FA,Starter,False,9648000.0
-26,21483,Shane McClanahan,25,28,166.1,3.5,mcclanahan,shane,mcclash01,21483,2021.0,737000.0,Tampa Bay,A1,Starter,True,10517999.999999998
-27,18000,Triston McKenzie,24,31,191.1,3.4,mckenzie,triston,mckentr01,18000,2020.0,739500.0,Cleveland,A1,Starter,False,12083.0
-28,12970,Joe Musgrove,29,30,181.0,3.4,musgrove,joe,musgrjo01,12970,2016.0,20000000.0,San Diego,$20.000,Starter,False,0.0
-29,13125,Gerrit Cole,31,33,200.2,3.3,cole,gerrit,colege01,13125,2013.0,36000000.0,NY Yankees,$36.000,Starter,False,33333.0
-30,17606,Cristian Javier,25,30,148.2,3.3,javier,cristian,javiecr01,17606,2020.0,3400000.0,Houston,$7.400,Starter,False,24167.0
-31,14765,Julio Urias,25,31,175.0,3.2,urías,julio,uriasju01,14765,2016.0,14250000.0,LA Dodgers,FA,Starter,False,35000.0
-32,11156,Merrill Kelly,33,33,200.1,3.2,kelly,merrill,kellyme01,11156,2019.0,8500000.0,Arizona,$8.500,Starter,False,9666000.0
-33,22250,Logan Gilbert,25,32,185.2,3.1,gilbert,logan,gilbelo01,22250,2021.0,767300.0,Seattle,A1,Starter,True,0.0
-34,13273,Ross Stripling,32,32,134.1,3.1,stripling,ross,stripro01,13273,2016.0,12500000.0,San Francisco,$12.500,Starter,False,720000.0
-35,2429,Corey Kluber,36,31,164.0,3.0,kluber,corey,klubeco01,2429,2011.0,10000000.0,Boston,opt,Starter,False,7286.0
-36,17677,Jeffrey Springs,29,33,135.1,3.0,springs,jeffrey,sprinje01,17677,2018.0,4000000.0,Tampa Bay,$5.250,Starter,False,11286.0
-37,25436,George Kirby,24,25,130.0,3.0,kirby,george,kirbyge01,25436,2022.0,758300.0,Seattle,,Starter,False,15143.0
-38,14710,Edwin Diaz,28,61,62.0,3.0,díaz,edwin,diazed04,14710,2016.0,18640000.0,NY Mets,$18.640,Reliever,False,720000.0
-39,19665,Kyle Wright,26,30,180.1,2.9,wright,kyle,wrighky01,19665,2018.0,750000.0,Atlanta,A1,Starter,False,11500.0
-40,2233,Adam Wainwright,40,32,191.2,2.9,wainwright,adam,wainwad01,2233,2005.0,14521720.0,St. Louis,FA,Starter,False,26000.0
-41,25377,Brady Singer,25,27,153.1,2.9,singer,brady,singebr01,25377,2020.0,2950000.0,Kansas City,A2,Starter,True,17061000.0
-42,17085,Pablo Lopez,26,32,180.0,2.9,lópez,pablo,lopezpa01,17085,2018.0,5450000.0,Minnesota,A3,Starter,False,7974000.0
-43,22267,Tarik Skubal,25,21,117.2,2.9,skubal,tarik,skubata01,22267,2020.0,743700.0,Detroit,A1,Reliever,False,720000.0
-44,12304,Chris Bassitt,33,30,181.2,2.8,bassitt,chris,bassich01,12304,2014.0,19000000.0,Toronto,$22.000,Starter,False,720000.0
-45,9803,Miles Mikolas,33,33,202.1,2.8,mikolas,miles,mikolmi01,9803,2012.0,21666667.0,St. Louis,$17.667,Starter,False,8814000.0
-46,19388,Tony Gonsolin,28,24,130.1,2.7,gonsolin,tony,gonsoto01,19388,2019.0,3250000.0,LA Dodgers,$3.400,Starter,True,5888000.0
-47,16511,Jordan Montgomery,29,32,178.1,2.7,montgomery,jordan,montgjo01,16511,2017.0,10000000.0,St. Louis,FA,Starter,False,8000.0
-48,11836,Taijuan Walker,29,29,157.1,2.6,walker,taijuan,walketa01,11836,2013.0,18000000.0,Philadelphia,$18.000,Starter,False,8000.0
-49,6632,Carlos Carrasco,35,29,152.0,2.5,carrasco,carlos,carraca01,6632,2009.0,14000000.0,NY Mets,FA,Starter,False,720000.0
-50,16256,Kyle Freeland,29,31,174.2,2.5,freeland,kyle,freelky01,16256,2017.0,10500000.0,Colorado,$15.000,Starter,False,720000.0
-51,6893,Johnny Cueto,36,25,158.1,2.5,cueto,johnny,cuetojo01,6893,2008.0,6000000.0,Miami,$2.500,Starter,False,5616000.000000001
-52,12768,Sonny Gray,32,24,119.2,2.4,gray,sonny,grayso01,12768,2013.0,13100000.0,Minnesota,,Starter,False,720000.0
-53,11674,Jameson Taillon,30,32,177.1,2.3,taillon,jameson,taillja01,11674,2016.0,14000000.0,Chi Cubs,$18.000,Starter,False,0.0
-54,17277,Ranger Suarez,26,29,155.1,2.3,suárez,ranger,suarera01,17277,2018.0,2950000.0,Philadelphia,A2,Starter,True,18000.0
-55,21032,Emmanuel Clase,24,77,72.2,2.3,clase,emmanuel,claseem01,21032,2019.0,1900000.0,Cleveland,$2.900,Reliever,False,22000.0
-56,11762,Noah Syndergaard,29,25,134.2,2.2,syndergaard,noah,syndeno01,11762,2015.0,13000000.0,LA Dodgers,FA,Starter,False,8966000.0
-57,17734,Evan Phillips,27,64,63.0,2.2,phillips,evan,phillev01,17734,2018.0,1300000.0,LA Dodgers,A1,Reliever,False,8500.0
-58,27468,Reid Detmers,22,25,129.0,2.2,detmers,reid,detmere01,27468,2021.0,740000.0,LA Angels,,Starter,False,720000.0
-59,15816,Devin Williams,27,65,60.2,2.2,williams,devin,willide03,15816,2019.0,3350000.0,Milwaukee,A2,Reliever,False,12000.0
-60,10954,Jacob deGrom,34,11,64.1,2.2,degrom,jacob,degroja01,10954,2014.0,30000000.0,Texas,$40.000,Starter,False,15000.0
-61,19959,Jesus Luzardo,24,18,100.1,2.2,luzardo,jesús,luzarje01,19959,2019.0,2450000.0,Miami,A2,Starter,True,20750.0
-62,21390,Joe Ryan,26,27,147.0,2.1,ryan,joe,ryanjo04,21390,2021.0,730250.0,Minnesota,,Starter,False,12871000.000000002
-63,16358,Tyler Mahle,27,23,120.2,2.1,mahle,tyler,mahlety01,16358,2017.0,7500000.0,Minnesota,FA,Starter,False,7000.0
-64,18655,A.J. Minter,28,75,70.0,2.1,minter,a. j.,minteaj01,18655,2017.0,4287500.0,Atlanta,A4,Reliever,True,4664000.0
-65,17594,Mitch Keller,26,31,159.0,2.1,keller,mitch,kellemi03,17594,2019.0,2437500.0,Pittsburgh,A2,Starter,False,5928000.0
-66,19312,Cal Quantrill,27,32,186.1,2.0,quantrill,cal,quantca01,19312,2019.0,5550000.0,Cleveland,A3,Starter,True,8167999.999999999
-67,18138,Ryan Helsley,27,54,64.2,2.0,helsley,ryan,helslry01,18138,2019.0,2150000.0,St. Louis,A2,Reliever,False,8167999.999999999
-68,16400,Reynaldo Lopez,28,61,65.1,2.0,lópez,reynaldo,lopezre01,16400,2016.0,3625000.0,Chi White Sox,FA,Reliever,False,17100.0
-69,13431,Marcus Stroman,31,25,138.2,2.0,stroman,marcus,stromma01,13431,2014.0,25000000.0,Chi Cubs,$21.000,Starter,False,5928000.0
-70,18679,Freddy Peralta,26,18,78.0,2.0,peralta,freddy,peralfr01,18679,2018.0,3735000.0,Milwaukee,$5.735,Starter,False,20000.0
-71,10123,Kyle Gibson,34,31,167.2,1.9,gibson,kyle,gibsoky01,10123,2013.0,10000000.0,Baltimore,FA,Starter,False,5742000.0
-72,2520,Lance Lynn,35,21,121.2,1.9,lynn,lance,lynnla01,2520,2011.0,18500000.0,Chi White Sox,$1.000,Starter,False,2000.0
-73,14916,Jon Gray,30,24,127.1,1.9,gray,jon,grayjo02,14916,2015.0,15000000.0,Texas,$13.000,Starter,False,5742000.0
-74,26378,Nick Lodolo,24,19,103.1,1.9,lodolo,nick,lodolni01,26378,2022.0,730000.0,Cincinnati,,Starter,False,720000.0
-75,1943,Zack Greinke,38,26,137.0,1.9,greinke,zack,greinza01,1943,2004.0,8500000.0,Kansas City,FA,Starter,False,720000.0
-76,17578,JT Brubaker,28,28,144.0,1.9,brubaker,jt,brubajt01,17578,2020.0,2275000.0,Pittsburgh,A2,Reliever,False,720000.0
-77,20373,Andres Munoz,23,64,65.0,1.9,muñoz,andrés,munozan01,20373,2019.0,1687500.0,Seattle,$2.188,Reliever,False,6258000.0
-78,15474,Lucas Giolito,27,30,161.2,1.8,giolito,lucas,giolilu01,15474,2016.0,10400000.0,Chi White Sox,FA,Starter,False,0.0
-79,4806,Rich Hill,42,26,124.1,1.8,hill,rich,hillri01,4806,2005.0,8000000.0,Pittsburgh,FA,Starter,False,0.0
-80,7115,Daniel Bard,37,57,60.1,1.8,bard,daniel,bardda01,7115,2009.0,9500000.0,Colorado,$9.500,Reliever,False,11614000.000000002
-81,20020,John Schreiber,28,64,65.0,1.8,schreiber,john,schrejo01,20020,2019.0,750000.0,Boston,A1,Reliever,False,720000.0
-82,11486,Robbie Ray,30,32,189.0,1.7,ray,robbie,rayro02,11486,2014.0,21000000.0,Seattle,$23.000,Starter,False,4120000.0000000005
-83,19350,Dean Kremer,26,22,125.1,1.7,kremer,dean,kremede01,19350,2020.0,731200.0,Baltimore,,Starter,False,0.0
-84,13781,Alex Wood,31,26,130.2,1.7,wood,alex,woodal02,13781,2013.0,12500000.0,San Francisco,FA,Starter,False,720000.0
-85,19932,Trevor Stephan,26,66,63.2,1.7,stephan,trevor,stephtr01,19932,2021.0,1350000.0,Cleveland,$1.600,Reliever,False,17000.0
-86,17780,Jose Alvarado,27,59,51.0,1.7,alvarado,josé,alvarjo03,17780,2017.0,3466667.0,Philadelphia,$9.017,Reliever,False,720000.0
-87,16587,Erik Swanson,28,57,53.2,1.7,swanson,erik,swanser01,16587,2019.0,1250000.0,Toronto,A2,Reliever,False,720000.0
-88,19911,Jose Suarez,24,22,109.0,1.6,suarez,josé,suarejo01,19911,2019.0,750000.0,LA Angels,A1,Starter,False,720000.0
-89,11804,Hector Neris,33,70,65.1,1.6,neris,héctor,nerishe01,11804,2014.0,8000000.0,Houston,$1.000,Reliever,False,27539.0
-90,16122,Jordan Romano,29,63,64.0,1.6,romano,jordan,romanjo03,16122,2019.0,4537500.0,Toronto,A2,Reliever,False,13400.0
-91,22182,Hunter Greene,22,24,125.2,1.6,greene,hunter,greenhu01,22182,2022.0,730000.0,Cincinnati,,Starter,False,720000.0
-92,3548,Liam Hendriks,33,58,57.2,1.6,hendriks,liam,hendrli01,3548,2011.0,14333333.0,Chi White Sox,$15.000,Reliever,False,0.0
-93,11847,Chris Martin,36,60,56.0,1.6,martin,chris,martich02,11847,2014.0,8000000.0,Boston,$9.500,Reliever,False,720000.0
-94,10078,Caleb Thielbar,35,67,59.1,1.6,thielbar,caleb,thielca01,10078,2013.0,2400000.0,Minnesota,A4,Reliever,True,3312000.0
-95,17556,Jimmy Herget,28,49,69.0,1.6,herget,jimmy,hergeji01,17556,2019.0,750000.0,LA Angels,A1,Reliever,False,22500.0
-96,14078,Michael Wacha,30,23,127.1,1.5,wacha,michael,wachami01,14078,2013.0,7500000.0,San Diego,$6.500,Starter,False,720000.0
-97,15454,Nick Pivetta,29,33,179.2,1.5,pivetta,nick,pivetni01,15454,2017.0,5350000.0,Boston,A3,Starter,False,5500.0
-98,20302,David Peterson,26,28,105.2,1.5,peterson,david,peterda01,20302,2020.0,750000.0,NY Mets,A1,Starter,False,720000.0
-99,25007,Alex Vesia,26,63,54.1,1.5,vesia,alex,vesiaal01,25007,2020.0,750000.0,LA Dodgers,A1,Reliever,False,3848000.0
-100,12760,Rafael Montero,31,71,68.1,1.5,montero,rafael,montera01,12760,2014.0,11500000.0,Houston,$11.500,Reliever,False,2455.0
-101,13339,Adrian Sampson,30,21,104.1,1.5,sampson,adrian,sampsad01,13339,2016.0,1900000.0,Chi Cubs,A1,Reliever,False,6837999.999999999
-102,21844,Braxton Garrett,24,17,88.0,1.5,garrett,braxton,garrebr01,21844,2020.0,732000.0,Miami,,Reliever,False,0.0
-103,21029,Jhoan Duran,24,57,67.2,1.5,durán,jhoan,duranjh01,21029,2022.0,720000.0,Minnesota,,Reliever,False,6837999.999999999
-104,17130,Raisel Iglesias,32,67,62.0,1.5,iglesias,raisel,iglesra01,17130,2015.0,16000000.0,Atlanta,$16.000,Reliever,False,4998000.0
-105,7593,Jordan Lyles,31,32,179.0,1.4,lyles,jordan,lylesjo01,7593,2011.0,8500000.0,Kansas City,$8.500,Starter,False,9938000.000000002
-106,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,737600.0,Texas,,Reliever,False,17000.0
-107,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,737600.0,Texas,A1,Starter,False,24251.0
-108,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,737600.0,Baltimore,,Reliever,False,500.0
-109,19244,Cole Irvin,28,30,181.0,1.4,irvin,cole,irvinco01,19244,2019.0,737600.0,Baltimore,A1,Starter,False,25.0
-110,15038,German Marquez,27,31,181.2,1.4,márquez,germán,marquge01,15038,2016.0,15300000.0,Colorado,$2.500,Starter,False,720000.0
-111,15890,Luis Severino,28,19,102.0,1.4,severino,luis,severlu01,15890,2015.0,15000000.0,NY Yankees,,Starter,False,3712000.0000000005
-112,1890,Matt Moore,33,63,74.0,1.4,moore,matt,moorema02,1890,2011.0,7550000.0,LA Angels,FA,Starter,False,720000.0
-113,16609,Bryan Abreu,25,55,60.1,1.4,abreu,bryan,abreubr01,16609,2019.0,745200.0,Houston,A1,Reliever,False,3133.0
-114,20666,Felix Bautista,27,65,65.2,1.4,bautista,félix,bautife01,20666,2022.0,731800.0,Baltimore,,Reliever,False,12500.0
-115,20191,Garrett Whitlock,26,31,78.1,1.4,whitlock,garrett,whitlga01,20191,2021.0,1250000.0,Boston,$3.500,Starter,False,720000.0
-116,7531,Collin McHugh,35,58,69.1,1.4,mchugh,collin,mchugco01,7531,2012.0,5000000.0,Atlanta,$1.000,Reliever,False,5000.0
-117,19569,David Bednar,27,45,51.2,1.4,bednar,david,bednada01,19569,2019.0,745000.0,Pittsburgh,A1,Reliever,False,4900.0
-118,7005,Ryan Pressly,33,50,48.1,1.4,pressly,ryan,pressry01,7005,2013.0,14000000.0,Houston,$14.000,Reliever,False,720000.0
-119,14986,Giovanny Gallegos,30,57,59.0,1.4,gallegos,giovanny,gallegi01,14986,2017.0,4750000.0,St. Louis,$5.750,Reliever,False,1000.0
-120,13774,Zach Eflin,28,20,75.2,1.4,eflin,zach,eflinza01,13774,2016.0,11000000.0,Tampa Bay,$11.000,Starter,False,11000.0
-121,15488,Antonio Senzatela,27,19,92.1,1.4,senzatela,antonio,senzaan01,15488,2017.0,7250000.0,Colorado,$12.000,Starter,False,1000.0
-122,11760,Drew Smyly,33,22,106.1,1.3,smyly,drew,smylydr01,11760,2012.0,8000000.0,Chi Cubs,$8.500,Starter,False,0.0
-123,13619,Jakob Junis,29,23,112.0,1.3,junis,jakob,junisja01,13619,2017.0,2800000.0,San Francisco,FA,Starter,False,13000.0
-124,27552,Graham Ashcraft,24,19,105.0,1.3,ashcraft,graham,ashcrgr01,27552,2022.0,722500.0,Cincinnati,,Starter,False,25000.0
-125,7982,Anthony Bass,34,73,70.1,1.3,bass,anthony,bassan01,7982,2011.0,3000000.0,Toronto,FA,Reliever,False,720000.0
-126,19804,Bryan Baker,27,66,69.2,1.3,baker,bryan,bakerbr01,19804,2021.0,729000.0,Baltimore,,Reliever,False,5508000.0
-127,11861,Jason Adam,30,67,63.1,1.3,adam,jason,adamja01,11861,2018.0,1775000.0,Tampa Bay,A2,Reliever,True,1000.0
-128,23920,Brayan Bello,23,13,57.1,1.3,bello,brayan,bellobr01,23920,2022.0,729500.0,Boston,,Starter,False,720000.0
-129,18384,Scott Effross,28,60,56.2,1.3,effross,scott,effrosc01,18384,2021.0,742750.0,NY Yankees,,Reliever,False,8500.0
-130,19225,Mitch White,27,25,99.0,1.3,white,mitch,whitemi03,19225,2020.0,743000.0,Toronto,,Reliever,False,3168000.0000000005
-131,21992,Camilo Doval,24,68,67.2,1.2,doval,camilo,dovalca01,21992,2021.0,735000.0,San Francisco,,Reliever,False,6375.0
-132,6397,Jake Odorizzi,32,22,106.1,1.2,odorizzi,jake,odorija01,6397,2012.0,12500000.0,Texas,FA,Starter,False,5000.0
-133,19479,Aaron Civale,27,20,97.0,1.2,civale,aaron,civalaa01,19479,2019.0,2600000.0,Cleveland,A2,Starter,False,13833.0
-134,17998,Pete Fairbanks,28,24,24.0,1.2,fairbanks,pete,fairbpe01,17998,2019.0,3666666.0,Tampa Bay,$3.667,Reliever,False,720000.0
-135,19316,Eric Lauer,27,29,158.2,1.1,lauer,eric,lauerer01,19316,2018.0,5075000.0,Milwaukee,A3,Starter,False,720000.0
-136,19206,Dakota Hudson,27,27,139.2,1.1,hudson,dakota,hudsoda02,19206,2018.0,2650000.0,St. Louis,A3,Starter,False,3032000.0000000005
-137,13649,Clay Holmes,29,62,63.2,1.1,holmes,clay,holmecl01,13649,2018.0,3300000.0,NY Yankees,A3,Reliever,False,0.0
-138,1247,Adam Ottavino,36,66,65.2,1.1,ottavino,adam,ottavad01,1247,2010.0,6647002.0,NY Mets,$6.075,Reliever,False,6000.0
-139,19996,Dylan Lee,27,46,50.2,1.1,lee,dylan,leedy01,19996,2021.0,730000.0,Atlanta,,Reliever,False,0.0
-140,3096,Kenley Jansen,34,65,64.0,1.1,jansen,kenley,janseke01,3096,2010.0,16000000.0,Boston,$16.000,Reliever,False,4341000.0
-141,17282,Michael Kopech,26,25,119.1,1.1,kopech,michael,kopecmi01,17282,2018.0,2050000.0,Chi White Sox,A2,Starter,False,0.0
-142,15423,Andrew Heaney,31,16,72.2,1.1,heaney,andrew,heanean01,15423,2014.0,12000000.0,Texas,$13.000,Starter,False,720000.0
-143,14857,Joe Mantiply,31,69,60.0,1.1,mantiply,joe,mantijo01,14857,2016.0,756000.0,Arizona,A1,Reliever,False,0.0
-144,18413,Jose Urquidy,27,29,164.1,1.0,urquidy,josé,urquijo01,18413,2019.0,3025000.0,Houston,A2,Starter,False,2448000.0
-145,14843,Michael Lorenzen,30,18,97.2,1.0,lorenzen,michael,lorenmi01,14843,2015.0,8500000.0,Detroit,FA,Starter,False,2896000.0
-146,15873,Sean Manaea,30,30,158.0,1.0,manaea,sean,manaese01,15873,2016.0,12500000.0,San Francisco,$12.500,Starter,False,2896000.0
-147,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,732400.0,Baltimore,,Batter,False,10000.0
-148,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,732400.0,Baltimore,A1,Reliever,False,6500.0
-149,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,732400.0,Detroit,,Batter,False,2896000.0
-150,19614,Cionel Perez,26,66,57.2,1.0,pérez,cionel,perezci01,19614,2018.0,732400.0,Detroit,A1,Reliever,False,0.0
-151,21132,Alexis Diaz,25,59,63.2,1.0,díaz,alexis,diazal03,21132,2022.0,730000.0,Cincinnati,,Reliever,False,0.0
-152,17968,Brock Burke,25,52,82.1,1.0,burke,brock,burkebr01,17968,2019.0,742840.0,Texas,A1,Reliever,False,720000.0
-153,19249,Seranthony Dominguez,27,54,51.0,1.0,domínguez,seranthony,dominse01,19249,2018.0,2500000.0,Philadelphia,$4.250,Reliever,False,13600.0
-154,9132,Nathan Eovaldi,32,20,109.1,1.0,eovaldi,nathan,eovalna01,9132,2011.0,17000000.0,Texas,$17.000,Starter,False,720000.0
-155,19374,Walker Buehler,27,12,65.0,1.0,buehler,walker,buehlwa01,19374,2017.0,8025000.0,LA Dodgers,A4,Reliever,True,7005000.0
-156,12718,Adrian Houser,29,22,102.2,1.0,houser,adrian,housead01,12718,2015.0,3600000.0,Milwaukee,A3,Reliever,False,10000.0
-157,18325,Taylor Hearn,27,31,100.0,1.0,hearn,taylor,hearnta01,18325,2019.0,1462500.0,Texas,A3,Reliever,True,500.0
-158,18403,Enyel De Los Santos,26,50,53.1,1.0,de los santos,enyel,delosen01,18403,2018.0,750000.0,Cleveland,A1,Reliever,False,720000.0
-159,15047,Austin Voth,30,41,101.2,1.0,voth,austin,vothau01,15047,2018.0,1850000.0,Baltimore,opt,Reliever,True,9786.0
-160,16610,J.P. Feyereisen,29,22,24.1,1.0,feyereisen,j. p.,feyerjo01,16610,2020.0,750000.0,LA Dodgers,A1,Reliever,False,720000.0
-161,10657,Andrew Bellatti,30,59,54.1,1.0,bellatti,andrew,bellaan01,10657,2015.0,859000.0,Philadelphia,,Reliever,False,3625.0
-162,19409,Dane Dunning,27,29,153.1,1.0,dunning,dane,dunnida01,19409,2020.0,742840.0,Texas,A1,Reliever,False,4444000.0
-163,13449,Taylor Rogers,31,66,64.1,1.0,rogers,taylor,rogerta01,13449,2016.0,9000000.0,San Francisco,$12.000,Reliever,False,3500.0
-164,18548,Sam Hentges,25,57,62.0,1.0,hentges,sam,hentgsa01,18548,2021.0,730200.0,Cleveland,A1,Reliever,True,2624000.0
-165,20153,Nick Nelson,26,47,68.2,1.0,nelson,nick,nelsoni01,20153,2020.0,745000.0,Philadelphia,A1,Reliever,False,720000.0
-166,20151,James Karinchak,26,38,39.0,1.0,karinchak,james,karinja01,20151,2019.0,1500000.0,Cleveland,A2,Reliever,True,4444000.0
-167,15507,Hunter Harvey,27,38,39.1,1.0,harvey,hunter,harvehu01,15507,2019.0,870000.0,Washington,A2,Reliever,False,0.0
-168,14814,Buck Farmer,31,44,47.0,1.0,farmer,buck,farmebu01,14814,2014.0,1725000.0,Cincinnati,FA,Reliever,False,720000.0
-169,15288,Adam Cimber,31,77,70.2,0.9,cimber,adam,cimbead01,15288,2018.0,3150000.0,Toronto,FA,Reliever,False,720000.0
-170,14993,Scott Barlow,29,69,74.1,0.9,barlow,scott,barlosc01,14993,2018.0,5300000.0,Kansas City,A3,Reliever,False,720000.0
-171,20253,Griffin Jax,27,65,72.1,0.9,jax,griffin,jaxgr01,20253,2021.0,733150.0,Minnesota,,Reliever,False,3489000.0
-172,20000,Tyler Wells,27,23,103.2,0.9,wells,tyler,wellsty01,20000,2021.0,732400.0,Baltimore,A1,Starter,False,720000.0
-173,12777,John Brebbia,32,76,68.0,0.9,brebbia,john,brebbjo01,12777,2017.0,2300000.0,San Francisco,FA,Reliever,False,720000.0
-174,6655,Craig Kimbrel,34,63,60.0,0.9,kimbrel,craig,kimbrcr01,6655,2010.0,10000000.0,Philadelphia,FA,Reliever,False,0.0
-175,22810,Roansy Contreras,22,21,95.0,0.9,contreras,roansy,contrro01,22810,2021.0,725000.0,Pittsburgh,,Starter,False,4178000.0
-176,16561,Austin Gomber,28,33,124.2,0.9,gomber,austin,gombeau01,16561,2018.0,1650000.0,Colorado,A2,Reliever,False,3489000.0
-177,8337,Lucas Luetge,35,50,57.1,0.9,luetge,lucas,luetglu01,8337,2012.0,1550000.0,Atlanta,A3,Reliever,False,720000.0
-178,12095,Yimi Garcia,31,61,61.0,0.9,garcía,yimi,garciyi01,12095,2014.0,5500000.0,Toronto,$1.000,Reliever,False,0.0
-179,14295,Wandy Peralta,30,56,56.1,0.9,peralta,wandy,peralwa01,14295,2016.0,3350000.0,NY Yankees,FA,Reliever,False,32000.0
-180,15947,Ryne Stanek,30,59,54.2,0.9,stanek,ryne,stanery01,15947,2017.0,3600000.0,Houston,FA,Reliever,False,720000.0
-181,12988,Andrew Chafin,32,64,57.1,0.9,chafin,andrew,chafian01,12988,2014.0,5500000.0,Arizona,$0.750,Reliever,False,2352000.0
-182,19493,Zach Jackson,27,54,48.0,0.9,jackson,zach,jacksza02,19493,2022.0,725000.0,Oakland,,Reliever,False,0.0
-183,23550,Aaron Ashby,24,27,107.1,0.9,ashby,aaron,ashbyaa01,23550,2021.0,1200000.0,Milwaukee,$1.450,Reliever,False,3275999.9999999995
-184,18297,Tyler Kinley,31,25,24.0,0.9,kinley,tyler,kinlety01,18297,2018.0,1200000.0,Colorado,$1.300,Reliever,False,720000.0
-185,10061,Brooks Raley,34,60,53.2,0.9,raley,brooks,raleybr01,10061,2012.0,4500000.0,NY Mets,$1.250,Reliever,False,7000.0
-186,20099,Chris Paddack,26,5,22.1,0.9,paddack,chris,paddach01,20099,2019.0,2500000.0,Minnesota,$2.525,Starter,False,3275999.9999999995
-187,14677,Duane Underwood Jr.,27,51,57.1,0.9,underwood,duane,underdu01,14677,2018.0,1025000.0,Pittsburgh,A2,Reliever,False,2952000.0
-188,20422,Jovani Moran,25,31,40.2,0.9,morán,jovani,moranjo01,20422,2021.0,726200.0,Minnesota,,Reliever,False,0.0
-189,19795,Keegan Thompson,27,29,115.0,0.8,thompson,keegan,thompke02,19795,2021.0,740000.0,Chi Cubs,A1,Reliever,True,3912000.0
-190,14739,Paul Blackburn,28,21,111.1,0.8,blackburn,paul,blackpa01,14739,2017.0,1900000.0,Oakland,A2,Starter,False,720000.0
-191,9323,Patrick Corbin,32,31,152.2,0.8,corbin,patrick,corbipa01,9323,2012.0,24416667.0,Washington,$35.417,Starter,False,0.0
-192,17732,Nabil Crismatt,27,50,67.1,0.8,crismatt,nabil,crismna01,17732,2020.0,750000.0,San Diego,A1,Reliever,False,720000.0
-193,8241,David Robertson,37,58,63.2,0.8,robertson,david,roberda08,8241,2008.0,10000000.0,NY Mets,FA,Reliever,False,720000.0
-194,14527,Jorge Lopez,29,67,71.0,0.8,lópez,jorge,lopezjo02,14527,2015.0,3525000.0,Minnesota,A3,Reliever,False,1500.0
-195,22201,MacKenzie Gore,23,16,70.0,0.8,gore,mackenzie,gorema01,22201,2022.0,723300.0,Washington,,Starter,False,0.0
-196,21537,Daniel Lynch,25,27,131.2,0.8,lynch,daniel,lynchda02,21537,2021.0,730250.0,Kansas City,,Starter,False,2216000.0
-197,22286,Trevor Rogers,24,23,107.0,0.8,rogers,trevor,rogertr01,22286,2020.0,752000.0,Miami,A1,Starter,False,0.0
-198,19979,Zach Plesac,27,25,131.2,0.8,plesac,zach,plesaza01,19979,2019.0,2950000.0,Cleveland,A2,Starter,False,0.0
-199,7146,Daniel Hudson,35,25,24.1,0.8,hudson,daniel,hudsoda01,7146,2009.0,6500000.0,LA Dodgers,opt,Reliever,False,720000.0
-200,20367,Brusdar Graterol,23,46,49.2,0.8,graterol,brusdar,gratebr01,20367,2019.0,1225000.0,LA Dodgers,A2,Reliever,True,720000.0
-201,19531,Jason Foley,26,60,60.1,0.8,foley,jason,foleyja01,19531,2021.0,726200.0,Detroit,,Reliever,False,720000.0
-202,13761,Chris Stratton,31,60,63.1,0.7,stratton,chris,stratch01,13761,2016.0,2800000.0,St. Louis,FA,Reliever,False,7000.0
-203,13896,Chris Flexen,27,33,137.2,0.7,flexen,chris,flexech01,13896,2017.0,8000000.0,Seattle,FA,Starter,False,0.0
-204,19883,Alex Lange,26,71,63.1,0.7,lange,alex,langeal01,19883,2021.0,726000.0,Detroit,,Reliever,False,720000.0
-205,15734,Brad Keller,26,35,139.2,0.7,keller,brad,kellebr01,15734,2018.0,5775000.0,Kansas City,FA,Starter,False,0.0
-206,30115,Robert Suarez,31,45,47.2,0.7,suarez,robert,suarero01,30115,2022.0,10000000.0,San Diego,$10.000,Reliever,False,7000.0
-207,19879,Tanner Houck,26,32,60.0,0.7,houck,tanner,houckta01,19879,2020.0,740000.0,Boston,,Reliever,False,720000.0
-208,13218,Michael Fulmer,29,67,63.2,0.7,fulmer,michael,fulmemi01,13218,2016.0,4000000.0,Chi Cubs,FA,Reliever,False,720000.0
-209,13164,Eduardo Rodriguez,29,17,91.0,0.7,rodríguez,eduardo,rodried05,13164,2015.0,14000000.0,Detroit,$18.000,Starter,False,5000.0
-210,13361,Steven Matz,31,15,48.0,0.7,matz,steven,matzst01,13361,2015.0,10500000.0,St. Louis,$12.500,Starter,False,4491000.0
-211,10133,Brad Boxberger,34,70,64.0,0.7,boxberger,brad,boxbebr01,10133,2012.0,2000000.0,Chi Cubs,$0.800,Reliever,False,0.0
-212,25174,Penn Murfee,28,64,69.1,0.7,murfee,penn,murfepe01,25174,2022.0,727000.0,Seattle,,Reliever,False,0.0
-213,22487,Johan Oviedo,24,21,56.0,0.7,oviedo,johan,oviedjo01,22487,2020.0,735000.0,Pittsburgh,,Starter,False,8750.0
-214,5448,Jesse Chavez,38,60,69.1,0.7,chavez,jesse,chaveje01,5448,2008.0,1200000.0,Atlanta,FA,Reliever,False,2637000.0
-215,24586,Kyle Bradish,25,23,117.2,0.7,bradish,kyle,bradiky01,24586,2022.0,728100.0,Baltimore,,Starter,False,720000.0
-216,27581,Hayden Wesneski,24,6,33.0,0.7,wesneski,hayden,wesneha01,27581,2022.0,721500.0,Chi Cubs,,Starter,False,0.0
-217,15514,Kendall Graveman,31,65,65.0,0.7,graveman,kendall,graveke01,15514,2014.0,8000000.0,Chi White Sox,$8.000,Reliever,False,1692000.0
-218,16977,Trevor Williams,30,30,89.2,0.7,williams,trevor,willitr01,16977,2016.0,6000000.0,Washington,$7.000,Starter,False,24800.0
-219,13346,Hoby Milner,31,67,64.2,0.7,milner,hoby,milneho01,13346,2017.0,1025000.0,Milwaukee,A2,Reliever,False,2100.0
-220,17611,Taylor Clarke,29,47,49.0,0.7,clarke,taylor,clarkta01,17611,2019.0,1150000.0,Kansas City,A2,Reliever,False,0.0
-221,11589,Jose Urena,30,21,97.0,0.7,ureña,josé,urenajo01,11589,2015.0,3000000.0,Colorado,$0.500,Starter,False,0.0
-222,17149,Domingo German,29,15,72.1,0.7,germán,domingo,germado01,17149,2017.0,2600000.0,NY Yankees,A3,Starter,False,0.0
-223,14212,Josh Hader,28,56,50.0,0.7,hader,josh,haderjo01,14212,2017.0,14100000.0,San Diego,FA,Reliever,False,2208000.0
-224,18376,Connor Overton,28,6,33.0,0.7,overton,connor,overtco01,18376,2021.0,730000.0,Cincinnati,,Starter,False,2848000.0
-225,13394,Dylan Floro,31,56,53.2,0.7,floro,dylan,florody01,13394,2016.0,3900000.0,Miami,FA,Reliever,False,20000.0
-226,26108,Andre Pallante,23,47,108.0,0.6,pallante,andre,pallaan01,26108,2022.0,728600.0,St. Louis,,Reliever,False,38571.0
-227,15009,Kyle Finnegan,30,66,66.2,0.6,finnegan,kyle,finneky01,15009,2020.0,2325000.0,Washington,A2,Reliever,False,720000.0
-228,20070,Bailey Falter,25,20,84.0,0.6,falter,bailey,falteba01,20070,2021.0,733000.0,Philadelphia,,Starter,False,0.0
-229,20203,Eli Morgan,26,50,66.2,0.6,morgan,eli,morgael01,20203,2021.0,727000.0,Cleveland,,Reliever,False,0.0
-230,18674,Jake Woodford,25,27,48.1,0.6,woodford,jake,woodfja01,18674,2020.0,739800.0,St. Louis,A1,Starter,False,2000.0
-231,25756,Matt Brash,24,39,50.2,0.6,brash,matt,brashma01,25756,2022.0,725800.0,Seattle,,Starter,False,720000.0
-232,21446,Ryan Feltner,25,20,97.1,0.6,feltner,ryan,feltnry01,21446,2021.0,722000.0,Colorado,,Starter,False,0.0
-233,15541,Tyler Rogers,31,68,75.2,0.6,rogers,tyler,rogerty01,15541,2019.0,1675000.0,San Francisco,A2,Reliever,False,0.0
-234,14375,Amir Garrett,30,60,45.1,0.6,garrett,amir,garream01,14375,2017.0,2650000.0,Kansas City,FA,Reliever,False,1672000.0
-235,17639,Justin Lawrence,27,38,42.2,0.6,lawrence,justin,lawreju01,17639,2021.0,722000.0,Colorado,,Reliever,False,6000.0
-236,25880,Hunter Brown,23,7,20.1,0.6,brown,hunter,brownhu01,25880,2022.0,725000.0,Houston,,Reliever,False,0.0
-237,21205,Connor Brogdon,27,47,44.0,0.6,brogdon,connor,brogdco01,21205,2020.0,738750.0,Philadelphia,A1,Reliever,False,0.0
-238,19677,Gregory Soto,27,64,60.1,0.6,soto,gregory,sotogr01,19677,2019.0,3925000.0,Philadelphia,A2,Reliever,False,28000.0
-239,21290,Lucas Gilbreath,26,47,43.0,0.6,gilbreath,lucas,gilbrlu01,21290,2021.0,725000.0,Colorado,A1,Reliever,True,720000.0
-240,17871,Ian Gibaut,28,34,36.0,0.6,gibaut,ian,gibauia01,17871,2019.0,730000.0,Cincinnati,,Reliever,False,0.0
-241,14524,Jose Leclerc,28,39,47.2,0.6,leclerc,josé,leclejo01,14524,2016.0,6000000.0,Texas,$0.500,Reliever,False,1536000.0
-242,23429,JP Sears,26,17,70.0,0.5,sears,jp,searsjp01,23429,2022.0,720000.0,Oakland,,Reliever,False,0.0
-243,14975,Chad Kuhl,29,27,137.0,0.5,kuhl,chad,kuhlch01,14975,2016.0,2000000.0,Washington,FA,Starter,False,720000.0
-244,13892,Paul Sewald,32,65,64.0,0.5,sewald,paul,sewalpa01,13892,2017.0,4100000.0,Seattle,A3,Reliever,False,0.0
-245,19899,Clarke Schmidt,26,29,57.2,0.5,schmidt,clarke,schmicl01,19899,2020.0,740475.0,NY Yankees,A1,Starter,True,8000.0
-246,20185,Zach Pop,25,35,39.0,0.5,pop,zach,popza01,20185,2021.0,742200.0,Toronto,,Reliever,False,0.0
-247,17796,Dillon Tate,28,67,73.2,0.5,tate,dillon,tatedi01,17796,2019.0,1500000.0,Baltimore,A2,Reliever,False,720000.0
-248,26260,Drey Jameson,24,4,24.1,0.5,jameson,drey,jamesdr01,26260,2022.0,723600.0,Arizona,,Reliever,False,0.0
-249,19362,Keegan Akin,27,45,81.2,0.5,akin,keegan,akinke01,19362,2020.0,731100.0,Baltimore,A1,Reliever,False,1000.0
-250,16814,Tim Hill,32,55,48.0,0.5,hill,tim,hillti01,16814,2018.0,1850000.0,San Diego,A3,Reliever,False,0.0
-251,20531,Kutter Crawford,26,21,77.1,0.5,crawford,kutter,crawfku01,20531,2021.0,730000.0,Boston,,Starter,False,0.0
-252,21455,Kris Bubic,24,28,129.0,0.5,bubic,kris,bubickr01,21455,2020.0,2200000.0,Kansas City,A2,Starter,True,0.0
-253,19962,Joey Wentz,24,7,32.2,0.5,wentz,joey,wentzjo01,19962,2022.0,723500.0,Detroit,,Reliever,False,0.0
-254,8779,Wade Miley,35,9,37.0,0.5,miley,wade,mileywa01,8779,2011.0,3500000.0,Milwaukee,$1.000,Starter,False,0.0
-255,17859,Adbert Alzolay,27,6,13.1,0.5,alzolay,adbert,alzolad01,17859,2019.0,744750.0,Chi Cubs,A1,Starter,False,20000.0
-256,12857,Shawn Armstrong,31,50,61.2,0.5,armstrong,shawn,armstsh01,12857,2015.0,1200000.0,Tampa Bay,A4,Reliever,True,720000.0
-257,19349,Caleb Ferguson,25,37,34.2,0.5,ferguson,caleb,ferguca01,19349,2018.0,1100000.0,LA Dodgers,A3,Reliever,False,0.0
-258,19876,Kevin Ginkel,28,30,29.1,0.5,ginkel,kevin,ginkeke01,19876,2019.0,746600.0,Arizona,A1,Reliever,False,720000.0
-259,15068,Yency Almonte,28,33,35.1,0.5,almonte,yency,almonye01,15068,2018.0,1500000.0,LA Dodgers,A2,Reliever,False,9000.0
-260,5615,Ryan Brasier,34,68,62.1,0.5,brasier,ryan,brasiry01,5615,2013.0,2000000.0,Boston,FA,Reliever,False,2050000.0
-261,12808,Mike Clevinger,31,23,114.1,0.4,clevinger,mike,clevimi01,12808,2016.0,8000000.0,Chi White Sox,$4.000,Starter,False,720000.0
-262,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,21882892.0,Toronto,,Batter,False,2815000.0
-263,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,21882892.0,Toronto,$12.900,Starter,False,0.0
-264,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,21882892.0,Arizona,,Batter,False,0.0
-265,5524,Madison Bumgarner,32,30,158.2,0.4,bumgarner,madison,bumgama01,5524,2009.0,21882892.0,Arizona,$12.900,Starter,False,720000.0
-266,22276,Dylan Coleman,25,68,68.0,0.4,coleman,dylan,colemdy01,22276,2021.0,731750.0,Kansas City,,Reliever,False,0.0
-267,18331,James Kaprielian,28,26,134.0,0.4,kaprielian,james,kaprija01,18331,2020.0,730000.0,Oakland,A1,Starter,False,0.0
-268,12730,Nick Martinez,31,47,106.1,0.4,martínez,nick,martini01,12730,2014.0,10000000.0,San Diego,$8.000,Starter,False,0.0
-269,17586,Tanner Scott,27,67,62.2,0.4,scott,tanner,scottta01,17586,2017.0,2825000.0,Miami,A3,Reliever,False,0.0
-270,12049,Kyle Hendricks,32,16,84.1,0.4,hendricks,kyle,hendrky01,12049,2014.0,14500000.0,Chi Cubs,$1.500,Starter,False,0.0
-271,16647,Ryan Thompson,30,47,42.2,0.4,thompson,ryan,thompry02,16647,2020.0,1000000.0,Tampa Bay,A2,Reliever,False,0.0
-272,20515,Kyle Nelson,25,43,37.0,0.4,nelson,kyle,nelsoky01,20515,2020.0,728900.0,Arizona,,Reliever,False,720000.0
-273,21367,Peter Strzelecki,27,30,35.0,0.4,strzelecki,peter,strzepe01,21367,2022.0,726400.0,Milwaukee,,Reliever,False,720000.0
-274,21741,Javier Assad,24,9,37.2,0.4,assad,javier,assadja01,21741,2022.0,721500.0,Chi Cubs,,Reliever,False,720000.0
-275,19753,Jonathan Loaisiga,27,50,48.0,0.4,loáisiga,jonathan,loaisjo01,19753,2018.0,2262500.0,NY Yankees,A3,Reliever,False,0.0
-276,23488,Ron Marinaccio,26,40,44.0,0.4,marinaccio,ron,marinro01,23488,2022.0,739900.0,NY Yankees,,Reliever,False,720000.0
-277,21045,Seth Martinez,27,29,38.2,0.4,martinez,seth,martise01,21045,2021.0,730200.0,Houston,,Reliever,False,750.0
-278,18333,Alex Young,28,25,26.2,0.4,young,alex,youngal01,18333,2019.0,1150000.0,Cincinnati,A2,Reliever,True,0.0
-279,17897,Garrett Cleavinger,28,17,23.0,0.4,cleavinger,garrett,cleavga01,17897,2020.0,725100.0,Tampa Bay,A1,Reliever,False,0.0
-280,17369,Brett Martin,27,55,50.0,0.4,martin,brett,martibr01,17369,2019.0,1275000.0,Texas,A3,Reliever,True,0.0
-281,19200,Jose Quijada,26,42,40.2,0.4,quijada,josé,quijajo01,19200,2019.0,750000.0,LA Angels,A1,Reliever,False,720000.0
-282,23292,Packy Naughton,26,26,32.0,0.4,naughton,packy,naughpa01,23292,2021.0,728750.0,St. Louis,,Reliever,False,720000.0
-283,10197,Shelby Miller,31,4,7.0,0.4,miller,shelby,millesh01,10197,2012.0,1500000.0,LA Dodgers,FA,Starter,False,720000.0
-284,21690,Edward Cabrera,24,14,71.2,0.3,cabrera,edward,cabreed02,21690,2021.0,731000.0,Miami,,Starter,False,720000.0
-285,20517,Nick Sandlin,25,46,44.0,0.3,sandlin,nick,sandlni01,20517,2021.0,726000.0,Cleveland,A1,Reliever,True,720000.0
-286,22361,Colin Holderman,26,24,28.1,0.3,holderman,colin,holdeco01,22361,2022.0,725000.0,Pittsburgh,,Reliever,False,1128000.0
-287,20353,Steven Wilson,27,50,53.0,0.3,wilson,steven,wilsost02,20353,2022.0,726400.0,San Diego,,Reliever,False,720000.0
-288,19343,A.J. Puk,27,62,66.1,0.3,puk,a. j.,pukaj01,19343,2019.0,736000.0,Miami,A1,Reliever,False,0.0
-289,14542,Carlos Estevez,29,62,57.0,0.3,estévez,carlos,estevca01,14542,2016.0,6750000.0,LA Angels,$6.750,Reliever,False,0.0
-290,13799,Matt Strahm,30,50,44.2,0.3,strahm,matt,strahma01,13799,2016.0,7500000.0,Philadelphia,$7.500,Starter,False,0.0
-291,9111,Brad Hand,32,55,45.0,0.3,hand,brad,handbr01,9111,2011.0,1500000.0,Colorado,$0.500,Reliever,False,12150.0
-292,19618,Jordan Hicks,25,35,61.1,0.3,hicks,jordan,hicksjo03,19618,2018.0,1837500.0,St. Louis,FA,Starter,False,0.0
-293,16258,Aaron Bummer,28,32,26.2,0.3,bummer,aaron,bummeaa01,16258,2017.0,3750000.0,Chi White Sox,$5.500,Reliever,False,0.0
-294,19716,Dustin May,24,6,30.0,0.3,may,dustin,maydu01,19716,2019.0,1675000.0,LA Dodgers,A2,Starter,False,1146000.0
-295,19995,Joel Kuhnel,27,53,58.0,0.3,kuhnel,joel,kuhnejo01,19995,2019.0,730000.0,Cincinnati,,Reliever,False,0.0
-296,26253,Ryne Nelson,24,3,18.1,0.3,nelson,ryne,nelsory01,26253,2022.0,722700.0,Arizona,,Starter,False,0.0
-297,15552,Chad Green,31,14,15.0,0.3,green,chad,greench03,15552,2016.0,2250000.0,Toronto,$6.250,Reliever,False,992000.0
-298,19541,Jimmy Lambert,27,42,47.0,0.3,lambert,jimmy,lambeji01,19541,2020.0,735000.0,Chi White Sox,A1,Reliever,True,1146000.0
-299,15915,Victor Arano,27,43,42.0,0.3,arano,víctor,aranovi01,15915,2017.0,925000.0,Washington,A3,Reliever,False,1146000.0
-300,20206,Mike Baumann,26,13,34.1,0.3,baumann,mike,baumami01,20206,2021.0,722300.0,Baltimore,,Reliever,False,1092000.0
-301,13435,Pierce Johnson,31,15,14.1,0.3,johnson,pierce,johnspi01,13435,2017.0,5000000.0,Colorado,FA,Reliever,False,1092000.0
-302,14361,Ty Blach,31,24,44.1,0.3,blach,ty,blachty01,14361,2016.0,1100000.0,Colorado,A2,Starter,False,0.0
-303,7048,Fernando Cruz,32,14,14.2,0.3,cruz,fernando,cruzfe01,7048,2022.0,720000.0,Cincinnati,,Reliever,False,0.0
-304,16269,John Means,29,2,8.0,0.3,means,john,meansjo01,16269,2018.0,2975000.0,Baltimore,A3,Starter,False,856000.0
-305,10343,Aaron Loup,34,65,58.2,0.3,loup,aaron,loupaa01,10343,2012.0,7500000.0,LA Angels,$2.000,Reliever,False,0.0
-306,21846,Cole Ragans,24,9,40.0,0.3,ragans,cole,raganco01,21846,2022.0,724145.0,Texas,,Reliever,False,0.0
-307,10430,Mychal Givens,32,59,61.1,0.2,givens,mychal,givenmy01,10430,2015.0,3000000.0,Baltimore,$2.000,Reliever,False,0.0
-308,20039,Adrian Morejon,23,26,34.0,0.2,morejón,adrián,morejad01,20039,2019.0,800000.0,San Diego,A2,Reliever,False,720000.0
-309,14332,Joel Payamps,28,41,55.2,0.2,payamps,joel,payamjo01,14332,2019.0,730500.0,Milwaukee,A1,Reliever,False,856000.0
-310,12447,Seth Lugo,32,62,65.0,0.2,lugo,seth,lugose01,12447,2016.0,7500000.0,San Diego,$7.500,Starter,False,0.0
-311,19309,Trevor Richards,29,62,64.0,0.2,richards,trevor,richatr01,19309,2018.0,1500000.0,Toronto,A3,Starter,False,2000.0
-312,19178,Tommy Nance,31,35,43.2,0.2,nance,tommy,nanceto01,19178,2021.0,729500.0,Miami,,Reliever,False,856000.0
-313,15043,Lou Trivino,30,64,53.2,0.2,trivino,lou,trivilo01,15043,2018.0,4100000.0,NY Yankees,A4,Reliever,True,720000.0
-314,13594,Robert Stephenson,29,58,58.0,0.2,stephenson,robert,stephro01,13594,2016.0,1750000.0,Pittsburgh,FA,Reliever,False,0.0
-315,16401,Yonny Chirinos,28,2,7.0,0.2,chirinos,yonny,chiriyo01,16401,2018.0,1275000.0,Tampa Bay,A4,Starter,True,0.0
-316,17610,Tanner Rainey,29,29,30.0,0.2,rainey,tanner,raineta01,17610,2018.0,1500000.0,Washington,A3,Reliever,True,0.0
-317,19647,Matt Foster,27,48,45.0,0.2,foster,matt,fostema01,19647,2020.0,734000.0,Chi White Sox,A1,Reliever,False,0.0
-318,17186,Dinelson Lamet,29,32,32.1,0.2,lamet,dinelson,lametdi01,17186,2017.0,5000000.0,Colorado,FA,Starter,False,720000.0
-319,22175,Max Kranick,24,2,5.0,0.2,kranick,max,kranima01,22175,2021.0,725000.0,Pittsburgh,,Reliever,False,720000.0
-320,21298,Andre Jackson,26,4,9.2,0.2,jackson,andre,jacksan01,21298,2021.0,722500.0,LA Dodgers,,Reliever,False,0.0
-321,10603,Chris Sale,33,2,5.2,0.2,sale,chris,salech01,10603,2010.0,21672484.0,Boston,$21.673,Starter,False,7000.0
-322,16631,Jeff Brigham,30,16,24.0,0.2,brigham,jeff,brighje01,16631,2018.0,760000.0,NY Mets,A2,Reliever,False,720000.0
-323,20010,Wyatt Mills,27,27,29.1,0.2,mills,wyatt,millswy01,20010,2021.0,727500.0,Boston,,Reliever,False,0.0
-324,19926,Tony Santillan,25,21,19.2,0.2,santillan,tony,santito01,19926,2021.0,730000.0,Cincinnati,,Reliever,False,720000.0
-325,15042,Tim Mayza,30,63,48.2,0.1,mayza,tim,mayzati01,15042,2017.0,2100000.0,Toronto,A3,Reliever,True,720000.0
-326,21366,Glenn Otto,26,27,135.2,0.1,otto,glenn,ottogl01,21366,2021.0,736340.0,Texas,,Starter,False,0.0
-327,13607,Carl Edwards Jr.,30,57,62.0,0.1,edwards,carl,edwarca01,13607,2015.0,2250000.0,Washington,FA,Reliever,False,0.0
-328,10291,Ryan Tepera,34,59,57.1,0.1,tepera,ryan,teperry01,10291,2015.0,7000000.0,LA Angels,FA,Reliever,False,0.0
-329,15684,Miguel Castro,27,34,29.0,0.1,castro,miguel,castrmi01,15684,2015.0,3500000.0,Arizona,opt,Reliever,False,720000.0
-330,19454,Michael Rucker,28,41,54.2,0.1,rucker,michael,ruckemi01,19454,2021.0,737000.0,Chi Cubs,,Reliever,False,0.0
-331,26079,Beau Brieske,24,15,81.2,0.1,brieske,beau,briesbe01,26079,2022.0,724400.0,Detroit,,Reliever,False,0.0
-332,18335,Josh Staumont,28,42,37.2,0.1,staumont,josh,staumjo01,18335,2019.0,1025000.0,Kansas City,A2,Reliever,False,720000.0
-333,15440,Matthew Boyd,31,10,13.1,0.1,boyd,matt,boydma01,15440,2015.0,10000000.0,Detroit,FA,Starter,False,0.0
-334,1246,Matt Bush,36,65,59.2,0.1,bush,matt,bushma01,1246,2016.0,1850000.0,Milwaukee,FA,Reliever,False,720000.0
-335,18519,Phil Bickford,26,60,61.0,0.1,bickford,phil,bickfph01,18519,2020.0,740000.0,LA Dodgers,,Reliever,False,0.0
-336,6398,Trevor May,32,26,25.0,0.1,may,trevor,maytr01,6398,2014.0,7000000.0,Oakland,FA,Reliever,False,720000.0
-337,14444,Hyun-Jin Ryu,35,6,27.0,0.1,ryu,hyun jin,ryuhy01,14444,2013.0,20000000.0,Toronto,FA,Starter,False,0.0
-338,6399,Jose Cisnero,33,28,25.0,0.1,cisnero,josé,cisnejo01,6399,2013.0,2287500.0,Detroit,FA,Reliever,False,0.0
-339,25918,Zack Thompson,24,22,34.2,0.1,thompson,zack,thompza02,25918,2022.0,725000.0,St. Louis,,Reliever,False,720000.0
-340,25388,Cody Morris,25,7,23.2,0.1,morris,cody,morrico01,25388,2022.0,720200.0,Cleveland,,Reliever,False,0.0
-341,21850,Mason Thompson,24,24,24.2,0.1,thompson,mason,thompma02,21850,2021.0,724400.0,Washington,,Reliever,False,720000.0
-342,22461,Logan Gillaspie,25,17,17.1,0.1,gillaspie,logan,gillalo01,22461,2022.0,721200.0,Baltimore,,Reliever,False,0.0
-343,22264,Shane Baz,23,6,27.0,0.1,baz,shane,bazsh01,22264,2021.0,723600.0,Tampa Bay,A1,Starter,False,720000.0
-344,18323,Josh Sborz,28,19,22.1,0.1,sborz,josh,sborzjo01,18323,2019.0,733450.0,Texas,A1,Reliever,False,0.0
-345,14374,Tyler Glasnow,28,2,6.2,0.1,glasnow,tyler,glasnty01,14374,2016.0,5350000.0,Tampa Bay,$25.000,Starter,False,720000.0
-346,21324,Parker Mushinski,26,7,7.1,0.1,mushinski,parker,mushipa01,21324,2022.0,721800.0,Houston,,Reliever,False,720000.0
-347,12863,Matt Barnes,32,44,39.2,0.1,barnes,matt,barnema01,12863,2014.0,8375000.0,Miami,$2.250,Reliever,False,0.0
-348,20492,Casey Mize,25,2,10.0,0.1,mize,casey,mizeca01,20492,2020.0,734200.0,Detroit,A1,Starter,False,720000.0
-349,16703,Julian Merryweather,30,26,26.2,0.1,merryweather,julian,merryju01,16703,2020.0,737000.0,Chi Cubs,A1,Reliever,False,3250.0
-350,15467,Marco Gonzales,30,32,183.0,0.0,gonzales,marco,gonzama02,15467,2014.0,6750000.0,Seattle,$12.250,Starter,False,0.0
-351,22387,Josh Winckowski,24,15,70.1,0.0,winckowski,josh,winckjo01,22387,2022.0,722000.0,Boston,,Reliever,False,0.0
-352,17092,Domingo Acevedo,28,70,67.2,0.0,acevedo,domingo,acevedo01,17092,2021.0,725000.0,Oakland,,Reliever,False,0.0
-353,17701,Jose Cuas,28,47,37.2,0.0,cuas,josé,cuasjo01,17701,2022.0,726000.0,Kansas City,,Reliever,False,0.0
-354,13345,Luis Cessa,30,46,80.2,0.0,cessa,luis,cessalu01,13345,2016.0,2650000.0,Cincinnati,FA,Starter,False,720000.0
-355,19754,Reiver Sanmartin,26,45,57.0,0.0,sanmartin,reiver,sanmare01,19754,2021.0,722500.0,Cincinnati,,Reliever,False,720000.0
-356,18356,Jaime Barria,25,35,79.1,0.0,barría,jaime,barrija01,18356,2018.0,1050000.0,LA Angels,A2,Reliever,False,720000.0
-357,17755,Drew Smith,28,44,46.0,0.0,smith,drew,smithdr01,17755,2018.0,1300000.0,NY Mets,A3,Reliever,False,0.0
-358,16502,Ryan Yarbrough,30,20,80.0,0.0,yarbrough,ryan,yarbrry01,16502,2018.0,3000000.0,Kansas City,A4,Starter,True,0.0
-359,14874,Sam Moll,30,53,43.1,0.0,moll,sam,mollsa01,14874,2017.0,725000.0,Oakland,,Reliever,False,720000.0
-360,17464,Jonathan Hernandez,25,29,30.1,0.0,hernández,jonathan,hernajo02,17464,2019.0,995000.0,Texas,A2,Reliever,False,18000.0
-361,17479,Jack Flaherty,26,9,36.0,0.0,flaherty,jack,flaheja01,17479,2017.0,5400000.0,St. Louis,FA,Starter,False,720000.0
-362,20778,Cristopher Sanchez,25,15,40.0,0.0,sánchez,cristopher,sanchcr01,20778,2021.0,725000.0,Philadelphia,,Reliever,False,720000.0
-363,12572,Blake Treinen,34,5,5.0,0.0,treinen,blake,treinbl01,12572,2014.0,8000000.0,LA Dodgers,opt,Reliever,False,720000.0
-364,6107,Huascar Brazoban,32,27,32.0,0.0,brazobán,huascar,brazohu01,6107,2022.0,724000.0,Miami,,Reliever,False,0.0
-365,20349,Zack Kelly,27,13,13.2,0.0,kelly,zack,kellyza01,20349,2022.0,723500.0,Boston,,Reliever,False,0.0
-366,23221,Michael Grove,25,7,29.1,0.0,grove,michael,grovemi01,23221,2022.0,722500.0,LA Dodgers,,Reliever,False,720000.0
-367,14706,Anthony Banda,28,32,26.2,0.0,banda,anthony,bandaan01,14706,2017.0,850000.0,Washington,A1,Reliever,False,720000.0
-368,20167,Kyle Muller,24,3,12.1,0.0,muller,kyle,mulleky01,20167,2021.0,720000.0,Oakland,,Starter,False,720000.0
-369,13470,Lucas Sims,28,6,6.2,0.0,sims,lucas,simslu01,13470,2017.0,1267500.0,Cincinnati,A3,Reliever,False,720000.0
-370,13293,Danny Coulombe,32,10,12.1,0.0,coulombe,danny,couloda01,13293,2014.0,1000000.0,Baltimore,A3,Reliever,False,0.0
-371,24094,Ronny Henriquez,22,3,11.2,0.0,henriquez,ronny,henriro01,24094,2022.0,720900.0,Minnesota,,Reliever,False,720000.0
-372,1157,Tommy Hunter,35,18,22.1,0.0,hunter,tommy,hunteto02,1157,2008.0,1750000.0,NY Mets,FA,Reliever,False,720000.0
-373,11384,Tommy Kahnle,32,13,12.2,0.0,kahnle,tommy,kahnlto01,11384,2014.0,5750000.0,NY Yankees,$5.750,Reliever,False,720000.0
-374,19482,Andrew Vasquez,28,10,8.2,0.0,vasquez,andrew,vasquan02,19482,2018.0,723500.0,Philadelphia,,Reliever,False,12000.0
-375,13050,Anthony DeSclafani,32,5,19.0,0.0,desclafani,anthony,desclan01,13050,2014.0,12000000.0,San Francisco,$12.000,Starter,False,0.0
-376,17264,Sam Coonrod,29,12,12.2,0.0,coonrod,sam,coonrsa01,17264,2019.0,775000.0,NY Mets,A2,Reliever,False,720000.0
-377,19800,Wil Crowe,27,60,76.0,-0.1,crowe,wil,crowewi01,19800,2020.0,745000.0,Pittsburgh,A1,Reliever,False,720000.0
-378,10058,Tyler Matzek,31,42,43.2,-0.1,matzek,tyler,matzety01,10058,2014.0,1200000.0,Atlanta,$1.900,Reliever,False,20000.0
-379,14771,Emilio Pagan,31,59,63.0,-0.1,pagán,emilio,paganem01,14771,2017.0,3500000.0,Minnesota,FA,Reliever,False,720000.0
-380,17735,Tyler Alexander,27,27,101.0,-0.1,alexander,tyler,alexaty01,17735,2019.0,1875000.0,Detroit,A2,Reliever,False,720000.0
-381,26221,Ryan Pepiot,24,9,36.1,-0.1,pepiot,ryan,pepiory01,26221,2022.0,722500.0,LA Dodgers,,Starter,False,720000.0
-382,15046,Trevor Gott,29,45,45.2,-0.1,gott,trevor,gotttr01,15046,2015.0,1200000.0,Seattle,FA,Reliever,False,720000.0
-383,22717,Angel Zerpa,22,3,11.0,-0.1,zerpa,angel,zerpaan01,22717,2021.0,721400.0,Kansas City,,Reliever,False,9250.0
-384,13767,JT Chargois,31,21,22.1,-0.1,chargois,j. t.,chargjt01,13767,2016.0,850000.0,Miami,A2,Reliever,False,720000.0
-385,24933,Andrew Wantz,26,42,50.1,-0.1,wantz,andrew,wantzan01,24933,2021.0,740000.0,LA Angels,,Reliever,False,0.0
-386,17485,Albert Abreu,26,33,38.2,-0.1,abreu,albert,abreual01,17485,2020.0,738700.0,NY Yankees,,Reliever,False,720000.0
-387,13133,Derek Law,31,17,19.2,-0.1,law,derek,lawde01,13133,2016.0,1000000.0,Cincinnati,A2,Reliever,False,720000.0
-388,19330,Matthew Festa,29,53,54.0,-0.1,festa,matt,festama01,19330,2018.0,725200.0,Seattle,,Reliever,False,0.0
-389,20418,Josh Fleming,26,10,35.0,-0.1,fleming,josh,flemijo01,20418,2020.0,727000.0,Tampa Bay,A1,Starter,False,0.0
-390,19545,Stephen Nogosek,27,12,22.0,-0.1,nogosek,stephen,nogosst01,19545,2019.0,730000.0,NY Mets,,Reliever,False,6000.0
-391,19742,Anthony Bender,27,22,19.1,-0.1,bender,anthony,bendean01,19742,2021.0,738500.0,Miami,A1,Reliever,True,8000.0
-392,18282,Jarlin Garcia,29,58,65.0,-0.1,garcía,jarlín,garcija04,18282,2017.0,2500000.0,Pittsburgh,opt,Reliever,False,
-393,16418,Blake Taylor,26,19,16.0,-0.1,taylor,blake,taylobl01,16418,2020.0,830000.0,Houston,A2,Reliever,False,
-394,14552,Jose Ruiz,27,63,60.2,-0.1,ruiz,josé,ruizjo01,14552,2017.0,925000.0,Chi White Sox,A2,Reliever,False,
-395,15256,Cole Sulser,32,39,34.0,-0.1,sulser,cole,sulseco01,15256,2019.0,825000.0,Arizona,A2,Reliever,False,
-396,14416,Yunior Marte,27,39,48.0,-0.1,marte,yunior,marteyu01,14416,2022.0,725500.0,Philadelphia,,Reliever,False,
-397,20061,Kaleb Ort,30,25,28.1,-0.1,ort,kaleb,ortka01,20061,2021.0,722000.0,Boston,,Reliever,False,
-398,18064,Phil Maton,29,67,65.2,-0.1,maton,phil,matonph01,18064,2017.0,2550000.0,Houston,FA,Reliever,False,
-399,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,5250000.0,Texas,A2,Batter,False,
-400,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,5250000.0,Texas,FA,Reliever,False,
-401,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,5250000.0,LA Dodgers,A2,Batter,False,
-402,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,5250000.0,LA Dodgers,FA,Reliever,False,
-403,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,1500000.0,Texas,A2,Batter,False,
-404,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,1500000.0,Texas,FA,Reliever,False,
-405,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,1500000.0,LA Dodgers,A2,Batter,False,
-406,8048,Will Smith,32,65,59.0,-0.1,smith,will,smithwi04,8048,2012.0,1500000.0,LA Dodgers,FA,Reliever,False,
-407,17948,Trent Thornton,28,32,46.0,-0.1,thornton,trent,thorntr01,17948,2019.0,1000000.0,Toronto,A2,Starter,False,
-408,25595,Xzavion Curry,23,2,9.1,-0.1,curry,xzavion,curryxz01,25595,2022.0,720100.0,Cleveland,,Reliever,False,
-409,21461,Cole Sands,24,11,30.2,-0.1,sands,cole,sandsco01,21461,2022.0,723650.0,Minnesota,,Reliever,False,
-410,19407,Ronel Blanco,28,7,6.1,-0.1,blanco,ronel,blancro01,19407,2022.0,721200.0,Houston,,Reliever,False,
-411,22713,Carlos Hernandez,25,27,56.0,-0.1,hernández,carlos,hernaca04,22713,2020.0,730250.0,Kansas City,A1,Reliever,True,
-412,27474,Max Meyer,23,2,6.0,-0.1,meyer,max,meyerma01,27474,2022.0,721500.0,Miami,,Reliever,False,
-413,12178,Domingo Tapia,30,11,17.0,-0.1,tapia,domingo,tapiado01,12178,2020.0,735000.0,San Diego,,Reliever,False,
-414,15036,Chase De Jong,28,42,71.2,-0.2,de jong,chase,dejonch01,15036,2017.0,820000.0,Pittsburgh,A1,Reliever,False,
-415,13942,Brent Suter,32,54,66.2,-0.2,suter,brent,suterbr01,13942,2016.0,3000000.0,Colorado,FA,Reliever,False,
-416,19403,Colin Poche,28,65,58.2,-0.2,poche,colin,pocheco01,19403,2019.0,1175000.0,Tampa Bay,A2,Reliever,False,
-417,10233,Aroldis Chapman,34,43,36.1,-0.2,chapman,aroldis,chapmar01,10233,2010.0,3750000.0,Kansas City,FA,Reliever,False,
-418,21023,Adrian Martinez,25,12,57.2,-0.2,martinez,adrián,martiad01,21023,2022.0,720000.0,Oakland,,Reliever,False,
-419,12828,Andrew Kittredge,32,17,20.0,-0.2,kittredge,andrew,kittran01,12828,2017.0,2075000.0,Tampa Bay,A3,Reliever,False,
-420,25097,Garrett Hill,26,17,60.1,-0.2,hill,garrett,hillga02,25097,2022.0,722300.0,Detroit,,Reliever,False,
-421,19990,Bryse Wilson,24,25,115.2,-0.2,wilson,bryse,wilsobr02,19990,2018.0,732600.0,Milwaukee,A1,Starter,False,
-422,9073,Kirby Yates,35,9,7.0,-0.2,yates,kirby,yateski01,9073,2014.0,6000000.0,Atlanta,$1.250,Reliever,False,
-423,19695,Connor Seabold,26,5,18.1,-0.2,seabold,connor,seaboco01,19695,2021.0,722000.0,Colorado,,Reliever,False,
-424,20468,Huascar Ynoa,24,2,6.2,-0.2,ynoa,huascar,ynoahu01,20468,2019.0,750000.0,Atlanta,A1,Reliever,False,
-425,23460,Brandon Hughes,26,57,57.2,-0.3,hughes,brandon,hughebr01,23460,2022.0,728000.0,Chi Cubs,,Reliever,False,
-426,21267,Jake Bird,26,38,47.2,-0.3,bird,jake,birdja01,21267,2022.0,722000.0,Colorado,,Reliever,False,
-427,17292,Javy Guerra,26,18,18.0,-0.3,guerra,javy,guerrja02,17292,2018.0,724500.0,Milwaukee,A1,Reliever,False,
-428,19666,Jason Alexander,29,18,71.2,-0.3,alexander,jason,alexaja01,19666,2022.0,732500.0,Milwaukee,,Reliever,False,
-429,20116,Calvin Faucher,26,22,21.1,-0.3,faucher,calvin,fauchca01,20116,2022.0,721500.0,Tampa Bay,,Reliever,False,
-430,5114,Jeurys Familia,32,48,44.1,-0.3,familia,jeurys,familje01,5114,2012.0,1500000.0,Oakland,FA,Reliever,False,
-431,19871,Tucker Davidson,26,12,52.0,-0.3,davidson,tucker,davidtu01,19871,2020.0,740000.0,LA Angels,,Reliever,False,
-432,19179,Kirby Snead,27,46,44.2,-0.3,snead,kirby,sneadki01,19179,2021.0,725000.0,Oakland,,Reliever,False,
-433,10855,Chasen Shreve,31,25,26.1,-0.3,shreve,chasen,shrevch01,10855,2014.0,1250000.0,Detroit,FA,Reliever,False,
-434,21101,Dauri Moreta,26,35,38.1,-0.3,moreta,dauri,moretda01,21101,2021.0,725000.0,Pittsburgh,,Reliever,False,
-435,21065,Thomas Szapucki,26,11,15.0,-0.3,szapucki,thomas,szaputh01,21065,2021.0,723750.0,San Francisco,,Reliever,False,
-436,21761,Jose Marte,26,11,11.0,-0.3,marte,josé,martejo01,21761,2021.0,730000.0,LA Angels,,Reliever,False,
-437,24930,Ethan Roberts,24,9,7.2,-0.3,roberts,ethan,roberet01,24930,2022.0,721000.0,Chi Cubs,,Reliever,False,
-438,17783,Jake Brentz,27,8,5.1,-0.3,brentz,jake,brentja01,17783,2021.0,850000.0,Kansas City,$1.050,Reliever,False,
-439,25942,Andrew Nardi,23,13,14.2,-0.4,nardi,andrew,nardian01,25942,2022.0,723000.0,Miami,,Reliever,False,
-440,19278,Vladimir Gutierrez,26,10,36.2,-0.5,gutiérrez,vladimir,gutievl01,19278,2021.0,730000.0,Cincinnati,A1,Reliever,True,
-441,5003,Jake Diekman,35,70,57.2,-0.6,diekman,jake,diekmja01,5003,2012.0,3500000.0,Chi White Sox,$1.000,Reliever,False,
-442,13424,Drew VerHagen,31,19,21.2,-0.6,verhagen,drew,verhadr01,13424,2014.0,3000000.0,St. Louis,FA,Reliever,False,
-443,25636,Hunter Gaddis,24,2,7.1,-0.6,gaddis,hunter,gaddihu01,25636,2022.0,720100.0,Cleveland,,Reliever,False,
-444,24580,Josiah Gray,24,28,148.2,-0.7,gray,josiah,grayjo03,24580,2021.0,730000.0,Washington,,Starter,False,
-445,20633,Yusei Kikuchi,31,32,100.2,-0.7,kikuchi,yusei,kikucyu01,20633,2019.0,10000000.0,Toronto,$10.000,Starter,False,
-446,23252,Spencer Howard,25,10,37.2,-0.7,howard,spencer,howarsp01,23252,2020.0,733455.0,Texas,A1,Reliever,False,
-447,19268,Justin Dunn,26,7,31.0,-0.7,dunn,justin,dunnju01,19268,2019.0,900000.0,Cincinnati,A2,Reliever,False,
-448,18694,Kolby Allard,24,10,21.0,-0.7,allard,kolby,allarko01,18694,2018.0,750000.0,Atlanta,A1,Reliever,False,
-449,17490,Genesis Cabrera,25,39,44.2,-0.8,cabrera,génesis,cabrege01,17490,2019.0,950000.0,St. Louis,A2,Reliever,False,
-450,16933,Elieser Hernandez,27,20,62.1,-0.9,hernández,elieser,hernael01,16933,2018.0,1600000.0,NY Mets,A3,Reliever,False,
-451,6986,Ian Kennedy,37,57,50.1,-1.0,kennedy,ian,kenneia01,6986,2007.0,2250000.0,Texas,FA,Reliever,False,
-452,20132,Adam Oller,27,19,74.1,-1.1,oller,adam,ollerad01,20132,2022.0,720000.0,Oakland,,Reliever,False,
+,IDfg,Name,Age,G,IP,WAR,name_last,name_first,key_bbref,mlb_played_first,2023,shortName,2024,S2,2024Est,Selectable,Position_Starter,Position_Reliever
+0,16149,Aaron Nola,28,32,205.0,6.3,nola,aaron,nolaaa01,2015.0,16250000.0,Philadelphia,FA,False,0.0,True,True,False
+1,16137,Carlos Rodon,28,31,178.0,6.2,rodón,carlos,rodonca01,2015.0,22833333.0,NY Yankees,$27.833,False,27833000.0,True,True,False
+2,8700,Justin Verlander,38,28,175.0,6.0,verlander,justin,verlaju01,2005.0,43333333.0,NY Mets,$43.333,False,43333000.0,True,True,False
+3,18684,Sandy Alcantara,25,32,228.2,5.8,alcántara,sandy,alcansa01,2017.0,6300000.0,Miami,$9.300,False,9300000.0,True,True,False
+4,14107,Kevin Gausman,30,31,174.2,5.7,gausman,kevin,gausmke01,2013.0,21000000.0,Toronto,$24.000,False,24000000.0,True,True,False
+5,19755,Shohei Ohtani,26,28,166.0,5.6,ohtani,shohei,ohtansh01,2018.0,30000000.0,LA Angels,FA,False,0.0,True,True,False
+6,13743,Max Fried,27,30,185.1,5.0,fried,max,friedma01,2017.0,13500000.0,Atlanta,A4,True,20120000.0,True,True,False
+7,27498,Spencer Strider,22,31,131.2,4.9,strider,spencer,stridsp01,2021.0,1000000.0,Atlanta,$1.000,False,1000000.0,False,True,False
+8,19427,Shane Bieber,26,31,200.0,4.8,bieber,shane,biebesh01,2018.0,10010000.0,Cleveland,A3,False,16752000.0,True,True,False
+9,19361,Corbin Burnes,26,33,202.0,4.6,burnes,corbin,burneco01,2018.0,10010000.0,Milwaukee,A3,False,16083999.999999998,True,True,False
+10,17295,Framber Valdez,27,31,201.1,4.4,valdez,framber,valdefr01,2018.0,6800000.0,Houston,A3,True,13788000.000000002,True,True,False
+11,18525,Dylan Cease,25,32,184.0,4.4,cease,dylan,ceasedy01,2019.0,5700000.0,Chi White Sox,A2,False,11060000.000000002,True,True,False
+12,3137,Max Scherzer,36,23,145.1,4.4,scherzer,max,scherma01,2008.0,43333333.0,NY Mets,$43.333,False,43333000.0,True,True,False
+13,17995,Logan Webb,24,32,192.1,4.2,webb,logan,webblo01,2019.0,4600000.0,San Francisco,A2,False,10590000.000000002,True,True,False
+14,19291,Zac Gallen,25,31,184.0,4.2,gallen,zac,galleza01,2019.0,5600000.0,Arizona,A2,False,10590000.000000002,True,True,False
+15,10310,Zack Wheeler,31,26,153.0,4.2,wheeler,zack,wheelza01,2013.0,24500000.0,Philadelphia,$23.500,False,23500000.0,True,True,False
+16,26410,Alek Manoah,23,31,196.2,4.1,manoah,alek,manoaal01,2021.0,745650.0,Toronto,A1,True,5271000.0,False,True,False
+17,13074,Yu Darvish,34,30,194.2,4.1,darvish,yu,darviyu01,2012.0,25000000.0,San Diego,$16.000,False,16000000.0,True,True,False
+18,12880,Tyler Anderson,31,30,178.2,4.0,anderson,tyler,anderty01,2016.0,13000000.0,LA Angels,$13.000,False,13000000.0,True,True,False
+19,11423,Jose Quintana,32,32,165.2,4.0,quintana,josé,quintjo01,2012.0,13000000.0,NY Mets,$13.000,False,13000000.0,True,True,False
+20,2036,Clayton Kershaw,33,22,126.1,3.8,kershaw,clayton,kershcl01,2008.0,20000000.0,LA Dodgers,FA,False,0.0,True,True,False
+21,6562,Alex Cobb,33,28,149.2,3.7,cobb,alex,cobbal01,2011.0,9000000.0,San Francisco,$2.000,False,2000000.0,True,True,False
+22,19447,Patrick Sandoval,24,27,148.2,3.7,sandoval,patrick,sandopa02,2019.0,2750000.0,LA Angels,A2,True,8009000.000000001,True,True,False
+23,16162,Brandon Woodruff,28,27,153.1,3.6,woodruff,brandon,woodrbr01,2017.0,10800000.0,Milwaukee,A4,True,14688000.0,True,True,False
+24,17874,Nestor Cortes,26,28,158.1,3.6,cortés,néstor,cortene01,2018.0,3200000.0,NY Yankees,A2,False,9180000.0,True,True,False
+25,13543,Blake Snell,28,24,128.0,3.6,snell,blake,snellbl01,2016.0,16600000.0,San Diego,FA,False,0.0,True,True,False
+26,21483,Shane McClanahan,24,28,166.1,3.5,mcclanahan,shane,mcclash01,2021.0,737000.0,Tampa Bay,A1,True,4605000.0,False,True,False
+27,18000,Triston McKenzie,23,31,191.1,3.4,mckenzie,triston,mckentr01,2020.0,739500.0,Cleveland,A1,False,5411999.999999999,False,True,False
+28,12970,Joe Musgrove,28,30,181.0,3.4,musgrove,joe,musgrjo01,2016.0,20000000.0,San Diego,$20.000,False,20000000.0,True,True,False
+29,13125,Gerrit Cole,30,33,200.2,3.3,cole,gerrit,colege01,2013.0,36000000.0,NY Yankees,$36.000,False,36000000.0,True,True,False
+30,17606,Cristian Javier,24,30,148.2,3.3,javier,cristian,javiecr01,2020.0,3400000.0,Houston,$7.400,False,7400000.0,False,True,False
+31,14765,Julio Urias,24,31,175.0,3.2,urías,julio,uriasju01,2016.0,14250000.0,LA Dodgers,FA,False,0.0,True,True,False
+32,11156,Merrill Kelly,32,33,200.1,3.2,kelly,merrill,kellyme01,2019.0,8500000.0,Arizona,$8.500,False,8500000.0,True,True,False
+33,22250,Logan Gilbert,24,32,185.2,3.1,gilbert,logan,gilbelo01,2021.0,767300.0,Seattle,A1,True,4161000.0000000005,False,True,False
+34,13273,Ross Stripling,31,32,134.1,3.1,stripling,ross,stripro01,2016.0,12500000.0,San Francisco,$12.500,False,12500000.0,True,True,False
+35,2429,Corey Kluber,35,31,164.0,3.0,kluber,corey,klubeco01,2011.0,10000000.0,Boston,opt,False,720000.0,True,True,False
+36,17677,Jeffrey Springs,28,33,135.1,3.0,springs,jeffrey,sprinje01,2018.0,4000000.0,Tampa Bay,$5.250,False,5250000.0,True,True,False
+37,25436,George Kirby,23,25,130.0,3.0,kirby,george,kirbyge01,2022.0,758300.0,Seattle,,False,0.0,False,True,False
+38,14710,Edwin Diaz,27,61,62.0,3.0,díaz,edwin,diazed04,2016.0,18640000.0,NY Mets,$18.640,False,18640000.0,True,False,True
+39,19665,Kyle Wright,25,30,180.1,2.9,wright,kyle,wrighky01,2018.0,750000.0,Atlanta,A1,False,4722000.0,True,True,False
+40,2233,Adam Wainwright,39,32,191.2,2.9,wainwright,adam,wainwad01,2005.0,14521720.0,St. Louis,FA,False,0.0,True,True,False
+41,25377,Brady Singer,24,27,153.1,2.9,singer,brady,singebr01,2020.0,2950000.0,Kansas City,A2,True,6433000.0,False,True,False
+42,17085,Pablo Lopez,25,32,180.0,2.9,lópez,pablo,lopezpa01,2018.0,5450000.0,Minnesota,A3,False,10406000.0,True,True,False
+43,22267,Tarik Skubal,24,21,117.2,2.9,skubal,tarik,skubata01,2020.0,743700.0,Detroit,A1,False,5911000.0,False,False,True
+44,12304,Chris Bassitt,32,30,181.2,2.8,bassitt,chris,bassich01,2014.0,19000000.0,Toronto,$22.000,False,22000000.0,True,True,False
+45,9803,Miles Mikolas,32,33,202.1,2.8,mikolas,miles,mikolmi01,2012.0,21666667.0,St. Louis,$17.667,False,17667000.0,True,True,False
+46,19388,Tony Gonsolin,27,24,130.1,2.7,gonsolin,tony,gonsoto01,2019.0,3250000.0,LA Dodgers,$3.400,True,3400000.0,True,True,False
+47,16511,Jordan Montgomery,28,32,178.1,2.7,montgomery,jordan,montgjo01,2017.0,10000000.0,St. Louis,FA,False,0.0,True,True,False
+48,11836,Taijuan Walker,28,29,157.1,2.6,walker,taijuan,walketa01,2013.0,18000000.0,Philadelphia,$18.000,False,18000000.0,True,True,False
+49,6632,Carlos Carrasco,34,29,152.0,2.5,carrasco,carlos,carraca01,2009.0,14000000.0,NY Mets,FA,False,0.0,True,True,False
+50,16256,Kyle Freeland,28,31,174.2,2.5,freeland,kyle,freelky01,2017.0,10500000.0,Colorado,$15.000,False,15000000.0,True,True,False
+51,6893,Johnny Cueto,35,25,158.1,2.5,cueto,johnny,cuetojo01,2008.0,6000000.0,Miami,$2.500,False,2500000.0,True,True,False
+52,12768,Sonny Gray,31,24,119.2,2.4,gray,sonny,grayso01,2013.0,13100000.0,Minnesota,,False,0.0,True,True,False
+53,11674,Jameson Taillon,29,32,177.1,2.3,taillon,jameson,taillja01,2016.0,14000000.0,Chi Cubs,$18.000,False,18000000.0,True,True,False
+54,17277,Ranger Suarez,25,29,155.1,2.3,suárez,ranger,suarera01,2018.0,2950000.0,Philadelphia,A2,True,5251000.0,True,True,False
+55,21032,Emmanuel Clase,23,77,72.2,2.3,clase,emmanuel,claseem01,2019.0,1900000.0,Cleveland,$2.900,False,2900000.0,True,False,True
+56,11762,Noah Syndergaard,28,25,134.2,2.2,syndergaard,noah,syndeno01,2015.0,13000000.0,LA Dodgers,FA,False,0.0,True,True,False
+57,17734,Evan Phillips,26,64,63.0,2.2,phillips,evan,phillev01,2018.0,1300000.0,LA Dodgers,A1,False,4658000.0,True,False,True
+58,27468,Reid Detmers,21,25,129.0,2.2,detmers,reid,detmere01,2021.0,740000.0,LA Angels,,False,0.0,False,True,False
+59,15816,Devin Williams,26,65,60.2,2.2,williams,devin,willide03,2019.0,3350000.0,Milwaukee,A2,False,9476000.0,True,False,True
+60,10954,Jacob deGrom,33,11,64.1,2.2,degrom,jacob,degroja01,2014.0,30000000.0,Texas,$40.000,False,40000000.0,True,True,False
+61,19959,Jesus Luzardo,23,18,100.1,2.2,luzardo,jesús,luzarje01,2019.0,2450000.0,Miami,A2,True,5054000.000000001,True,True,False
+62,21390,Joe Ryan,25,27,147.0,2.1,ryan,joe,ryanjo04,2021.0,730250.0,Minnesota,,False,0.0,False,True,False
+63,16358,Tyler Mahle,26,23,120.2,2.1,mahle,tyler,mahlety01,2017.0,7500000.0,Minnesota,FA,False,0.0,True,True,False
+64,18655,A.J. Minter,27,75,70.0,2.1,minter,a. j.,minteaj01,2017.0,4287500.0,Atlanta,A4,True,16680000.0,True,False,True
+65,17594,Mitch Keller,25,31,159.0,2.1,keller,mitch,kellemi03,2019.0,2437500.0,Pittsburgh,A2,False,5655000.000000001,True,True,False
+66,19312,Cal Quantrill,26,32,186.1,2.0,quantrill,cal,quantca01,2019.0,5550000.0,Cleveland,A3,True,6660000.0,True,True,False
+67,18138,Ryan Helsley,26,54,64.2,2.0,helsley,ryan,helslry01,2019.0,2150000.0,St. Louis,A2,False,8680000.0,True,False,True
+68,16400,Reynaldo Lopez,27,61,65.1,2.0,lópez,reynaldo,lopezre01,2016.0,3625000.0,Chi White Sox,FA,False,0.0,True,False,True
+69,13431,Marcus Stroman,30,25,138.2,2.0,stroman,marcus,stromma01,2014.0,25000000.0,Chi Cubs,$21.000,False,21000000.0,True,True,False
+70,18679,Freddy Peralta,25,18,78.0,2.0,peralta,freddy,peralfr01,2018.0,3735000.0,Milwaukee,$5.735,False,5735000.0,True,True,False
+71,10123,Kyle Gibson,33,31,167.2,1.9,gibson,kyle,gibsoky01,2013.0,10000000.0,Baltimore,FA,False,0.0,True,True,False
+72,2520,Lance Lynn,34,21,121.2,1.9,lynn,lance,lynnla01,2011.0,18500000.0,Chi White Sox,$1.000,False,1000000.0,True,True,False
+73,14916,Jon Gray,29,24,127.1,1.9,gray,jon,grayjo02,2015.0,15000000.0,Texas,$13.000,False,13000000.0,True,True,False
+74,26378,Nick Lodolo,23,19,103.1,1.9,lodolo,nick,lodolni01,2022.0,730000.0,Cincinnati,,False,0.0,False,True,False
+75,1943,Zack Greinke,37,26,137.0,1.9,greinke,zack,greinza01,2004.0,8500000.0,Kansas City,FA,False,0.0,True,True,False
+76,17578,JT Brubaker,27,28,144.0,1.9,brubaker,jt,brubajt01,2020.0,2275000.0,Pittsburgh,A2,False,8281999.999999999,False,False,True
+77,20373,Andres Munoz,22,64,65.0,1.9,muñoz,andrés,munozan01,2019.0,1687500.0,Seattle,$2.188,False,2188000.0,True,False,True
+78,15474,Lucas Giolito,26,30,161.2,1.8,giolito,lucas,giolilu01,2016.0,10400000.0,Chi White Sox,FA,False,0.0,True,True,False
+79,4806,Rich Hill,41,26,124.1,1.8,hill,rich,hillri01,2005.0,8000000.0,Pittsburgh,FA,False,0.0,True,True,False
+80,7115,Daniel Bard,36,57,60.1,1.8,bard,daniel,bardda01,2009.0,9500000.0,Colorado,$9.500,False,9500000.0,True,False,True
+81,20020,John Schreiber,27,64,65.0,1.8,schreiber,john,schrejo01,2019.0,750000.0,Boston,A1,False,3942000.0,True,False,True
+82,11486,Robbie Ray,29,32,189.0,1.7,ray,robbie,rayro02,2014.0,21000000.0,Seattle,$23.000,False,23000000.0,True,True,False
+83,19350,Dean Kremer,25,22,125.1,1.7,kremer,dean,kremede01,2020.0,731200.0,Baltimore,,False,0.0,False,True,False
+84,13781,Alex Wood,30,26,130.2,1.7,wood,alex,woodal02,2013.0,12500000.0,San Francisco,FA,False,0.0,True,True,False
+85,19932,Trevor Stephan,25,66,63.2,1.7,stephan,trevor,stephtr01,2021.0,1350000.0,Cleveland,$1.600,False,1600000.0,False,False,True
+86,17780,Jose Alvarado,26,59,51.0,1.7,alvarado,josé,alvarjo03,2017.0,3466667.0,Philadelphia,$9.017,False,9017000.0,True,False,True
+87,16587,Erik Swanson,27,57,53.2,1.7,swanson,erik,swanser01,2019.0,1250000.0,Toronto,A2,False,7486000.0,True,False,True
+88,19911,Jose Suarez,23,22,109.0,1.6,suarez,josé,suarejo01,2019.0,750000.0,LA Angels,A1,False,2927999.9999999995,True,True,False
+89,11804,Hector Neris,32,70,65.1,1.6,neris,héctor,nerishe01,2014.0,8000000.0,Houston,$1.000,False,1000000.0,True,False,True
+90,16122,Jordan Romano,28,63,64.0,1.6,romano,jordan,romanjo03,2019.0,4537500.0,Toronto,A2,False,7088000.0,True,False,True
+91,22182,Hunter Greene,21,24,125.2,1.6,greene,hunter,greenhu01,2022.0,730000.0,Cincinnati,,False,0.0,False,True,False
+92,3548,Liam Hendriks,32,58,57.2,1.6,hendriks,liam,hendrli01,2011.0,14333333.0,Chi White Sox,$15.000,False,15000000.0,True,False,True
+93,11847,Chris Martin,35,60,56.0,1.6,martin,chris,martich02,2014.0,8000000.0,Boston,$9.500,False,9500000.0,True,False,True
+94,10078,Caleb Thielbar,34,67,59.1,1.6,thielbar,caleb,thielca01,2013.0,2400000.0,Minnesota,A4,True,12880000.0,True,False,True
+95,17556,Jimmy Herget,27,49,69.0,1.6,herget,jimmy,hergeji01,2019.0,750000.0,LA Angels,A1,False,3584000.0000000005,True,False,True
+96,14078,Michael Wacha,29,23,127.1,1.5,wacha,michael,wachami01,2013.0,7500000.0,San Diego,$6.500,False,6500000.0,True,True,False
+97,15454,Nick Pivetta,28,33,179.2,1.5,pivetta,nick,pivetni01,2017.0,5350000.0,Boston,A3,False,5730000.0,True,True,False
+98,20302,David Peterson,25,28,105.2,1.5,peterson,david,peterda01,2020.0,750000.0,NY Mets,A1,False,2790000.0,False,True,False
+99,25007,Alex Vesia,25,63,54.1,1.5,vesia,alex,vesiaal01,2020.0,750000.0,LA Dodgers,A1,False,3405000.0,False,False,True
+100,12760,Rafael Montero,30,71,68.1,1.5,montero,rafael,montera01,2014.0,11500000.0,Houston,$11.500,False,11500000.0,True,False,True
+101,13339,Adrian Sampson,29,21,104.1,1.5,sampson,adrian,sampsad01,2016.0,1900000.0,Chi Cubs,A1,False,3405000.0,True,False,True
+102,21844,Braxton Garrett,23,17,88.0,1.5,garrett,braxton,garrebr01,2020.0,732000.0,Miami,,False,0.0,False,False,True
+103,21029,Jhoan Duran,23,57,67.2,1.5,durán,jhoan,duranjh01,2022.0,720000.0,Minnesota,,False,0.0,False,False,True
+104,17130,Raisel Iglesias,31,67,62.0,1.5,iglesias,raisel,iglesra01,2015.0,16000000.0,Atlanta,$16.000,False,16000000.0,True,False,True
+105,7593,Jordan Lyles,30,32,179.0,1.4,lyles,jordan,lylesjo01,2011.0,8500000.0,Kansas City,$8.500,False,8500000.0,True,True,False
+106,19244,Cole Irvin,27,30,181.0,1.4,irvin,cole,irvinco01,2019.0,737600.0,Texas,,False,0.0,True,False,True
+107,19244,Cole Irvin,27,30,181.0,1.4,irvin,cole,irvinco01,2019.0,737600.0,Texas,A1,False,2652000.0,True,True,False
+108,19244,Cole Irvin,27,30,181.0,1.4,irvin,cole,irvinco01,2019.0,737600.0,Baltimore,,False,0.0,True,False,True
+109,19244,Cole Irvin,27,30,181.0,1.4,irvin,cole,irvinco01,2019.0,737600.0,Baltimore,A1,False,2652000.0,True,True,False
+110,15038,German Marquez,26,31,181.2,1.4,márquez,germán,marquge01,2016.0,15300000.0,Colorado,$2.500,False,2500000.0,True,True,False
+111,15890,Luis Severino,27,19,102.0,1.4,severino,luis,severlu01,2015.0,15000000.0,NY Yankees,,False,0.0,True,True,False
+112,1890,Matt Moore,32,63,74.0,1.4,moore,matt,moorema02,2011.0,7550000.0,LA Angels,FA,False,0.0,True,True,False
+113,16609,Bryan Abreu,24,55,60.1,1.4,abreu,bryan,abreubr01,2019.0,745200.0,Houston,A1,False,3226000.0,True,False,True
+114,20666,Felix Bautista,26,65,65.2,1.4,bautista,félix,bautife01,2022.0,731800.0,Baltimore,,False,0.0,False,False,True
+115,20191,Garrett Whitlock,25,31,78.1,1.4,whitlock,garrett,whitlga01,2021.0,1250000.0,Boston,$3.500,False,3500000.0,False,True,False
+116,7531,Collin McHugh,34,58,69.1,1.4,mchugh,collin,mchugco01,2012.0,5000000.0,Atlanta,$1.000,False,1000000.0,True,False,True
+117,19569,David Bednar,26,45,51.2,1.4,bednar,david,bednada01,2019.0,745000.0,Pittsburgh,A1,False,3226000.0,True,False,True
+118,7005,Ryan Pressly,32,50,48.1,1.4,pressly,ryan,pressry01,2013.0,14000000.0,Houston,$14.000,False,14000000.0,True,False,True
+119,14986,Giovanny Gallegos,29,57,59.0,1.4,gallegos,giovanny,gallegi01,2017.0,4750000.0,St. Louis,$5.750,False,5750000.0,True,False,True
+120,13774,Zach Eflin,27,20,75.2,1.4,eflin,zach,eflinza01,2016.0,11000000.0,Tampa Bay,$11.000,False,11000000.0,True,True,False
+121,15488,Antonio Senzatela,26,19,92.1,1.4,senzatela,antonio,senzaan01,2017.0,7250000.0,Colorado,$12.000,False,12000000.0,True,True,False
+122,11760,Drew Smyly,32,22,106.1,1.3,smyly,drew,smylydr01,2012.0,8000000.0,Chi Cubs,$8.500,False,8500000.0,True,True,False
+123,13619,Jakob Junis,28,23,112.0,1.3,junis,jakob,junisja01,2017.0,2800000.0,San Francisco,FA,False,0.0,True,True,False
+124,27552,Graham Ashcraft,23,19,105.0,1.3,ashcraft,graham,ashcrgr01,2022.0,722500.0,Cincinnati,,False,0.0,False,True,False
+125,7982,Anthony Bass,33,73,70.1,1.3,bass,anthony,bassan01,2011.0,3000000.0,Toronto,FA,False,0.0,True,False,True
+126,19804,Bryan Baker,26,66,69.2,1.3,baker,bryan,bakerbr01,2021.0,729000.0,Baltimore,,False,0.0,False,False,True
+127,11861,Jason Adam,29,67,63.1,1.3,adam,jason,adamja01,2018.0,1775000.0,Tampa Bay,A2,True,4763000.0,True,False,True
+128,23920,Brayan Bello,22,13,57.1,1.3,bello,brayan,bellobr01,2022.0,729500.0,Boston,,False,0.0,False,True,False
+129,18384,Scott Effross,27,60,56.2,1.3,effross,scott,effrosc01,2021.0,742750.0,NY Yankees,,False,0.0,False,False,True
+130,19225,Mitch White,26,25,99.0,1.3,white,mitch,whitemi03,2020.0,743000.0,Toronto,,False,0.0,False,False,True
+131,21992,Camilo Doval,23,68,67.2,1.2,doval,camilo,dovalca01,2021.0,735000.0,San Francisco,,False,0.0,False,False,True
+132,6397,Jake Odorizzi,31,22,106.1,1.2,odorizzi,jake,odorija01,2012.0,12500000.0,Texas,FA,False,0.0,True,True,False
+133,19479,Aaron Civale,26,20,97.0,1.2,civale,aaron,civalaa01,2019.0,2600000.0,Cleveland,A2,False,3540000.0,True,True,False
+134,17998,Pete Fairbanks,27,24,24.0,1.2,fairbanks,pete,fairbpe01,2019.0,3666666.0,Tampa Bay,$3.667,False,3667000.0,True,False,True
+135,19316,Eric Lauer,26,29,158.2,1.1,lauer,eric,lauerer01,2018.0,5075000.0,Milwaukee,A3,False,4394000.0,True,True,False
+136,19206,Dakota Hudson,26,27,139.2,1.1,hudson,dakota,hudsoda02,2018.0,2650000.0,St. Louis,A3,False,4394000.0,True,True,False
+137,13649,Clay Holmes,28,62,63.2,1.1,holmes,clay,holmecl01,2018.0,3300000.0,NY Yankees,A3,False,6891000.000000001,True,False,True
+138,1247,Adam Ottavino,35,66,65.2,1.1,ottavino,adam,ottavad01,2010.0,6647002.0,NY Mets,$6.075,False,6075000.0,True,False,True
+139,19996,Dylan Lee,26,46,50.2,1.1,lee,dylan,leedy01,2021.0,730000.0,Atlanta,,False,0.0,False,False,True
+140,3096,Kenley Jansen,33,65,64.0,1.1,jansen,kenley,janseke01,2010.0,16000000.0,Boston,$16.000,False,16000000.0,True,False,True
+141,17282,Michael Kopech,25,25,119.1,1.1,kopech,michael,kopecmi01,2018.0,2050000.0,Chi White Sox,A2,False,3305000.0000000005,True,True,False
+142,15423,Andrew Heaney,30,16,72.2,1.1,heaney,andrew,heanean01,2014.0,12000000.0,Texas,$13.000,False,13000000.0,True,True,False
+143,14857,Joe Mantiply,30,69,60.0,1.1,mantiply,joe,mantijo01,2016.0,756000.0,Arizona,A1,False,2689000.0,True,False,True
+144,18413,Jose Urquidy,26,29,164.1,1.0,urquidy,josé,urquijo01,2019.0,3025000.0,Houston,A2,False,3070000.0,True,True,False
+145,14843,Michael Lorenzen,29,18,97.2,1.0,lorenzen,michael,lorenmi01,2015.0,8500000.0,Detroit,FA,False,0.0,True,True,False
+146,15873,Sean Manaea,29,30,158.0,1.0,manaea,sean,manaese01,2016.0,12500000.0,San Francisco,$12.500,False,12500000.0,True,True,False
+147,19614,Cionel Perez,25,66,57.2,1.0,pérez,cionel,perezci01,2018.0,732400.0,Baltimore,,False,0.0,True,False,False
+148,19614,Cionel Perez,25,66,57.2,1.0,pérez,cionel,perezci01,2018.0,732400.0,Baltimore,A1,False,2510000.0,True,False,True
+149,19614,Cionel Perez,25,66,57.2,1.0,pérez,cionel,perezci01,2018.0,732400.0,Detroit,,False,0.0,True,False,False
+150,19614,Cionel Perez,25,66,57.2,1.0,pérez,cionel,perezci01,2018.0,732400.0,Detroit,A1,False,2510000.0,True,False,True
+151,21132,Alexis Diaz,24,59,63.2,1.0,díaz,alexis,diazal03,2022.0,730000.0,Cincinnati,,False,0.0,False,False,True
+152,17968,Brock Burke,24,52,82.1,1.0,burke,brock,burkebr01,2019.0,742840.0,Texas,A1,False,2510000.0,True,False,True
+153,19249,Seranthony Dominguez,26,54,51.0,1.0,domínguez,seranthony,dominse01,2018.0,2500000.0,Philadelphia,$4.250,False,4250000.0,True,False,True
+154,9132,Nathan Eovaldi,31,20,109.1,1.0,eovaldi,nathan,eovalna01,2011.0,17000000.0,Texas,$17.000,False,17000000.0,True,True,False
+155,19374,Walker Buehler,26,12,65.0,1.0,buehler,walker,buehlwa01,2017.0,8025000.0,LA Dodgers,A4,True,8320000.0,True,False,True
+156,12718,Adrian Houser,28,22,102.2,1.0,houser,adrian,housead01,2015.0,3600000.0,Milwaukee,A3,False,6330000.0,True,False,True
+157,18325,Taylor Hearn,26,31,100.0,1.0,hearn,taylor,hearnta01,2019.0,1462500.0,Texas,A3,True,4700000.0,True,False,True
+158,18403,Enyel De Los Santos,25,50,53.1,1.0,de los santos,enyel,delosen01,2018.0,750000.0,Cleveland,A1,False,2510000.0,True,False,True
+159,15047,Austin Voth,29,41,101.2,1.0,voth,austin,vothau01,2018.0,1850000.0,Baltimore,opt,True,720000.0,True,False,True
+160,16610,J.P. Feyereisen,28,22,24.1,1.0,feyereisen,j. p.,feyerjo01,2020.0,750000.0,LA Dodgers,A1,False,2510000.0,False,False,True
+161,10657,Andrew Bellatti,29,59,54.1,1.0,bellatti,andrew,bellaan01,2015.0,859000.0,Philadelphia,,False,0.0,True,False,True
+162,19409,Dane Dunning,26,29,153.1,1.0,dunning,dane,dunnida01,2020.0,742840.0,Texas,A1,False,2510000.0,False,False,True
+163,13449,Taylor Rogers,30,66,64.1,1.0,rogers,taylor,rogerta01,2016.0,9000000.0,San Francisco,$12.000,False,12000000.0,True,False,True
+164,18548,Sam Hentges,24,57,62.0,1.0,hentges,sam,hentgsa01,2021.0,730200.0,Cleveland,A1,True,2290000.0,False,False,True
+165,20153,Nick Nelson,25,47,68.2,1.0,nelson,nick,nelsoni01,2020.0,745000.0,Philadelphia,A1,False,2510000.0,False,False,True
+166,20151,James Karinchak,25,38,39.0,1.0,karinchak,james,karinja01,2019.0,1500000.0,Cleveland,A2,True,3830000.0,True,False,True
+167,15507,Hunter Harvey,26,38,39.1,1.0,harvey,hunter,harvehu01,2019.0,870000.0,Washington,A2,False,4700000.0,True,False,True
+168,14814,Buck Farmer,30,44,47.0,1.0,farmer,buck,farmebu01,2014.0,1725000.0,Cincinnati,FA,False,0.0,True,False,True
+169,15288,Adam Cimber,30,77,70.2,0.9,cimber,adam,cimbead01,2018.0,3150000.0,Toronto,FA,False,0.0,True,False,True
+170,14993,Scott Barlow,28,69,74.1,0.9,barlow,scott,barlosc01,2018.0,5300000.0,Kansas City,A3,False,5769000.0,True,False,True
+171,20253,Griffin Jax,26,65,72.1,0.9,jax,griffin,jaxgr01,2021.0,733150.0,Minnesota,,False,0.0,False,False,True
+172,20000,Tyler Wells,26,23,103.2,0.9,wells,tyler,wellsty01,2021.0,732400.0,Baltimore,A1,False,1962000.0,False,True,False
+173,12777,John Brebbia,31,76,68.0,0.9,brebbia,john,brebbjo01,2017.0,2300000.0,San Francisco,FA,False,0.0,True,False,True
+174,6655,Craig Kimbrel,33,63,60.0,0.9,kimbrel,craig,kimbrcr01,2010.0,10000000.0,Philadelphia,FA,False,0.0,True,False,True
+175,22810,Roansy Contreras,21,21,95.0,0.9,contreras,roansy,contrro01,2021.0,725000.0,Pittsburgh,,False,0.0,False,True,False
+176,16561,Austin Gomber,27,33,124.2,0.9,gomber,austin,gombeau01,2018.0,1650000.0,Colorado,A2,False,4302000.0,True,False,True
+177,8337,Lucas Luetge,34,50,57.1,0.9,luetge,lucas,luetglu01,2012.0,1550000.0,Atlanta,A3,False,5769000.0,True,False,True
+178,12095,Yimi Garcia,30,61,61.0,0.9,garcía,yimi,garciyi01,2014.0,5500000.0,Toronto,$1.000,False,1000000.0,True,False,True
+179,14295,Wandy Peralta,29,56,56.1,0.9,peralta,wandy,peralwa01,2016.0,3350000.0,NY Yankees,FA,False,0.0,True,False,True
+180,15947,Ryne Stanek,29,59,54.2,0.9,stanek,ryne,stanery01,2017.0,3600000.0,Houston,FA,False,0.0,True,False,True
+181,12988,Andrew Chafin,31,64,57.1,0.9,chafin,andrew,chafian01,2014.0,5500000.0,Arizona,$0.750,False,750000.0,True,False,True
+182,19493,Zach Jackson,26,54,48.0,0.9,jackson,zach,jacksza02,2022.0,725000.0,Oakland,,False,0.0,False,False,True
+183,23550,Aaron Ashby,23,27,107.1,0.9,ashby,aaron,ashbyaa01,2021.0,1200000.0,Milwaukee,$1.450,False,1450000.0,False,False,True
+184,18297,Tyler Kinley,30,25,24.0,0.9,kinley,tyler,kinlety01,2018.0,1200000.0,Colorado,$1.300,False,1300000.0,True,False,True
+185,10061,Brooks Raley,33,60,53.2,0.9,raley,brooks,raleybr01,2012.0,4500000.0,NY Mets,$1.250,False,1250000.0,True,False,True
+186,20099,Chris Paddack,25,5,22.1,0.9,paddack,chris,paddach01,2019.0,2500000.0,Minnesota,$2.525,False,2525000.0,True,True,False
+187,14677,Duane Underwood Jr.,26,51,57.1,0.9,underwood,duane,underdu01,2018.0,1025000.0,Pittsburgh,A2,False,4302000.0,True,False,True
+188,20422,Jovani Moran,24,31,40.2,0.9,morán,jovani,moranjo01,2021.0,726200.0,Minnesota,,False,0.0,False,False,True
+189,19795,Keegan Thompson,26,29,115.0,0.8,thompson,keegan,thompke02,2021.0,740000.0,Chi Cubs,A1,True,1976000.0000000002,False,False,True
+190,14739,Paul Blackburn,27,21,111.1,0.8,blackburn,paul,blackpa01,2017.0,1900000.0,Oakland,A2,False,2600000.0,True,True,False
+191,9323,Patrick Corbin,31,31,152.2,0.8,corbin,patrick,corbipa01,2012.0,24416667.0,Washington,$35.417,False,35417000.0,True,True,False
+192,17732,Nabil Crismatt,26,50,67.1,0.8,crismatt,nabil,crismna01,2020.0,750000.0,San Diego,A1,False,2152000.0,False,False,True
+193,8241,David Robertson,36,58,63.2,0.8,robertson,david,roberda08,2008.0,10000000.0,NY Mets,FA,False,0.0,True,False,True
+194,14527,Jorge Lopez,28,67,71.0,0.8,lópez,jorge,lopezjo02,2015.0,3525000.0,Minnesota,A3,False,5208000.0,True,False,True
+195,22201,MacKenzie Gore,22,16,70.0,0.8,gore,mackenzie,gorema01,2022.0,723300.0,Washington,,False,0.0,False,True,False
+196,21537,Daniel Lynch,24,27,131.2,0.8,lynch,daniel,lynchda02,2021.0,730250.0,Kansas City,,False,0.0,False,True,False
+197,22286,Trevor Rogers,23,23,107.0,0.8,rogers,trevor,rogertr01,2020.0,752000.0,Miami,A1,False,1823999.9999999998,False,True,False
+198,19979,Zach Plesac,26,25,131.2,0.8,plesac,zach,plesaza01,2019.0,2950000.0,Cleveland,A2,False,2600000.0,True,True,False
+199,7146,Daniel Hudson,34,25,24.1,0.8,hudson,daniel,hudsoda01,2009.0,6500000.0,LA Dodgers,opt,False,720000.0,True,False,True
+200,20367,Brusdar Graterol,22,46,49.2,0.8,graterol,brusdar,gratebr01,2019.0,1225000.0,LA Dodgers,A2,True,3208000.0,True,False,True
+201,19531,Jason Foley,25,60,60.1,0.8,foley,jason,foleyja01,2021.0,726200.0,Detroit,,False,0.0,False,False,True
+202,13761,Chris Stratton,30,60,63.1,0.7,stratton,chris,stratch01,2016.0,2800000.0,St. Louis,FA,False,0.0,True,False,True
+203,13896,Chris Flexen,26,33,137.2,0.7,flexen,chris,flexech01,2017.0,8000000.0,Seattle,FA,False,0.0,True,True,False
+204,19883,Alex Lange,25,71,63.1,0.7,lange,alex,langeal01,2021.0,726000.0,Detroit,,False,0.0,False,False,True
+205,15734,Brad Keller,25,35,139.2,0.7,keller,brad,kellebr01,2018.0,5775000.0,Kansas City,FA,False,0.0,True,True,False
+206,30115,Robert Suarez,30,45,47.2,0.7,suarez,robert,suarero01,2022.0,10000000.0,San Diego,$10.000,False,10000000.0,False,False,True
+207,19879,Tanner Houck,25,32,60.0,0.7,houck,tanner,houckta01,2020.0,740000.0,Boston,,False,0.0,False,False,True
+208,13218,Michael Fulmer,28,67,63.2,0.7,fulmer,michael,fulmemi01,2016.0,4000000.0,Chi Cubs,FA,False,0.0,True,False,True
+209,13164,Eduardo Rodriguez,28,17,91.0,0.7,rodríguez,eduardo,rodried05,2015.0,14000000.0,Detroit,$18.000,False,18000000.0,True,True,False
+210,13361,Steven Matz,30,15,48.0,0.7,matz,steven,matzst01,2015.0,10500000.0,St. Louis,$12.500,False,12500000.0,True,True,False
+211,10133,Brad Boxberger,33,70,64.0,0.7,boxberger,brad,boxbebr01,2012.0,2000000.0,Chi Cubs,$0.800,False,800000.0,True,False,True
+212,25174,Penn Murfee,27,64,69.1,0.7,murfee,penn,murfepe01,2022.0,727000.0,Seattle,,False,0.0,False,False,True
+213,22487,Johan Oviedo,23,21,56.0,0.7,oviedo,johan,oviedjo01,2020.0,735000.0,Pittsburgh,,False,0.0,False,True,False
+214,5448,Jesse Chavez,37,60,69.1,0.7,chavez,jesse,chaveje01,2008.0,1200000.0,Atlanta,FA,False,0.0,True,False,True
+215,24586,Kyle Bradish,24,23,117.2,0.7,bradish,kyle,bradiky01,2022.0,728100.0,Baltimore,,False,0.0,False,True,False
+216,27581,Hayden Wesneski,23,6,33.0,0.7,wesneski,hayden,wesneha01,2022.0,721500.0,Chi Cubs,,False,0.0,False,True,False
+217,15514,Kendall Graveman,30,65,65.0,0.7,graveman,kendall,graveke01,2014.0,8000000.0,Chi White Sox,$8.000,False,8000000.0,True,False,True
+218,16977,Trevor Williams,29,30,89.2,0.7,williams,trevor,willitr01,2016.0,6000000.0,Washington,$7.000,False,7000000.0,True,True,False
+219,13346,Hoby Milner,30,67,64.2,0.7,milner,hoby,milneho01,2017.0,1025000.0,Milwaukee,A2,False,3506000.0,True,False,True
+220,17611,Taylor Clarke,28,47,49.0,0.7,clarke,taylor,clarkta01,2019.0,1150000.0,Kansas City,A2,False,3506000.0,True,False,True
+221,11589,Jose Urena,29,21,97.0,0.7,ureña,josé,urenajo01,2015.0,3000000.0,Colorado,$0.500,False,500000.0,True,True,False
+222,17149,Domingo German,28,15,72.1,0.7,germán,domingo,germado01,2017.0,2600000.0,NY Yankees,A3,False,3057999.9999999995,True,True,False
+223,14212,Josh Hader,27,56,50.0,0.7,hader,josh,haderjo01,2017.0,14100000.0,San Diego,FA,False,0.0,True,False,True
+224,18376,Connor Overton,27,6,33.0,0.7,overton,connor,overtco01,2021.0,730000.0,Cincinnati,,False,0.0,False,True,False
+225,13394,Dylan Floro,30,56,53.2,0.7,floro,dylan,florody01,2016.0,3900000.0,Miami,FA,False,0.0,True,False,True
+226,26108,Andre Pallante,22,47,108.0,0.6,pallante,andre,pallaan01,2022.0,728600.0,St. Louis,,False,0.0,False,False,True
+227,15009,Kyle Finnegan,29,66,66.2,0.6,finnegan,kyle,finneky01,2020.0,2325000.0,Washington,A2,False,3108000.0,False,False,True
+228,20070,Bailey Falter,24,20,84.0,0.6,falter,bailey,falteba01,2021.0,733000.0,Philadelphia,,False,0.0,False,True,False
+229,20203,Eli Morgan,25,50,66.2,0.6,morgan,eli,morgael01,2021.0,727000.0,Cleveland,,False,0.0,False,False,True
+230,18674,Jake Woodford,24,27,48.1,0.6,woodford,jake,woodfja01,2020.0,739800.0,St. Louis,A1,False,1548000.0,False,True,False
+231,25756,Matt Brash,23,39,50.2,0.6,brash,matt,brashma01,2022.0,725800.0,Seattle,,False,0.0,False,True,False
+232,21446,Ryan Feltner,24,20,97.1,0.6,feltner,ryan,feltnry01,2021.0,722000.0,Colorado,,False,0.0,False,True,False
+233,15541,Tyler Rogers,30,68,75.2,0.6,rogers,tyler,rogerty01,2019.0,1675000.0,San Francisco,A2,False,3108000.0,True,False,True
+234,14375,Amir Garrett,29,60,45.1,0.6,garrett,amir,garream01,2017.0,2650000.0,Kansas City,FA,False,0.0,True,False,True
+235,17639,Justin Lawrence,26,38,42.2,0.6,lawrence,justin,lawreju01,2021.0,722000.0,Colorado,,False,0.0,False,False,True
+236,25880,Hunter Brown,22,7,20.1,0.6,brown,hunter,brownhu01,2022.0,725000.0,Houston,,False,0.0,False,False,True
+237,21205,Connor Brogdon,26,47,44.0,0.6,brogdon,connor,brogdco01,2020.0,738750.0,Philadelphia,A1,False,1794000.0,False,False,True
+238,19677,Gregory Soto,26,64,60.1,0.6,soto,gregory,sotogr01,2019.0,3925000.0,Philadelphia,A2,False,3108000.0,True,False,True
+239,21290,Lucas Gilbreath,25,47,43.0,0.6,gilbreath,lucas,gilbrlu01,2021.0,725000.0,Colorado,A1,True,1662000.0,False,False,True
+240,17871,Ian Gibaut,27,34,36.0,0.6,gibaut,ian,gibauia01,2019.0,730000.0,Cincinnati,,False,0.0,True,False,True
+241,14524,Jose Leclerc,27,39,47.2,0.6,leclerc,josé,leclejo01,2016.0,6000000.0,Texas,$0.500,False,500000.0,True,False,True
+242,23429,JP Sears,25,17,70.0,0.5,sears,jp,searsjp01,2022.0,720000.0,Oakland,,False,0.0,False,False,True
+243,14975,Chad Kuhl,28,27,137.0,0.5,kuhl,chad,kuhlch01,2016.0,2000000.0,Washington,FA,False,0.0,True,True,False
+244,13892,Paul Sewald,31,65,64.0,0.5,sewald,paul,sewalpa01,2017.0,4100000.0,Seattle,A3,False,3525000.0,True,False,True
+245,19899,Clarke Schmidt,25,29,57.2,0.5,schmidt,clarke,schmicl01,2020.0,740475.0,NY Yankees,A1,True,1275000.0,False,True,False
+246,20185,Zach Pop,24,35,39.0,0.5,pop,zach,popza01,2021.0,742200.0,Toronto,,False,0.0,False,False,True
+247,17796,Dillon Tate,27,67,73.2,0.5,tate,dillon,tatedi01,2019.0,1500000.0,Baltimore,A2,False,2710000.0,True,False,True
+248,26260,Drey Jameson,23,4,24.1,0.5,jameson,drey,jamesdr01,2022.0,723600.0,Arizona,,False,0.0,False,False,True
+249,19362,Keegan Akin,26,45,81.2,0.5,akin,keegan,akinke01,2020.0,731100.0,Baltimore,A1,False,1615000.0,False,False,True
+250,16814,Tim Hill,31,55,48.0,0.5,hill,tim,hillti01,2018.0,1850000.0,San Diego,A3,False,3525000.0,True,False,True
+251,20531,Kutter Crawford,25,21,77.1,0.5,crawford,kutter,crawfku01,2021.0,730000.0,Boston,,False,0.0,False,True,False
+252,21455,Kris Bubic,23,28,129.0,0.5,bubic,kris,bubickr01,2020.0,2200000.0,Kansas City,A2,True,1705000.0,False,True,False
+253,19962,Joey Wentz,23,7,32.2,0.5,wentz,joey,wentzjo01,2022.0,723500.0,Detroit,,False,0.0,False,False,True
+254,8779,Wade Miley,34,9,37.0,0.5,miley,wade,mileywa01,2011.0,3500000.0,Milwaukee,$1.000,False,1000000.0,True,True,False
+255,17859,Adbert Alzolay,26,6,13.1,0.5,alzolay,adbert,alzolad01,2019.0,744750.0,Chi Cubs,A1,False,1410000.0,True,True,False
+256,12857,Shawn Armstrong,30,50,61.2,0.5,armstrong,shawn,armstsh01,2015.0,1200000.0,Tampa Bay,A4,True,4520000.0,True,False,True
+257,19349,Caleb Ferguson,24,37,34.2,0.5,ferguson,caleb,ferguca01,2018.0,1100000.0,LA Dodgers,A3,False,3525000.0,True,False,True
+258,19876,Kevin Ginkel,27,30,29.1,0.5,ginkel,kevin,ginkeke01,2019.0,746600.0,Arizona,A1,False,1615000.0,True,False,True
+259,15068,Yency Almonte,27,33,35.1,0.5,almonte,yency,almonye01,2018.0,1500000.0,LA Dodgers,A2,False,2710000.0,True,False,True
+260,5615,Ryan Brasier,33,68,62.1,0.5,brasier,ryan,brasiry01,2013.0,2000000.0,Boston,FA,False,0.0,True,False,True
+261,12808,Mike Clevinger,30,23,114.1,0.4,clevinger,mike,clevimi01,2016.0,8000000.0,Chi White Sox,$4.000,False,4000000.0,True,True,False
+262,5524,Madison Bumgarner,31,30,158.2,0.4,bumgarner,madison,bumgama01,2009.0,21882892.0,Toronto,,False,0.0,True,False,False
+263,5524,Madison Bumgarner,31,30,158.2,0.4,bumgarner,madison,bumgama01,2009.0,21882892.0,Toronto,$12.900,False,12900000.0,True,True,False
+264,5524,Madison Bumgarner,31,30,158.2,0.4,bumgarner,madison,bumgama01,2009.0,21882892.0,Arizona,,False,0.0,True,False,False
+265,5524,Madison Bumgarner,31,30,158.2,0.4,bumgarner,madison,bumgama01,2009.0,21882892.0,Arizona,$12.900,False,12900000.0,True,True,False
+266,22276,Dylan Coleman,24,68,68.0,0.4,coleman,dylan,colemdy01,2021.0,731750.0,Kansas City,,False,0.0,False,False,True
+267,18331,James Kaprielian,27,26,134.0,0.4,kaprielian,james,kaprija01,2020.0,730000.0,Oakland,A1,False,1272000.0,False,True,False
+268,12730,Nick Martinez,30,47,106.1,0.4,martínez,nick,martini01,2014.0,10000000.0,San Diego,$8.000,False,8000000.0,True,True,False
+269,17586,Tanner Scott,26,67,62.2,0.4,scott,tanner,scottta01,2017.0,2825000.0,Miami,A3,False,2964000.0,True,False,True
+270,12049,Kyle Hendricks,31,16,84.1,0.4,hendricks,kyle,hendrky01,2014.0,14500000.0,Chi Cubs,$1.500,False,1500000.0,True,True,False
+271,16647,Ryan Thompson,29,47,42.2,0.4,thompson,ryan,thompry02,2020.0,1000000.0,Tampa Bay,A2,False,2312000.0,False,False,True
+272,20515,Kyle Nelson,24,43,37.0,0.4,nelson,kyle,nelsoky01,2020.0,728900.0,Arizona,,False,0.0,False,False,True
+273,21367,Peter Strzelecki,26,30,35.0,0.4,strzelecki,peter,strzepe01,2022.0,726400.0,Milwaukee,,False,0.0,False,False,True
+274,21741,Javier Assad,23,9,37.2,0.4,assad,javier,assadja01,2022.0,721500.0,Chi Cubs,,False,0.0,False,False,True
+275,19753,Jonathan Loaisiga,26,50,48.0,0.4,loáisiga,jonathan,loaisjo01,2018.0,2262500.0,NY Yankees,A3,False,2964000.0,True,False,True
+276,23488,Ron Marinaccio,25,40,44.0,0.4,marinaccio,ron,marinro01,2022.0,739900.0,NY Yankees,,False,0.0,False,False,True
+277,21045,Seth Martinez,26,29,38.2,0.4,martinez,seth,martise01,2021.0,730200.0,Houston,,False,0.0,False,False,True
+278,18333,Alex Young,27,25,26.2,0.4,young,alex,youngal01,2019.0,1150000.0,Cincinnati,A2,True,1964000.0,True,False,True
+279,17897,Garrett Cleavinger,27,17,23.0,0.4,cleavinger,garrett,cleavga01,2020.0,725100.0,Tampa Bay,A1,False,1436000.0,False,False,True
+280,17369,Brett Martin,26,55,50.0,0.4,martin,brett,martibr01,2019.0,1275000.0,Texas,A3,True,2312000.0,True,False,True
+281,19200,Jose Quijada,25,42,40.2,0.4,quijada,josé,quijajo01,2019.0,750000.0,LA Angels,A1,False,1436000.0,True,False,True
+282,23292,Packy Naughton,25,26,32.0,0.4,naughton,packy,naughpa01,2021.0,728750.0,St. Louis,,False,0.0,False,False,True
+283,10197,Shelby Miller,30,4,7.0,0.4,miller,shelby,millesh01,2012.0,1500000.0,LA Dodgers,FA,False,0.0,True,True,False
+284,21690,Edward Cabrera,23,14,71.2,0.3,cabrera,edward,cabreed02,2021.0,731000.0,Miami,,False,0.0,False,True,False
+285,20517,Nick Sandlin,24,46,44.0,0.3,sandlin,nick,sandlni01,2021.0,726000.0,Cleveland,A1,True,1191000.0,False,False,True
+286,22361,Colin Holderman,25,24,28.1,0.3,holderman,colin,holdeco01,2022.0,725000.0,Pittsburgh,,False,0.0,False,False,True
+287,20353,Steven Wilson,26,50,53.0,0.3,wilson,steven,wilsost02,2022.0,726400.0,San Diego,,False,0.0,False,False,True
+288,19343,A.J. Puk,26,62,66.1,0.3,puk,a. j.,pukaj01,2019.0,736000.0,Miami,A1,False,1257000.0,True,False,True
+289,14542,Carlos Estevez,28,62,57.0,0.3,estévez,carlos,estevca01,2016.0,6750000.0,LA Angels,$6.750,False,6750000.0,True,False,True
+290,13799,Matt Strahm,29,50,44.2,0.3,strahm,matt,strahma01,2016.0,7500000.0,Philadelphia,$7.500,False,7500000.0,True,True,False
+291,9111,Brad Hand,31,55,45.0,0.3,hand,brad,handbr01,2011.0,1500000.0,Colorado,$0.500,False,500000.0,True,False,True
+292,19618,Jordan Hicks,24,35,61.1,0.3,hicks,jordan,hicksjo03,2018.0,1837500.0,St. Louis,FA,False,0.0,True,True,False
+293,16258,Aaron Bummer,27,32,26.2,0.3,bummer,aaron,bummeaa01,2017.0,3750000.0,Chi White Sox,$5.500,False,5500000.0,True,False,True
+294,19716,Dustin May,23,6,30.0,0.3,may,dustin,maydu01,2019.0,1675000.0,LA Dodgers,A2,False,1425000.0,True,True,False
+295,19995,Joel Kuhnel,26,53,58.0,0.3,kuhnel,joel,kuhnejo01,2019.0,730000.0,Cincinnati,,False,0.0,True,False,True
+296,26253,Ryne Nelson,23,3,18.1,0.3,nelson,ryne,nelsory01,2022.0,722700.0,Arizona,,False,0.0,False,True,False
+297,15552,Chad Green,30,14,15.0,0.3,green,chad,greench03,2016.0,2250000.0,Toronto,$6.250,False,6250000.0,True,False,True
+298,19541,Jimmy Lambert,26,42,47.0,0.3,lambert,jimmy,lambeji01,2020.0,735000.0,Chi White Sox,A1,True,1191000.0,False,False,True
+299,15915,Victor Arano,26,43,42.0,0.3,arano,víctor,aranovi01,2017.0,925000.0,Washington,A3,False,2403000.0,True,False,True
+300,20206,Mike Baumann,25,13,34.1,0.3,baumann,mike,baumami01,2021.0,722300.0,Baltimore,,False,0.0,False,False,True
+301,13435,Pierce Johnson,30,15,14.1,0.3,johnson,pierce,johnspi01,2017.0,5000000.0,Colorado,FA,False,0.0,True,False,True
+302,14361,Ty Blach,30,24,44.1,0.3,blach,ty,blachty01,2016.0,1100000.0,Colorado,A2,False,1425000.0,True,True,False
+303,7048,Fernando Cruz,31,14,14.2,0.3,cruz,fernando,cruzfe01,2022.0,720000.0,Cincinnati,,False,0.0,False,False,True
+304,16269,John Means,28,2,8.0,0.3,means,john,meansjo01,2018.0,2975000.0,Baltimore,A3,False,1722000.0,True,True,False
+305,10343,Aaron Loup,33,65,58.2,0.3,loup,aaron,loupaa01,2012.0,7500000.0,LA Angels,$2.000,False,2000000.0,True,False,True
+306,21846,Cole Ragans,23,9,40.0,0.3,ragans,cole,raganco01,2022.0,724145.0,Texas,,False,0.0,False,False,True
+307,10430,Mychal Givens,31,59,61.1,0.2,givens,mychal,givenmy01,2015.0,3000000.0,Baltimore,$2.000,False,2000000.0,True,False,True
+308,20039,Adrian Morejon,22,26,34.0,0.2,morejón,adrián,morejad01,2019.0,800000.0,San Diego,A2,False,1516000.0,True,False,True
+309,14332,Joel Payamps,27,41,55.2,0.2,payamps,joel,payamjo01,2019.0,730500.0,Milwaukee,A1,False,1078000.0,True,False,True
+310,12447,Seth Lugo,31,62,65.0,0.2,lugo,seth,lugose01,2016.0,7500000.0,San Diego,$7.500,False,7500000.0,True,True,False
+311,19309,Trevor Richards,28,62,64.0,0.2,richards,trevor,richatr01,2018.0,1500000.0,Toronto,A3,False,1388000.0,True,True,False
+312,19178,Tommy Nance,30,35,43.2,0.2,nance,tommy,nanceto01,2021.0,729500.0,Miami,,False,0.0,False,False,True
+313,15043,Lou Trivino,29,64,53.2,0.2,trivino,lou,trivilo01,2018.0,4100000.0,NY Yankees,A4,True,2240000.0,True,False,True
+314,13594,Robert Stephenson,28,58,58.0,0.2,stephenson,robert,stephro01,2016.0,1750000.0,Pittsburgh,FA,False,0.0,True,False,True
+315,16401,Yonny Chirinos,27,2,7.0,0.2,chirinos,yonny,chiriyo01,2018.0,1275000.0,Tampa Bay,A4,True,1496000.0,True,True,False
+316,17610,Tanner Rainey,28,29,30.0,0.2,rainey,tanner,raineta01,2018.0,1500000.0,Washington,A3,True,1516000.0,True,False,True
+317,19647,Matt Foster,26,48,45.0,0.2,foster,matt,fostema01,2020.0,734000.0,Chi White Sox,A1,False,1078000.0,False,False,True
+318,17186,Dinelson Lamet,28,32,32.1,0.2,lamet,dinelson,lametdi01,2017.0,5000000.0,Colorado,FA,False,0.0,True,True,False
+319,22175,Max Kranick,23,2,5.0,0.2,kranick,max,kranima01,2021.0,725000.0,Pittsburgh,,False,0.0,False,False,True
+320,21298,Andre Jackson,25,4,9.2,0.2,jackson,andre,jacksan01,2021.0,722500.0,LA Dodgers,,False,0.0,False,False,True
+321,10603,Chris Sale,32,2,5.2,0.2,sale,chris,salech01,2010.0,21672484.0,Boston,$21.673,False,21673000.0,True,True,False
+322,16631,Jeff Brigham,29,16,24.0,0.2,brigham,jeff,brighje01,2018.0,760000.0,NY Mets,A2,False,1516000.0,True,False,True
+323,20010,Wyatt Mills,26,27,29.1,0.2,mills,wyatt,millswy01,2021.0,727500.0,Boston,,False,0.0,False,False,True
+324,19926,Tony Santillan,24,21,19.2,0.2,santillan,tony,santito01,2021.0,730000.0,Cincinnati,,False,0.0,False,False,True
+325,15042,Tim Mayza,29,63,48.2,0.1,mayza,tim,mayzati01,2017.0,2100000.0,Toronto,A3,True,1118000.0,True,False,True
+326,21366,Glenn Otto,25,27,135.2,0.1,otto,glenn,ottogl01,2021.0,736340.0,Texas,,False,0.0,False,True,False
+327,13607,Carl Edwards Jr.,29,57,62.0,0.1,edwards,carl,edwarca01,2015.0,2250000.0,Washington,FA,False,0.0,True,False,True
+328,10291,Ryan Tepera,33,59,57.1,0.1,tepera,ryan,teperry01,2015.0,7000000.0,LA Angels,FA,False,0.0,True,False,True
+329,15684,Miguel Castro,26,34,29.0,0.1,castro,miguel,castrmi01,2015.0,3500000.0,Arizona,opt,False,720000.0,True,False,True
+330,19454,Michael Rucker,27,41,54.2,0.1,rucker,michael,ruckemi01,2021.0,737000.0,Chi Cubs,,False,0.0,False,False,True
+331,26079,Beau Brieske,23,15,81.2,0.1,brieske,beau,briesbe01,2022.0,724400.0,Detroit,,False,0.0,False,False,True
+332,18335,Josh Staumont,27,42,37.2,0.1,staumont,josh,staumjo01,2019.0,1025000.0,Kansas City,A2,False,1118000.0,True,False,True
+333,15440,Matthew Boyd,30,10,13.1,0.1,boyd,matt,boydma01,2015.0,10000000.0,Detroit,FA,False,0.0,True,True,False
+334,1246,Matt Bush,35,65,59.2,0.1,bush,matt,bushma01,2016.0,1850000.0,Milwaukee,FA,False,0.0,True,False,True
+335,18519,Phil Bickford,25,60,61.0,0.1,bickford,phil,bickfph01,2020.0,740000.0,LA Dodgers,,False,0.0,False,False,True
+336,6398,Trevor May,31,26,25.0,0.1,may,trevor,maytr01,2014.0,7000000.0,Oakland,FA,False,0.0,True,False,True
+337,14444,Hyun-Jin Ryu,34,6,27.0,0.1,ryu,hyun jin,ryuhy01,2013.0,20000000.0,Toronto,FA,False,0.0,True,True,False
+338,6399,Jose Cisnero,32,28,25.0,0.1,cisnero,josé,cisnejo01,2013.0,2287500.0,Detroit,FA,False,0.0,True,False,True
+339,25918,Zack Thompson,23,22,34.2,0.1,thompson,zack,thompza02,2022.0,725000.0,St. Louis,,False,0.0,False,False,True
+340,25388,Cody Morris,24,7,23.2,0.1,morris,cody,morrico01,2022.0,720200.0,Cleveland,,False,0.0,False,False,True
+341,21850,Mason Thompson,23,24,24.2,0.1,thompson,mason,thompma02,2021.0,724400.0,Washington,,False,0.0,False,False,True
+342,22461,Logan Gillaspie,24,17,17.1,0.1,gillaspie,logan,gillalo01,2022.0,721200.0,Baltimore,,False,0.0,False,False,True
+343,22264,Shane Baz,22,6,27.0,0.1,baz,shane,bazsh01,2021.0,723600.0,Tampa Bay,A1,False,858000.0,False,True,False
+344,18323,Josh Sborz,27,19,22.1,0.1,sborz,josh,sborzjo01,2019.0,733450.0,Texas,A1,False,899000.0,True,False,True
+345,14374,Tyler Glasnow,27,2,6.2,0.1,glasnow,tyler,glasnty01,2016.0,5350000.0,Tampa Bay,$25.000,False,25000000.0,True,True,False
+346,21324,Parker Mushinski,25,7,7.1,0.1,mushinski,parker,mushipa01,2022.0,721800.0,Houston,,False,0.0,False,False,True
+347,12863,Matt Barnes,31,44,39.2,0.1,barnes,matt,barnema01,2014.0,8375000.0,Miami,$2.250,False,2250000.0,True,False,True
+348,20492,Casey Mize,24,2,10.0,0.1,mize,casey,mizeca01,2020.0,734200.0,Detroit,A1,False,858000.0,False,True,False
+349,16703,Julian Merryweather,29,26,26.2,0.1,merryweather,julian,merryju01,2020.0,737000.0,Chi Cubs,A1,False,899000.0,False,False,True
+350,15467,Marco Gonzales,29,32,183.0,0.0,gonzales,marco,gonzama02,2014.0,6750000.0,Seattle,$12.250,False,12250000.0,True,True,False
+351,22387,Josh Winckowski,23,15,70.1,0.0,winckowski,josh,winckjo01,2022.0,722000.0,Boston,,False,0.0,False,False,True
+352,17092,Domingo Acevedo,27,70,67.2,0.0,acevedo,domingo,acevedo01,2021.0,725000.0,Oakland,,False,0.0,False,False,True
+353,17701,Jose Cuas,27,47,37.2,0.0,cuas,josé,cuasjo01,2022.0,726000.0,Kansas City,,False,0.0,False,False,True
+354,13345,Luis Cessa,29,46,80.2,0.0,cessa,luis,cessalu01,2016.0,2650000.0,Cincinnati,FA,False,0.0,True,True,False
+355,19754,Reiver Sanmartin,25,45,57.0,0.0,sanmartin,reiver,sanmare01,2021.0,722500.0,Cincinnati,,False,0.0,False,False,True
+356,18356,Jaime Barria,24,35,79.1,0.0,barría,jaime,barrija01,2018.0,1050000.0,LA Angels,A2,False,720000.0,True,False,True
+357,17755,Drew Smith,27,44,46.0,0.0,smith,drew,smithdr01,2018.0,1300000.0,NY Mets,A3,False,720000.0,True,False,True
+358,16502,Ryan Yarbrough,29,20,80.0,0.0,yarbrough,ryan,yarbrry01,2018.0,3000000.0,Kansas City,A4,True,720000.0,True,True,False
+359,14874,Sam Moll,29,53,43.1,0.0,moll,sam,mollsa01,2017.0,725000.0,Oakland,,False,0.0,True,False,True
+360,17464,Jonathan Hernandez,24,29,30.1,0.0,hernández,jonathan,hernajo02,2019.0,995000.0,Texas,A2,False,720000.0,True,False,True
+361,17479,Jack Flaherty,25,9,36.0,0.0,flaherty,jack,flaheja01,2017.0,5400000.0,St. Louis,FA,False,0.0,True,True,False
+362,20778,Cristopher Sanchez,24,15,40.0,0.0,sánchez,cristopher,sanchcr01,2021.0,725000.0,Philadelphia,,False,0.0,False,False,True
+363,12572,Blake Treinen,33,5,5.0,0.0,treinen,blake,treinbl01,2014.0,8000000.0,LA Dodgers,opt,False,720000.0,True,False,True
+364,6107,Huascar Brazoban,31,27,32.0,0.0,brazobán,huascar,brazohu01,2022.0,724000.0,Miami,,False,0.0,False,False,True
+365,20349,Zack Kelly,26,13,13.2,0.0,kelly,zack,kellyza01,2022.0,723500.0,Boston,,False,0.0,False,False,True
+366,23221,Michael Grove,24,7,29.1,0.0,grove,michael,grovemi01,2022.0,722500.0,LA Dodgers,,False,0.0,False,False,True
+367,14706,Anthony Banda,27,32,26.2,0.0,banda,anthony,bandaan01,2017.0,850000.0,Washington,A1,False,720000.0,True,False,True
+368,20167,Kyle Muller,23,3,12.1,0.0,muller,kyle,mulleky01,2021.0,720000.0,Oakland,,False,0.0,False,True,False
+369,13470,Lucas Sims,27,6,6.2,0.0,sims,lucas,simslu01,2017.0,1267500.0,Cincinnati,A3,False,720000.0,True,False,True
+370,13293,Danny Coulombe,31,10,12.1,0.0,coulombe,danny,couloda01,2014.0,1000000.0,Baltimore,A3,False,720000.0,True,False,True
+371,24094,Ronny Henriquez,21,3,11.2,0.0,henriquez,ronny,henriro01,2022.0,720900.0,Minnesota,,False,0.0,False,False,True
+372,1157,Tommy Hunter,34,18,22.1,0.0,hunter,tommy,hunteto02,2008.0,1750000.0,NY Mets,FA,False,0.0,True,False,True
+373,11384,Tommy Kahnle,31,13,12.2,0.0,kahnle,tommy,kahnlto01,2014.0,5750000.0,NY Yankees,$5.750,False,5750000.0,True,False,True
+374,19482,Andrew Vasquez,27,10,8.2,0.0,vasquez,andrew,vasquan02,2018.0,723500.0,Philadelphia,,False,0.0,True,False,True
+375,13050,Anthony DeSclafani,31,5,19.0,0.0,desclafani,anthony,desclan01,2014.0,12000000.0,San Francisco,$12.000,False,12000000.0,True,True,False
+376,17264,Sam Coonrod,28,12,12.2,0.0,coonrod,sam,coonrsa01,2019.0,775000.0,NY Mets,A2,False,720000.0,True,False,True
+377,19800,Wil Crowe,26,60,76.0,-0.1,crowe,wil,crowewi01,2020.0,745000.0,Pittsburgh,A1,False,720000.0,False,False,True
+378,10058,Tyler Matzek,30,42,43.2,-0.1,matzek,tyler,matzety01,2014.0,1200000.0,Atlanta,$1.900,False,1900000.0,True,False,True
+379,14771,Emilio Pagan,30,59,63.0,-0.1,pagán,emilio,paganem01,2017.0,3500000.0,Minnesota,FA,False,0.0,True,False,True
+380,17735,Tyler Alexander,26,27,101.0,-0.1,alexander,tyler,alexaty01,2019.0,1875000.0,Detroit,A2,False,720000.0,True,False,True
+381,26221,Ryan Pepiot,23,9,36.1,-0.1,pepiot,ryan,pepiory01,2022.0,722500.0,LA Dodgers,,False,0.0,False,True,False
+382,15046,Trevor Gott,28,45,45.2,-0.1,gott,trevor,gotttr01,2015.0,1200000.0,Seattle,FA,False,0.0,True,False,True
+383,22717,Angel Zerpa,21,3,11.0,-0.1,zerpa,angel,zerpaan01,2021.0,721400.0,Kansas City,,False,0.0,False,False,True
+384,13767,JT Chargois,30,21,22.1,-0.1,chargois,j. t.,chargjt01,2016.0,850000.0,Miami,A2,False,720000.0,True,False,True
+385,24933,Andrew Wantz,25,42,50.1,-0.1,wantz,andrew,wantzan01,2021.0,740000.0,LA Angels,,False,0.0,False,False,True
+386,17485,Albert Abreu,25,33,38.2,-0.1,abreu,albert,abreual01,2020.0,738700.0,NY Yankees,,False,0.0,False,False,True
+387,13133,Derek Law,30,17,19.2,-0.1,law,derek,lawde01,2016.0,1000000.0,Cincinnati,A2,False,720000.0,True,False,True
+388,19330,Matthew Festa,28,53,54.0,-0.1,festa,matt,festama01,2018.0,725200.0,Seattle,,False,0.0,True,False,True
+389,20418,Josh Fleming,25,10,35.0,-0.1,fleming,josh,flemijo01,2020.0,727000.0,Tampa Bay,A1,False,720000.0,False,True,False
+390,19545,Stephen Nogosek,26,12,22.0,-0.1,nogosek,stephen,nogosst01,2019.0,730000.0,NY Mets,,False,0.0,True,False,True
+391,19742,Anthony Bender,26,22,19.1,-0.1,bender,anthony,bendean01,2021.0,738500.0,Miami,A1,True,720000.0,False,False,True
+392,18282,Jarlin Garcia,28,58,65.0,-0.1,garcía,jarlín,garcija04,2017.0,2500000.0,Pittsburgh,opt,False,720000.0,True,False,True
+393,16418,Blake Taylor,25,19,16.0,-0.1,taylor,blake,taylobl01,2020.0,830000.0,Houston,A2,False,720000.0,False,False,True
+394,14552,Jose Ruiz,26,63,60.2,-0.1,ruiz,josé,ruizjo01,2017.0,925000.0,Chi White Sox,A2,False,720000.0,True,False,True
+395,15256,Cole Sulser,31,39,34.0,-0.1,sulser,cole,sulseco01,2019.0,825000.0,Arizona,A2,False,720000.0,True,False,True
+396,14416,Yunior Marte,26,39,48.0,-0.1,marte,yunior,marteyu01,2022.0,725500.0,Philadelphia,,False,0.0,False,False,True
+397,20061,Kaleb Ort,29,25,28.1,-0.1,ort,kaleb,ortka01,2021.0,722000.0,Boston,,False,0.0,False,False,True
+398,18064,Phil Maton,28,67,65.2,-0.1,maton,phil,matonph01,2017.0,2550000.0,Houston,FA,False,0.0,True,False,True
+399,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,5250000.0,Texas,A2,False,720000.0,True,False,False
+400,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,5250000.0,Texas,FA,False,0.0,True,False,True
+401,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,5250000.0,LA Dodgers,A2,False,720000.0,True,False,False
+402,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,5250000.0,LA Dodgers,FA,False,0.0,True,False,True
+403,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,1500000.0,Texas,A2,False,720000.0,True,False,False
+404,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,1500000.0,Texas,FA,False,0.0,True,False,True
+405,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,1500000.0,LA Dodgers,A2,False,720000.0,True,False,False
+406,8048,Will Smith,31,65,59.0,-0.1,smith,will,smithwi04,2012.0,1500000.0,LA Dodgers,FA,False,0.0,True,False,True
+407,17948,Trent Thornton,27,32,46.0,-0.1,thornton,trent,thorntr01,2019.0,1000000.0,Toronto,A2,False,720000.0,True,True,False
+408,25595,Xzavion Curry,22,2,9.1,-0.1,curry,xzavion,curryxz01,2022.0,720100.0,Cleveland,,False,0.0,False,False,True
+409,21461,Cole Sands,23,11,30.2,-0.1,sands,cole,sandsco01,2022.0,723650.0,Minnesota,,False,0.0,False,False,True
+410,19407,Ronel Blanco,27,7,6.1,-0.1,blanco,ronel,blancro01,2022.0,721200.0,Houston,,False,0.0,False,False,True
+411,22713,Carlos Hernandez,24,27,56.0,-0.1,hernández,carlos,hernaca04,2020.0,730250.0,Kansas City,A1,True,720000.0,False,False,True
+412,27474,Max Meyer,22,2,6.0,-0.1,meyer,max,meyerma01,2022.0,721500.0,Miami,,False,0.0,False,False,True
+413,12178,Domingo Tapia,29,11,17.0,-0.1,tapia,domingo,tapiado01,2020.0,735000.0,San Diego,,False,0.0,False,False,True
+414,15036,Chase De Jong,27,42,71.2,-0.2,de jong,chase,dejonch01,2017.0,820000.0,Pittsburgh,A1,False,720000.0,True,False,True
+415,13942,Brent Suter,31,54,66.2,-0.2,suter,brent,suterbr01,2016.0,3000000.0,Colorado,FA,False,0.0,True,False,True
+416,19403,Colin Poche,27,65,58.2,-0.2,poche,colin,pocheco01,2019.0,1175000.0,Tampa Bay,A2,False,720000.0,True,False,True
+417,10233,Aroldis Chapman,33,43,36.1,-0.2,chapman,aroldis,chapmar01,2010.0,3750000.0,Kansas City,FA,False,0.0,True,False,True
+418,21023,Adrian Martinez,24,12,57.2,-0.2,martinez,adrián,martiad01,2022.0,720000.0,Oakland,,False,0.0,False,False,True
+419,12828,Andrew Kittredge,31,17,20.0,-0.2,kittredge,andrew,kittran01,2017.0,2075000.0,Tampa Bay,A3,False,720000.0,True,False,True
+420,25097,Garrett Hill,25,17,60.1,-0.2,hill,garrett,hillga02,2022.0,722300.0,Detroit,,False,0.0,False,False,True
+421,19990,Bryse Wilson,23,25,115.2,-0.2,wilson,bryse,wilsobr02,2018.0,732600.0,Milwaukee,A1,False,720000.0,True,True,False
+422,9073,Kirby Yates,34,9,7.0,-0.2,yates,kirby,yateski01,2014.0,6000000.0,Atlanta,$1.250,False,1250000.0,True,False,True
+423,19695,Connor Seabold,25,5,18.1,-0.2,seabold,connor,seaboco01,2021.0,722000.0,Colorado,,False,0.0,False,False,True
+424,20468,Huascar Ynoa,23,2,6.2,-0.2,ynoa,huascar,ynoahu01,2019.0,750000.0,Atlanta,A1,False,720000.0,True,False,True
+425,23460,Brandon Hughes,25,57,57.2,-0.3,hughes,brandon,hughebr01,2022.0,728000.0,Chi Cubs,,False,0.0,False,False,True
+426,21267,Jake Bird,25,38,47.2,-0.3,bird,jake,birdja01,2022.0,722000.0,Colorado,,False,0.0,False,False,True
+427,17292,Javy Guerra,25,18,18.0,-0.3,guerra,javy,guerrja02,2018.0,724500.0,Milwaukee,A1,False,720000.0,True,False,True
+428,19666,Jason Alexander,28,18,71.2,-0.3,alexander,jason,alexaja01,2022.0,732500.0,Milwaukee,,False,0.0,False,False,True
+429,20116,Calvin Faucher,25,22,21.1,-0.3,faucher,calvin,fauchca01,2022.0,721500.0,Tampa Bay,,False,0.0,False,False,True
+430,5114,Jeurys Familia,31,48,44.1,-0.3,familia,jeurys,familje01,2012.0,1500000.0,Oakland,FA,False,0.0,True,False,True
+431,19871,Tucker Davidson,25,12,52.0,-0.3,davidson,tucker,davidtu01,2020.0,740000.0,LA Angels,,False,0.0,False,False,True
+432,19179,Kirby Snead,26,46,44.2,-0.3,snead,kirby,sneadki01,2021.0,725000.0,Oakland,,False,0.0,False,False,True
+433,10855,Chasen Shreve,30,25,26.1,-0.3,shreve,chasen,shrevch01,2014.0,1250000.0,Detroit,FA,False,0.0,True,False,True
+434,21101,Dauri Moreta,25,35,38.1,-0.3,moreta,dauri,moretda01,2021.0,725000.0,Pittsburgh,,False,0.0,False,False,True
+435,21065,Thomas Szapucki,25,11,15.0,-0.3,szapucki,thomas,szaputh01,2021.0,723750.0,San Francisco,,False,0.0,False,False,True
+436,21761,Jose Marte,25,11,11.0,-0.3,marte,josé,martejo01,2021.0,730000.0,LA Angels,,False,0.0,False,False,True
+437,24930,Ethan Roberts,23,9,7.2,-0.3,roberts,ethan,roberet01,2022.0,721000.0,Chi Cubs,,False,0.0,False,False,True
+438,17783,Jake Brentz,26,8,5.1,-0.3,brentz,jake,brentja01,2021.0,850000.0,Kansas City,$1.050,False,1050000.0,False,False,True
+439,25942,Andrew Nardi,22,13,14.2,-0.4,nardi,andrew,nardian01,2022.0,723000.0,Miami,,False,0.0,False,False,True
+440,19278,Vladimir Gutierrez,25,10,36.2,-0.5,gutiérrez,vladimir,gutievl01,2021.0,730000.0,Cincinnati,A1,True,720000.0,False,False,True
+441,5003,Jake Diekman,34,70,57.2,-0.6,diekman,jake,diekmja01,2012.0,3500000.0,Chi White Sox,$1.000,False,1000000.0,True,False,True
+442,13424,Drew VerHagen,30,19,21.2,-0.6,verhagen,drew,verhadr01,2014.0,3000000.0,St. Louis,FA,False,0.0,True,False,True
+443,25636,Hunter Gaddis,23,2,7.1,-0.6,gaddis,hunter,gaddihu01,2022.0,720100.0,Cleveland,,False,0.0,False,False,True
+444,24580,Josiah Gray,23,28,148.2,-0.7,gray,josiah,grayjo03,2021.0,730000.0,Washington,,False,0.0,False,True,False
+445,20633,Yusei Kikuchi,30,32,100.2,-0.7,kikuchi,yusei,kikucyu01,2019.0,10000000.0,Toronto,$10.000,False,10000000.0,True,True,False
+446,23252,Spencer Howard,24,10,37.2,-0.7,howard,spencer,howarsp01,2020.0,733455.0,Texas,A1,False,720000.0,False,False,True
+447,19268,Justin Dunn,25,7,31.0,-0.7,dunn,justin,dunnju01,2019.0,900000.0,Cincinnati,A2,False,720000.0,True,False,True
+448,18694,Kolby Allard,23,10,21.0,-0.7,allard,kolby,allarko01,2018.0,750000.0,Atlanta,A1,False,720000.0,True,False,True
+449,17490,Genesis Cabrera,24,39,44.2,-0.8,cabrera,génesis,cabrege01,2019.0,950000.0,St. Louis,A2,False,720000.0,True,False,True
+450,16933,Elieser Hernandez,26,20,62.1,-0.9,hernández,elieser,hernael01,2018.0,1600000.0,NY Mets,A3,False,720000.0,True,False,True
+451,6986,Ian Kennedy,36,57,50.1,-1.0,kennedy,ian,kenneia01,2007.0,2250000.0,Texas,FA,False,0.0,True,False,True
+452,20132,Adam Oller,26,19,74.1,-1.1,oller,adam,ollerad01,2022.0,720000.0,Oakland,,False,0.0,False,False,True
